@@ -6,7 +6,7 @@ class Solution:
             if val not in ['.', '..', '']:
                 stack.append(val)
             else:
-                if val == '..':
-                    if stack:
-                        stack.pop()
+                if val == '..' and stack:
+                    stack.pop()
+                    
         return '/' + '/'.join(stack)
