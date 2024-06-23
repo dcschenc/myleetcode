@@ -9,32 +9,33 @@ class Node:
 """
 
 class Solution:
-    def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':        
+    def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':   
+        def dfs(node):
+            prev = None
+            while node:
+                if node.child is None:
+                    prev = node
+                    node = node.next
+                else:
+                    right = node.next
+                    node.next = node.child
+                    node.child.prev = node
+                    last_child = dfs(node.child)
+                    last_child.next = right
+                    if right:
+                        right.prev = last_child
+                    node.child = None
+                    node = right
+                    prev = last_child
+            return prev
+    
         if head is None:
             return head
-        node = head
-        self.get_childs(node)
+        # node = head
+        dfs(head)
         return head
         
     
-    def get_childs(self, node):
-        prev = None
-        while node:
-            if node.child is None:
-                prev = node
-                node = node.next
-            else:
-                right = node.next
-                node.next = node.child
-                node.child.prev = node
-                last_child = self.get_childs(node.child)
-                last_child.next = right
-                if right:
-                    right.prev = last_child
-                node.child = None
-                node = right
-                prev = last_child
-        return prev
 
         # if not head:
         #     return None
