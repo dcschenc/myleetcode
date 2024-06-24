@@ -15,17 +15,17 @@ class Solution:
         # Check if the first player's score is non-negative
         return dp(0, len(nums) - 1) >= 0
         
-        n = len(nums)
-        dp = [[0] * n for _ in range(n)]
-        for i in range(n):
-            dp[i][i] = nums[i]
+        # n = len(nums)
+        # dp = [[0] * n for _ in range(n)]
+        # for i in range(n):
+        #     dp[i][i] = nums[i]
         
-        for diff in range(1, n):
-            for left in range(n - diff):
-                right = left + diff
-                dp[left][right] = max(nums[left] - dp[left + 1][right], nums[right] - dp[left][right - 1])
+        # for diff in range(1, n):
+        #     for left in range(n - diff):
+        #         right = left + diff
+        #         dp[left][right] = max(nums[left] - dp[left + 1][right], nums[right] - dp[left][right - 1])
         
-        return dp[0][n - 1] >= 0
+        # return dp[0][n - 1] >= 0
 
 
         # @cache
