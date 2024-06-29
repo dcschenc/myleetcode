@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/dcschenc/myleetcode/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/dcschenc/myleetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,4 +197,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Number Theory
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
