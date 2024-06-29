@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/dcschenc/myleetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0952-word-subsets](https://github.com/dcschenc/myleetcode/tree/master/0952-word-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-word-subsets](https://github.com/dcschenc/myleetcode/tree/master/0952-word-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0952-word-subsets](https://github.com/dcschenc/myleetcode/tree/master/0952-word-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
