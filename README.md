@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0932-monotonic-array](https://github.com/dcschenc/myleetcode/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0931-maximum-frequency-stack](https://github.com/dcschenc/myleetcode/tree/master/0931-maximum-frequency-stack) |
+| [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
 ## Simulation
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/dcschenc/myleetcode/tree/master/0933-increasing-order-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
