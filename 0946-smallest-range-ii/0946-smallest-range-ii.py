@@ -1,8 +1,7 @@
 class Solution:
     # https://github.com/doocs/leetcode/tree/main/solution/0900-0999/0910.Smallest%20Range%20II
     def smallestRangeII(self, nums: List[int], k: int) -> int:
-        if not nums:
-            return 0
+        if not nums: return 0
 
         nums.sort()
         n = len(nums)
