@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0922-possible-bipartition](https://github.com/dcschenc/myleetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/dcschenc/myleetcode/tree/master/0945-snakes-and-ladders) |
+| [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
 ## Union Find
 |  |
 | ------- |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-all-possible-full-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0933-increasing-order-search-tree](https://github.com/dcschenc/myleetcode/tree/master/0933-increasing-order-search-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
 ## Binary Tree
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-all-possible-full-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0933-increasing-order-search-tree](https://github.com/dcschenc/myleetcode/tree/master/0933-increasing-order-search-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/dcschenc/myleetcode/tree/master/0931-maximum-frequency-stack) |
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
+| [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
 ## Ordered Set
 |  |
 | ------- |
