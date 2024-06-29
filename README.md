@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/dcschenc/myleetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 ## Hash Table
 |  |
 | ------- |
