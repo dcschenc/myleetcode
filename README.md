@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/dcschenc/myleetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
