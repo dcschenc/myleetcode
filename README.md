@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0932-monotonic-array](https://github.com/dcschenc/myleetcode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/dcschenc/myleetcode/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/dcschenc/myleetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/dcschenc/myleetcode/tree/master/0941-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/dcschenc/myleetcode/tree/master/0924-fair-candy-swap) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0941-sort-array-by-parity](https://github.com/dcschenc/myleetcode/tree/master/0941-sort-array-by-parity) |
 ## Geometry
 |  |
 | ------- |
