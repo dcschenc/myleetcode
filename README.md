@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/dcschenc/myleetcode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/dcschenc/myleetcode/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/dcschenc/myleetcode/tree/master/0931-maximum-frequency-stack) |
 | [0933-increasing-order-search-tree](https://github.com/dcschenc/myleetcode/tree/master/0933-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/dcschenc/myleetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
