@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dcschenc/myleetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/dcschenc/myleetcode/tree/master/0976-minimum-area-rectangle) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Geometry
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Number Theory
 |  |
 | ------- |
