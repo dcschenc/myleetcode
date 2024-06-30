@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/dcschenc/myleetcode/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
+| [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dcschenc/myleetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/dcschenc/myleetcode/tree/master/0969-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
 <!---LeetCode Topics End-->
