@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/dcschenc/myleetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0968-beautiful-array](https://github.com/dcschenc/myleetcode/tree/master/0968-beautiful-array) |
 | [0971-shortest-bridge](https://github.com/dcschenc/myleetcode/tree/master/0971-shortest-bridge) |
+| [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/dcschenc/myleetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Geometry
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/dcschenc/myleetcode/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/dcschenc/myleetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
+| [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Depth-First Search
 |  |
 | ------- |
