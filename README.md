@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/dcschenc/myleetcode/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1005-univalued-binary-tree) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Union Find
 |  |
 | ------- |
@@ -354,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
+## Backtracking
+|  |
+| ------- |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
