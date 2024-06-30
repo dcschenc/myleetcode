@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/dcschenc/myleetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/dcschenc/myleetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/dcschenc/myleetcode/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/dcschenc/myleetcode/tree/master/0933-increasing-order-search-tree) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,16 +148,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/dcschenc/myleetcode/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 ## Union Find
 |  |
 | ------- |
 | [0922-possible-bipartition](https://github.com/dcschenc/myleetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 ## Graph
 |  |
 | ------- |
 | [0922-possible-bipartition](https://github.com/dcschenc/myleetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
