@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-partition-array-into-disjoint-intervals](https://github.com/dcschenc/myleetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/dcschenc/myleetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dcschenc/myleetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0958-sort-array-by-parity-ii](https://github.com/dcschenc/myleetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dcschenc/myleetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/dcschenc/myleetcode/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/dcschenc/myleetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/dcschenc/myleetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/dcschenc/myleetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Geometry
 |  |
 | ------- |
