@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/dcschenc/myleetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/dcschenc/myleetcode/tree/master/0983-validate-stack-sequences) |
+| [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0961-long-pressed-name](https://github.com/dcschenc/myleetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
+| [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/dcschenc/myleetcode/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 ## Geometry
 |  |
 | ------- |
