@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/dcschenc/myleetcode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/dcschenc/myleetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dcschenc/myleetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1002-maximum-width-ramp](https://github.com/dcschenc/myleetcode/tree/master/1002-maximum-width-ramp) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/dcschenc/myleetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/dcschenc/myleetcode/tree/master/0983-validate-stack-sequences) |
+| [1002-maximum-width-ramp](https://github.com/dcschenc/myleetcode/tree/master/1002-maximum-width-ramp) |
 ## Design
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/dcschenc/myleetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/dcschenc/myleetcode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
