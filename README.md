@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/dcschenc/myleetcode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0971-shortest-bridge](https://github.com/dcschenc/myleetcode/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1005-univalued-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/dcschenc/myleetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/dcschenc/myleetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1005-univalued-binary-tree) |
 ## Recursion
 |  |
 | ------- |
