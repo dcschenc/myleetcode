@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dcschenc/myleetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/dcschenc/myleetcode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/dcschenc/myleetcode/tree/master/1006-vowel-spellchecker) |
+| [1009-pancake-sorting](https://github.com/dcschenc/myleetcode/tree/master/1009-pancake-sorting) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/dcschenc/myleetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
+| [1009-pancake-sorting](https://github.com/dcschenc/myleetcode/tree/master/1009-pancake-sorting) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/dcschenc/myleetcode/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/dcschenc/myleetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1009-pancake-sorting](https://github.com/dcschenc/myleetcode/tree/master/1009-pancake-sorting) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/dcschenc/myleetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1009-pancake-sorting](https://github.com/dcschenc/myleetcode/tree/master/1009-pancake-sorting) |
 ## Geometry
 |  |
 | ------- |
