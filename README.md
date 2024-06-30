@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/dcschenc/myleetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0968-beautiful-array](https://github.com/dcschenc/myleetcode/tree/master/0968-beautiful-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0956-number-of-music-playlists](https://github.com/dcschenc/myleetcode/tree/master/0956-number-of-music-playlists) |
+| [0968-beautiful-array](https://github.com/dcschenc/myleetcode/tree/master/0968-beautiful-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dcschenc/myleetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0968-beautiful-array](https://github.com/dcschenc/myleetcode/tree/master/0968-beautiful-array) |
 ## Tree
 |  |
 | ------- |
