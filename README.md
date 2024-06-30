@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/dcschenc/myleetcode/tree/master/0931-maximum-frequency-stack) |
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
 | [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
+| [0969-number-of-recent-calls](https://github.com/dcschenc/myleetcode/tree/master/0969-number-of-recent-calls) |
 ## Ordered Set
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/dcschenc/myleetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/dcschenc/myleetcode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/dcschenc/myleetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
