@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/dcschenc/myleetcode/tree/master/0976-minimum-area-rectangle) |
 | [0978-valid-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/dcschenc/myleetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0961-long-pressed-name](https://github.com/dcschenc/myleetcode/tree/master/0961-long-pressed-name) |
+| [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/dcschenc/myleetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
 | [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
+| [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 ## Depth-First Search
 |  |
 | ------- |
