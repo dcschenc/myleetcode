@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0956-number-of-music-playlists](https://github.com/dcschenc/myleetcode/tree/master/0956-number-of-music-playlists) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
