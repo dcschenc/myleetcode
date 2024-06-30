@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0990-verifying-an-alien-dictionary](https://github.com/dcschenc/myleetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/dcschenc/myleetcode/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0990-verifying-an-alien-dictionary](https://github.com/dcschenc/myleetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Simulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dcschenc/myleetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
+| [0990-verifying-an-alien-dictionary](https://github.com/dcschenc/myleetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Depth-First Search
 |  |
 | ------- |
