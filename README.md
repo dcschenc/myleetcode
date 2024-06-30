@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/dcschenc/myleetcode/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/dcschenc/myleetcode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [0965-unique-email-addresses](https://github.com/dcschenc/myleetcode/tree/master/0965-unique-email-addresses) |
 ## Depth-First Search
 |  |
 | ------- |
