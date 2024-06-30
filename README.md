@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/dcschenc/myleetcode/tree/master/0971-shortest-bridge) |
 | [0974-reorder-data-in-log-files](https://github.com/dcschenc/myleetcode/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/dcschenc/myleetcode/tree/master/0976-minimum-area-rectangle) |
+| [0978-valid-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
