@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/dcschenc/myleetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/dcschenc/myleetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1023-time-based-key-value-store](https://github.com/dcschenc/myleetcode/tree/master/1023-time-based-key-value-store) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/dcschenc/myleetcode/tree/master/0924-fair-candy-swap) |
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
+| [1023-time-based-key-value-store](https://github.com/dcschenc/myleetcode/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/dcschenc/myleetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/dcschenc/myleetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/dcschenc/myleetcode/tree/master/1006-vowel-spellchecker) |
+| [1023-time-based-key-value-store](https://github.com/dcschenc/myleetcode/tree/master/1023-time-based-key-value-store) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/dcschenc/myleetcode/tree/master/0947-online-election) |
 | [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [0969-number-of-recent-calls](https://github.com/dcschenc/myleetcode/tree/master/0969-number-of-recent-calls) |
+| [1023-time-based-key-value-store](https://github.com/dcschenc/myleetcode/tree/master/1023-time-based-key-value-store) |
 ## Ordered Set
 |  |
 | ------- |
