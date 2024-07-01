@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/dcschenc/myleetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/dcschenc/myleetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/dcschenc/myleetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/dcschenc/myleetcode/tree/master/0971-shortest-bridge) |
+| [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 ## String
 |  |
 | ------- |
@@ -392,8 +394,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 ## Quickselect
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
