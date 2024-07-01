@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-longest-turbulent-subarray](https://github.com/dcschenc/myleetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/dcschenc/myleetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/dcschenc/myleetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1008-binary-tree-cameras](https://github.com/dcschenc/myleetcode/tree/master/1008-binary-tree-cameras) |
+| [1020-longest-turbulent-subarray](https://github.com/dcschenc/myleetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/dcschenc/myleetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1020-longest-turbulent-subarray](https://github.com/dcschenc/myleetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
