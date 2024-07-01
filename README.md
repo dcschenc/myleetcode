@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/dcschenc/myleetcode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/dcschenc/myleetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/dcschenc/myleetcode/tree/master/1009-pancake-sorting) |
+| [1019-squares-of-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/dcschenc/myleetcode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Geometry
 |  |
 | ------- |
