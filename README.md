@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1005-univalued-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
