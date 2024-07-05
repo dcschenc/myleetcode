@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1040-maximum-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1040-maximum-binary-tree-ii) |
 ## Recursion
 |  |
 | ------- |
