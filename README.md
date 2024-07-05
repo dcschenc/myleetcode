@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dcschenc/myleetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/dcschenc/myleetcode/tree/master/1044-find-common-characters) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/dcschenc/myleetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/dcschenc/myleetcode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/dcschenc/myleetcode/tree/master/1002-maximum-width-ramp) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/dcschenc/myleetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Design
 |  |
 | ------- |
