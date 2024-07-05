@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/dcschenc/myleetcode/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1039-find-the-town-judge](https://github.com/dcschenc/myleetcode/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/dcschenc/myleetcode/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1039-find-the-town-judge](https://github.com/dcschenc/myleetcode/tree/master/1039-find-the-town-judge) |
 ## Simulation
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dcschenc/myleetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1039-find-the-town-judge](https://github.com/dcschenc/myleetcode/tree/master/1039-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
