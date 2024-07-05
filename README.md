@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/dcschenc/myleetcode/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1039-find-the-town-judge](https://github.com/dcschenc/myleetcode/tree/master/1039-find-the-town-judge) |
+| [1041-available-captures-for-rook](https://github.com/dcschenc/myleetcode/tree/master/1041-available-captures-for-rook) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/dcschenc/myleetcode/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/dcschenc/myleetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1041-available-captures-for-rook](https://github.com/dcschenc/myleetcode/tree/master/1041-available-captures-for-rook) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/dcschenc/myleetcode/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/dcschenc/myleetcode/tree/master/1036-rotting-oranges) |
+| [1041-available-captures-for-rook](https://github.com/dcschenc/myleetcode/tree/master/1041-available-captures-for-rook) |
 ## String
 |  |
 | ------- |
