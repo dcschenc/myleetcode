@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1039-find-the-town-judge](https://github.com/dcschenc/myleetcode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/dcschenc/myleetcode/tree/master/1041-available-captures-for-rook) |
+| [1044-find-common-characters](https://github.com/dcschenc/myleetcode/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1039-find-the-town-judge](https://github.com/dcschenc/myleetcode/tree/master/1039-find-the-town-judge) |
+| [1044-find-common-characters](https://github.com/dcschenc/myleetcode/tree/master/1044-find-common-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/dcschenc/myleetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dcschenc/myleetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1044-find-common-characters](https://github.com/dcschenc/myleetcode/tree/master/1044-find-common-characters) |
 ## Depth-First Search
 |  |
 | ------- |
