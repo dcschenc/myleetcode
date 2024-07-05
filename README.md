@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/dcschenc/myleetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/dcschenc/myleetcode/tree/master/1036-rotting-oranges) |
+| [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/dcschenc/myleetcode/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/dcschenc/myleetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/dcschenc/myleetcode/tree/master/1033-broken-calculator) |
+| [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/dcschenc/myleetcode/tree/master/1008-binary-tree-cameras) |
 | [1020-longest-turbulent-subarray](https://github.com/dcschenc/myleetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/dcschenc/myleetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Game Theory
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Quickselect
 |  |
 | ------- |
@@ -439,4 +444,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
+| [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
