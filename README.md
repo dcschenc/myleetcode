@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/dcschenc/myleetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1033-broken-calculator](https://github.com/dcschenc/myleetcode/tree/master/1033-broken-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/dcschenc/myleetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1026-string-without-aaa-or-bbb](https://github.com/dcschenc/myleetcode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1033-broken-calculator](https://github.com/dcschenc/myleetcode/tree/master/1033-broken-calculator) |
 ## Sorting
 |  |
 | ------- |
