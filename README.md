@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dcschenc/myleetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dcschenc/myleetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1052-campus-bikes](https://github.com/dcschenc/myleetcode/tree/master/1052-campus-bikes) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/dcschenc/myleetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dcschenc/myleetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dcschenc/myleetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dcschenc/myleetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-shortest-way-to-form-string](https://github.com/dcschenc/myleetcode/tree/master/1051-shortest-way-to-form-string) |
+| [1052-campus-bikes](https://github.com/dcschenc/myleetcode/tree/master/1052-campus-bikes) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/dcschenc/myleetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dcschenc/myleetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1052-campus-bikes](https://github.com/dcschenc/myleetcode/tree/master/1052-campus-bikes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
