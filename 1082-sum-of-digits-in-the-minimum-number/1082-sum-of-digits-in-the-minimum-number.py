@@ -7,7 +7,10 @@ class Solution:
         while min_num > 0:
             ans += min_num % 10
             min_num = min_num // 10
-        if ans%2 == 0:
-            return 1
-        else:
-            return 0
+
+        return 1 if ans % 2 == 0 else 0
+
+        # if ans%2 == 0:
+        #     return 1
+        # else:
+        #     return 0
