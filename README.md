@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dcschenc/myleetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-campus-bikes](https://github.com/dcschenc/myleetcode/tree/master/1052-campus-bikes) |
+| [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/dcschenc/myleetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dcschenc/myleetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/dcschenc/myleetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/dcschenc/myleetcode/tree/master/1033-broken-calculator) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1069-confusing-number](https://github.com/dcschenc/myleetcode/tree/master/1069-confusing-number) |
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dcschenc/myleetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-shortest-way-to-form-string](https://github.com/dcschenc/myleetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1052-campus-bikes](https://github.com/dcschenc/myleetcode/tree/master/1052-campus-bikes) |
+| [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dcschenc/myleetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1052-campus-bikes](https://github.com/dcschenc/myleetcode/tree/master/1052-campus-bikes) |
+| [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/dcschenc/myleetcode/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/dcschenc/myleetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1051-shortest-way-to-form-string](https://github.com/dcschenc/myleetcode/tree/master/1051-shortest-way-to-form-string) |
+| [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
 | [1078-remove-outermost-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
