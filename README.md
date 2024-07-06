@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1069-confusing-number](https://github.com/dcschenc/myleetcode/tree/master/1069-confusing-number) |
+| [1077-confusing-number-ii](https://github.com/dcschenc/myleetcode/tree/master/1077-confusing-number-ii) |
 | [1082-sum-of-digits-in-the-minimum-number](https://github.com/dcschenc/myleetcode/tree/master/1082-sum-of-digits-in-the-minimum-number) |
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1076-brace-expansion](https://github.com/dcschenc/myleetcode/tree/master/1076-brace-expansion) |
+| [1077-confusing-number-ii](https://github.com/dcschenc/myleetcode/tree/master/1077-confusing-number-ii) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 ## Quickselect
 |  |
