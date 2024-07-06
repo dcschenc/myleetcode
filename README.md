@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dcschenc/myleetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dcschenc/myleetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dcschenc/myleetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/dcschenc/myleetcode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/dcschenc/myleetcode/tree/master/1002-maximum-width-ramp) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/dcschenc/myleetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/dcschenc/myleetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dcschenc/myleetcode/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/dcschenc/myleetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/dcschenc/myleetcode/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
