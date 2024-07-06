@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1139-previous-permutation-with-one-swap](https://github.com/dcschenc/myleetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
+| [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
+| [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 ## Simulation
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-previous-permutation-with-one-swap](https://github.com/dcschenc/myleetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
+| [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 ## Geometry
 |  |
 | ------- |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
+| [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 ## Number Theory
 |  |
 | ------- |
