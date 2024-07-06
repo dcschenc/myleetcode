@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/dcschenc/myleetcode/tree/master/1105-uncrossed-lines) |
+| [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-moving-stones-until-consecutive](https://github.com/dcschenc/myleetcode/tree/master/1103-moving-stones-until-consecutive) |
+| [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/dcschenc/myleetcode/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
 ## Matrix
 |  |
 | ------- |
