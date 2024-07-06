@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/dcschenc/myleetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1051-shortest-way-to-form-string](https://github.com/dcschenc/myleetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dcschenc/myleetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dcschenc/myleetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dcschenc/myleetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
