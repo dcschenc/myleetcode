@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dcschenc/myleetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1075-index-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1075-index-pairs-of-a-string) |
+| [1076-brace-expansion](https://github.com/dcschenc/myleetcode/tree/master/1076-brace-expansion) |
 | [1078-remove-outermost-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/dcschenc/myleetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
+| [1076-brace-expansion](https://github.com/dcschenc/myleetcode/tree/master/1076-brace-expansion) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/dcschenc/myleetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Union Find
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1076-brace-expansion](https://github.com/dcschenc/myleetcode/tree/master/1076-brace-expansion) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 ## Quickselect
 |  |
