@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/dcschenc/myleetcode/tree/master/1033-broken-calculator) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1069-confusing-number](https://github.com/dcschenc/myleetcode/tree/master/1069-confusing-number) |
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-moving-stones-until-consecutive](https://github.com/dcschenc/myleetcode/tree/master/1103-moving-stones-until-consecutive) |
