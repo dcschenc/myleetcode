@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
+| [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/dcschenc/myleetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1063-best-sightseeing-pair](https://github.com/dcschenc/myleetcode/tree/master/1063-best-sightseeing-pair) |
+| [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 ## Game Theory
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/dcschenc/myleetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dcschenc/myleetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 ## Sorting
 |  |
 | ------- |
