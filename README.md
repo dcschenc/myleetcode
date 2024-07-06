@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dcschenc/myleetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/dcschenc/myleetcode/tree/master/1063-best-sightseeing-pair) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/dcschenc/myleetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/dcschenc/myleetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Bitmask
 |  |
 | ------- |
