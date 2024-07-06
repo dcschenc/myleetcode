@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/dcschenc/myleetcode/tree/master/1033-broken-calculator) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,10 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1063-best-sightseeing-pair](https://github.com/dcschenc/myleetcode/tree/master/1063-best-sightseeing-pair) |
 | [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
+| [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -518,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
