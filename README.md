@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/dcschenc/myleetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0922-possible-bipartition](https://github.com/dcschenc/myleetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/dcschenc/myleetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -625,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1135-customers-who-bought-all-products](https://github.com/dcschenc/myleetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/dcschenc/myleetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+## Topological Sort
+|  |
+| ------- |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/dcschenc/myleetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
 <!---LeetCode Topics End-->
