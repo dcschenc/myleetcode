@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/dcschenc/myleetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
+| [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
+| [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 ## Geometry
 |  |
 | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/dcschenc/myleetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 ## Number Theory
 |  |
 | ------- |
