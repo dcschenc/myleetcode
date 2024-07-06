@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dcschenc/myleetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dcschenc/myleetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1059-missing-element-in-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1059-missing-element-in-sorted-array) |
+| [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1087-longest-arithmetic-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 ## Linked List
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/dcschenc/myleetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/dcschenc/myleetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1063-best-sightseeing-pair](https://github.com/dcschenc/myleetcode/tree/master/1063-best-sightseeing-pair) |
 | [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-shortest-way-to-form-string](https://github.com/dcschenc/myleetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1053-minimize-rounding-error-to-meet-target](https://github.com/dcschenc/myleetcode/tree/master/1053-minimize-rounding-error-to-meet-target) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dcschenc/myleetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1078-remove-outermost-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
@@ -616,14 +619,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 ## Suffix Array
 |  |
 | ------- |
+| [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 ## Hash Function
 |  |
 | ------- |
+| [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 ## Database
 |  |
