@@ -583,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/dcschenc/myleetcode/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
