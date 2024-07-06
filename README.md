@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
+| [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 ## Simulation
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dcschenc/myleetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/dcschenc/myleetcode/tree/master/1156-occurrences-after-bigram) |
+| [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/dcschenc/myleetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
+| [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 ## Number Theory
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 ## Quickselect
 |  |
 | ------- |
