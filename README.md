@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/dcschenc/myleetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dcschenc/myleetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
+| [1121-partition-array-for-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1121-partition-array-for-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1105-uncrossed-lines](https://github.com/dcschenc/myleetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dcschenc/myleetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1121-partition-array-for-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1121-partition-array-for-maximum-sum) |
 ## Game Theory
 |  |
 | ------- |
