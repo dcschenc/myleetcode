@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dcschenc/myleetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
 ## Dynamic Programming
 |  |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/dcschenc/myleetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dcschenc/myleetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/dcschenc/myleetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/dcschenc/myleetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dcschenc/myleetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/dcschenc/myleetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 ## Recursion
 |  |
 | ------- |
