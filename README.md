@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/dcschenc/myleetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1074-high-five](https://github.com/dcschenc/myleetcode/tree/master/1074-high-five) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/dcschenc/myleetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1087-longest-arithmetic-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1076-brace-expansion](https://github.com/dcschenc/myleetcode/tree/master/1076-brace-expansion) |
 | [1078-remove-outermost-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/dcschenc/myleetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dcschenc/myleetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/dcschenc/myleetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dcschenc/myleetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/dcschenc/myleetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
