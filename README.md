@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/dcschenc/myleetcode/tree/master/1156-occurrences-after-bigram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
+| [1205-defanging-an-ip-address](https://github.com/dcschenc/myleetcode/tree/master/1205-defanging-an-ip-address) |
 ## Depth-First Search
 |  |
 | ------- |
