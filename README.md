@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 | [1082-sum-of-digits-in-the-minimum-number](https://github.com/dcschenc/myleetcode/tree/master/1082-sum-of-digits-in-the-minimum-number) |
 | [1083-two-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/1083-two-sum-less-than-k) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/dcschenc/myleetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1087-longest-arithmetic-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/dcschenc/myleetcode/tree/master/1074-high-five) |
 | [1075-index-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1075-index-pairs-of-a-string) |
 | [1083-two-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/1083-two-sum-less-than-k) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/dcschenc/myleetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/dcschenc/myleetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dcschenc/myleetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/dcschenc/myleetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Graph
 |  |
 | ------- |
