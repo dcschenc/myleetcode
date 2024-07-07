@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/dcschenc/myleetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dcschenc/myleetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1066-fixed-point](https://github.com/dcschenc/myleetcode/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/1083-two-sum-less-than-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 ## Linked List
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/dcschenc/myleetcode/tree/master/1041-available-captures-for-rook) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## String
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/dcschenc/myleetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dcschenc/myleetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/dcschenc/myleetcode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/dcschenc/myleetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
 | [1076-brace-expansion](https://github.com/dcschenc/myleetcode/tree/master/1076-brace-expansion) |
+| [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/dcschenc/myleetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -443,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dcschenc/myleetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/dcschenc/myleetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 ## Graph
 |  |
 | ------- |
@@ -576,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/dcschenc/myleetcode/tree/master/1074-high-five) |
+| [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1127-last-stone-weight](https://github.com/dcschenc/myleetcode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
