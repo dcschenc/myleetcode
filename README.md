@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dcschenc/myleetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1239-largest-1-bordered-square](https://github.com/dcschenc/myleetcode/tree/master/1239-largest-1-bordered-square) |
+| [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -282,11 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/dcschenc/myleetcode/tree/master/1239-largest-1-bordered-square) |
+| [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dcschenc/myleetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/dcschenc/myleetcode/tree/master/1206-corporate-flight-bookings) |
+| [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 ## Data Stream
 |  |
 | ------- |
