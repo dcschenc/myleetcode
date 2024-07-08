@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-new-users-daily-count](https://github.com/dcschenc/myleetcode/tree/master/1204-new-users-daily-count) |
 | [1214-highest-grade-for-each-student](https://github.com/dcschenc/myleetcode/tree/master/1214-highest-grade-for-each-student) |
 | [1215-reported-posts](https://github.com/dcschenc/myleetcode/tree/master/1215-reported-posts) |
+| [1225-active-businesses](https://github.com/dcschenc/myleetcode/tree/master/1225-active-businesses) |
 ## Topological Sort
 |  |
 | ------- |
