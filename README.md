@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dcschenc/myleetcode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1091-maximum-average-subtree](https://github.com/dcschenc/myleetcode/tree/master/1091-maximum-average-subtree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/dcschenc/myleetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-maximum-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1091-maximum-average-subtree](https://github.com/dcschenc/myleetcode/tree/master/1091-maximum-average-subtree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/dcschenc/myleetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dcschenc/myleetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/dcschenc/myleetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-maximum-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dcschenc/myleetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1091-maximum-average-subtree](https://github.com/dcschenc/myleetcode/tree/master/1091-maximum-average-subtree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/dcschenc/myleetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dcschenc/myleetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/dcschenc/myleetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
