@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/dcschenc/myleetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/dcschenc/myleetcode/tree/master/1039-find-the-town-judge) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/dcschenc/myleetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1101-parallel-courses](https://github.com/dcschenc/myleetcode/tree/master/1101-parallel-courses) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/dcschenc/myleetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Divide and Conquer
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/dcschenc/myleetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
+| [1101-parallel-courses](https://github.com/dcschenc/myleetcode/tree/master/1101-parallel-courses) |
 ## Probability and Statistics
 |  |
 | ------- |
