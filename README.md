@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dcschenc/myleetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/dcschenc/myleetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Game Theory
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Sorting
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dcschenc/myleetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dcschenc/myleetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Design
 |  |
 | ------- |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-number-of-valid-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
