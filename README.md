@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/dcschenc/myleetcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1248-binary-tree-coloring-game](https://github.com/dcschenc/myleetcode/tree/master/1248-binary-tree-coloring-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1248-binary-tree-coloring-game](https://github.com/dcschenc/myleetcode/tree/master/1248-binary-tree-coloring-game) |
 ## Binary Tree
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1248-binary-tree-coloring-game](https://github.com/dcschenc/myleetcode/tree/master/1248-binary-tree-coloring-game) |
 ## Recursion
 |  |
 | ------- |
