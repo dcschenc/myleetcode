@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
+| [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/dcschenc/myleetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
