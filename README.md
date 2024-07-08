@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1077-confusing-number-ii](https://github.com/dcschenc/myleetcode/tree/master/1077-confusing-number-ii) |
 | [1082-sum-of-digits-in-the-minimum-number](https://github.com/dcschenc/myleetcode/tree/master/1082-sum-of-digits-in-the-minimum-number) |
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
+| [1088-number-of-days-in-a-month](https://github.com/dcschenc/myleetcode/tree/master/1088-number-of-days-in-a-month) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-moving-stones-until-consecutive](https://github.com/dcschenc/myleetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
