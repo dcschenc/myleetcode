@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
 | [1117-as-far-from-land-as-possible](https://github.com/dcschenc/myleetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/dcschenc/myleetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/dcschenc/myleetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/dcschenc/myleetcode/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1095-two-city-scheduling) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/dcschenc/myleetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1139-previous-permutation-with-one-swap](https://github.com/dcschenc/myleetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/dcschenc/myleetcode/tree/master/1074-high-five) |
 | [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/dcschenc/myleetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/dcschenc/myleetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/dcschenc/myleetcode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
