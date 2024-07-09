@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dcschenc/myleetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1238-alphabet-board-path](https://github.com/dcschenc/myleetcode/tree/master/1238-alphabet-board-path) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/dcschenc/myleetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1238-alphabet-board-path](https://github.com/dcschenc/myleetcode/tree/master/1238-alphabet-board-path) |
 | [1250-longest-common-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/dcschenc/myleetcode/tree/master/1260-day-of-the-year) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/dcschenc/myleetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/dcschenc/myleetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/dcschenc/myleetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
