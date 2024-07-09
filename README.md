@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1280-diet-plan-performance](https://github.com/dcschenc/myleetcode/tree/master/1280-diet-plan-performance) |
 ## Hash Table
 |  |
 | ------- |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/dcschenc/myleetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1280-diet-plan-performance](https://github.com/dcschenc/myleetcode/tree/master/1280-diet-plan-performance) |
 ## Monotonic Stack
 |  |
 | ------- |
