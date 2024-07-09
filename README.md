@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1098-largest-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1098-largest-unique-number) |
 | [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1104-coloring-a-border](https://github.com/dcschenc/myleetcode/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/dcschenc/myleetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dcschenc/myleetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-two-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/1083-two-sum-less-than-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 ## Linked List
