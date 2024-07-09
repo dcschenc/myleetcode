@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-largest-1-bordered-square](https://github.com/dcschenc/myleetcode/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Game Theory
 |  |
 | ------- |
