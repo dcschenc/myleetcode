@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-market-analysis-i](https://github.com/dcschenc/myleetcode/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/dcschenc/myleetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1291-immediate-food-delivery-i](https://github.com/dcschenc/myleetcode/tree/master/1291-immediate-food-delivery-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/dcschenc/myleetcode/tree/master/1292-immediate-food-delivery-ii) |
 ## Topological Sort
 |  |
 | ------- |
