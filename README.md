@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/dcschenc/myleetcode/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/dcschenc/myleetcode/tree/master/1259-article-views-ii) |
 | [1268-market-analysis-i](https://github.com/dcschenc/myleetcode/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/dcschenc/myleetcode/tree/master/1278-product-price-at-a-given-date) |
 ## Topological Sort
 |  |
 | ------- |
