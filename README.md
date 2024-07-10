@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
 | [1132-before-and-after-puzzle](https://github.com/dcschenc/myleetcode/tree/master/1132-before-and-after-puzzle) |
+| [1134-shortest-distance-to-target-color](https://github.com/dcschenc/myleetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1139-previous-permutation-with-one-swap](https://github.com/dcschenc/myleetcode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
+| [1134-shortest-distance-to-target-color](https://github.com/dcschenc/myleetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 ## Linked List
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
+| [1134-shortest-distance-to-target-color](https://github.com/dcschenc/myleetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1196-filling-bookcase-shelves](https://github.com/dcschenc/myleetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
