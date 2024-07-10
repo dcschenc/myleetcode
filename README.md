@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1260-day-of-the-year](https://github.com/dcschenc/myleetcode/tree/master/1260-day-of-the-year) |
 | [1279-prime-arrangements](https://github.com/dcschenc/myleetcode/tree/master/1279-prime-arrangements) |
+| [1289-day-of-the-week](https://github.com/dcschenc/myleetcode/tree/master/1289-day-of-the-week) |
 ## Dynamic Programming
 |  |
 | ------- |
