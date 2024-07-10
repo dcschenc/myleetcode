@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-moving-stones-until-consecutive](https://github.com/dcschenc/myleetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1131-count-substrings-with-only-one-distinct-letter](https://github.com/dcschenc/myleetcode/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dcschenc/myleetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-design-file-system](https://github.com/dcschenc/myleetcode/tree/master/1125-design-file-system) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dcschenc/myleetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
+| [1131-count-substrings-with-only-one-distinct-letter](https://github.com/dcschenc/myleetcode/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dcschenc/myleetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/dcschenc/myleetcode/tree/master/1156-occurrences-after-bigram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
