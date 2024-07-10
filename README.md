@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1139-previous-permutation-with-one-swap](https://github.com/dcschenc/myleetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
+| [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/dcschenc/myleetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/dcschenc/myleetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1139-previous-permutation-with-one-swap](https://github.com/dcschenc/myleetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
+| [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/dcschenc/myleetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1132-before-and-after-puzzle](https://github.com/dcschenc/myleetcode/tree/master/1132-before-and-after-puzzle) |
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
+| [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/dcschenc/myleetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
