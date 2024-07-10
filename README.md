@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/dcschenc/myleetcode/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/dcschenc/myleetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/dcschenc/myleetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1328-monthly-transactions-ii](https://github.com/dcschenc/myleetcode/tree/master/1328-monthly-transactions-ii) |
 ## Topological Sort
 |  |
 | ------- |
