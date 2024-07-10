@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1280-diet-plan-performance](https://github.com/dcschenc/myleetcode/tree/master/1280-diet-plan-performance) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1287-distance-between-bus-stops](https://github.com/dcschenc/myleetcode/tree/master/1287-distance-between-bus-stops) |
 ## Hash Table
 |  |
 | ------- |
