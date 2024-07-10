@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1287-distance-between-bus-stops](https://github.com/dcschenc/myleetcode/tree/master/1287-distance-between-bus-stops) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/dcschenc/myleetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1299-k-concatenation-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1299-k-concatenation-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/dcschenc/myleetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1299-k-concatenation-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1299-k-concatenation-maximum-sum) |
 ## Game Theory
 |  |
 | ------- |
