@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/dcschenc/myleetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dcschenc/myleetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
