@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/dcschenc/myleetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/dcschenc/myleetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1142-minimum-knight-moves](https://github.com/dcschenc/myleetcode/tree/master/1142-minimum-knight-moves) |
+| [1151-stepping-numbers](https://github.com/dcschenc/myleetcode/tree/master/1151-stepping-numbers) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1076-brace-expansion](https://github.com/dcschenc/myleetcode/tree/master/1076-brace-expansion) |
 | [1077-confusing-number-ii](https://github.com/dcschenc/myleetcode/tree/master/1077-confusing-number-ii) |
+| [1151-stepping-numbers](https://github.com/dcschenc/myleetcode/tree/master/1151-stepping-numbers) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 ## Quickselect
 |  |
