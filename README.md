@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-immediate-food-delivery-i](https://github.com/dcschenc/myleetcode/tree/master/1291-immediate-food-delivery-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/dcschenc/myleetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/dcschenc/myleetcode/tree/master/1301-reformat-department-table) |
+| [1317-monthly-transactions-i](https://github.com/dcschenc/myleetcode/tree/master/1317-monthly-transactions-i) |
 ## Topological Sort
 |  |
 | ------- |
