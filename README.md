@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/dcschenc/myleetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/dcschenc/myleetcode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1142-minimum-knight-moves](https://github.com/dcschenc/myleetcode/tree/master/1142-minimum-knight-moves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
