@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1306-minimum-absolute-difference](https://github.com/dcschenc/myleetcode/tree/master/1306-minimum-absolute-difference) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1319-unique-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/dcschenc/myleetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1319-unique-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Simulation
 |  |
 | ------- |
