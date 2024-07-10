@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-diet-plan-performance](https://github.com/dcschenc/myleetcode/tree/master/1280-diet-plan-performance) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1287-distance-between-bus-stops](https://github.com/dcschenc/myleetcode/tree/master/1287-distance-between-bus-stops) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/dcschenc/myleetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/dcschenc/myleetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Game Theory
 |  |
 | ------- |
