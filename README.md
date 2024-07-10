@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/dcschenc/myleetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
+| [1132-before-and-after-puzzle](https://github.com/dcschenc/myleetcode/tree/master/1132-before-and-after-puzzle) |
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1139-previous-permutation-with-one-swap](https://github.com/dcschenc/myleetcode/tree/master/1139-previous-permutation-with-one-swap) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-single-row-keyboard](https://github.com/dcschenc/myleetcode/tree/master/1123-single-row-keyboard) |
 | [1125-design-file-system](https://github.com/dcschenc/myleetcode/tree/master/1125-design-file-system) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
+| [1132-before-and-after-puzzle](https://github.com/dcschenc/myleetcode/tree/master/1132-before-and-after-puzzle) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1098-largest-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1098-largest-unique-number) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/dcschenc/myleetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
+| [1132-before-and-after-puzzle](https://github.com/dcschenc/myleetcode/tree/master/1132-before-and-after-puzzle) |
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dcschenc/myleetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1131-count-substrings-with-only-one-distinct-letter](https://github.com/dcschenc/myleetcode/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
+| [1132-before-and-after-puzzle](https://github.com/dcschenc/myleetcode/tree/master/1132-before-and-after-puzzle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dcschenc/myleetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/dcschenc/myleetcode/tree/master/1156-occurrences-after-bigram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
