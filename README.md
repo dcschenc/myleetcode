@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/dcschenc/myleetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/dcschenc/myleetcode/tree/master/1150-two-sum-bsts) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Linked List
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/dcschenc/myleetcode/tree/master/1332-count-vowels-permutation) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/dcschenc/myleetcode/tree/master/1306-minimum-absolute-difference) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Geometry
 |  |
 | ------- |
