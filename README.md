@@ -962,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-monthly-transactions-ii](https://github.com/dcschenc/myleetcode/tree/master/1328-monthly-transactions-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/dcschenc/myleetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1339-team-scores-in-football-tournament](https://github.com/dcschenc/myleetcode/tree/master/1339-team-scores-in-football-tournament) |
+| [1377-number-of-comments-per-post](https://github.com/dcschenc/myleetcode/tree/master/1377-number-of-comments-per-post) |
 ## Topological Sort
 |  |
 | ------- |
