@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/dcschenc/myleetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/dcschenc/myleetcode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1164-missing-number-in-arithmetic-progression](https://github.com/dcschenc/myleetcode/tree/master/1164-missing-number-in-arithmetic-progression) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1131-count-substrings-with-only-one-distinct-letter](https://github.com/dcschenc/myleetcode/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dcschenc/myleetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1164-missing-number-in-arithmetic-progression](https://github.com/dcschenc/myleetcode/tree/master/1164-missing-number-in-arithmetic-progression) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
