@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1279-prime-arrangements](https://github.com/dcschenc/myleetcode/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/dcschenc/myleetcode/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/dcschenc/myleetcode/tree/master/1332-count-vowels-permutation) |
+| [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/dcschenc/myleetcode/tree/master/1103-moving-stones-until-consecutive) |
+| [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -940,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
+| [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Concurrency
 |  |
 | ------- |
