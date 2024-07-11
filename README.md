@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/dcschenc/myleetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dcschenc/myleetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Depth-First Search
 |  |
 | ------- |
