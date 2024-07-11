@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/dcschenc/myleetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1279-prime-arrangements](https://github.com/dcschenc/myleetcode/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/dcschenc/myleetcode/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Dynamic Programming
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/dcschenc/myleetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Matrix
 |  |
 | ------- |
