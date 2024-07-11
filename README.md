@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/dcschenc/myleetcode/tree/master/1260-day-of-the-year) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/dcschenc/myleetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-binary-tree-coloring-game](https://github.com/dcschenc/myleetcode/tree/master/1248-binary-tree-coloring-game) |
+| [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 ## Union Find
 |  |
@@ -978,4 +981,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/dcschenc/myleetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/dcschenc/myleetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
+## Interactive
+|  |
+| ------- |
+| [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
 <!---LeetCode Topics End-->
