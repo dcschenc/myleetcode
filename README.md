@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1166-toss-strange-coins](https://github.com/dcschenc/myleetcode/tree/master/1166-toss-strange-coins) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1175-array-transformation](https://github.com/dcschenc/myleetcode/tree/master/1175-array-transformation) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/dcschenc/myleetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/dcschenc/myleetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/dcschenc/myleetcode/tree/master/1041-available-captures-for-rook) |
 | [1119-robot-bounded-in-circle](https://github.com/dcschenc/myleetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1175-array-transformation](https://github.com/dcschenc/myleetcode/tree/master/1175-array-transformation) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
 | [1342-queens-that-can-attack-the-king](https://github.com/dcschenc/myleetcode/tree/master/1342-queens-that-can-attack-the-king) |
