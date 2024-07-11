@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
 | [1342-queens-that-can-attack-the-king](https://github.com/dcschenc/myleetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
