@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
 ## Hash Table
 |  |
 | ------- |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/dcschenc/myleetcode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1239-largest-1-bordered-square](https://github.com/dcschenc/myleetcode/tree/master/1239-largest-1-bordered-square) |
+| [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
 ## String
 |  |
 | ------- |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1077-confusing-number-ii](https://github.com/dcschenc/myleetcode/tree/master/1077-confusing-number-ii) |
 | [1151-stepping-numbers](https://github.com/dcschenc/myleetcode/tree/master/1151-stepping-numbers) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
+| [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
 ## Quickselect
 |  |
 | ------- |
