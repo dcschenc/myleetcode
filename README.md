@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1368-web-crawler-multithreaded](https://github.com/dcschenc/myleetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1368-web-crawler-multithreaded](https://github.com/dcschenc/myleetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Union Find
 |  |
 | ------- |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-print-foobar-alternately](https://github.com/dcschenc/myleetcode/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/dcschenc/myleetcode/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/dcschenc/myleetcode/tree/master/1216-print-zero-even-odd) |
+| [1368-web-crawler-multithreaded](https://github.com/dcschenc/myleetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
