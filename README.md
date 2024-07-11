@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dcschenc/myleetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/dcschenc/myleetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/dcschenc/myleetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/dcschenc/myleetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1280-diet-plan-performance](https://github.com/dcschenc/myleetcode/tree/master/1280-diet-plan-performance) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/dcschenc/myleetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Monotonic Stack
 |  |
 | ------- |
