@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-intersection-of-three-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1164-missing-number-in-arithmetic-progression](https://github.com/dcschenc/myleetcode/tree/master/1164-missing-number-in-arithmetic-progression) |
 | [1165-meeting-scheduler](https://github.com/dcschenc/myleetcode/tree/master/1165-meeting-scheduler) |
+| [1166-toss-strange-coins](https://github.com/dcschenc/myleetcode/tree/master/1166-toss-strange-coins) |
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1131-count-substrings-with-only-one-distinct-letter](https://github.com/dcschenc/myleetcode/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dcschenc/myleetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1164-missing-number-in-arithmetic-progression](https://github.com/dcschenc/myleetcode/tree/master/1164-missing-number-in-arithmetic-progression) |
+| [1166-toss-strange-coins](https://github.com/dcschenc/myleetcode/tree/master/1166-toss-strange-coins) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/dcschenc/myleetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/dcschenc/myleetcode/tree/master/1134-shortest-distance-to-target-color) |
+| [1166-toss-strange-coins](https://github.com/dcschenc/myleetcode/tree/master/1166-toss-strange-coins) |
 | [1178-valid-palindrome-iii](https://github.com/dcschenc/myleetcode/tree/master/1178-valid-palindrome-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/dcschenc/myleetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Probability and Statistics
 |  |
 | ------- |
+| [1166-toss-strange-coins](https://github.com/dcschenc/myleetcode/tree/master/1166-toss-strange-coins) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Concurrency
