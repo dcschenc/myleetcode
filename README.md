@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-smallest-common-region](https://github.com/dcschenc/myleetcode/tree/master/1190-smallest-common-region) |
 | [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
 | [1196-filling-bookcase-shelves](https://github.com/dcschenc/myleetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1200-remove-interval](https://github.com/dcschenc/myleetcode/tree/master/1200-remove-interval) |
 | [1206-corporate-flight-bookings](https://github.com/dcschenc/myleetcode/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
