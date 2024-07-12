@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1190-smallest-common-region](https://github.com/dcschenc/myleetcode/tree/master/1190-smallest-common-region) |
+| [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
 | [1196-filling-bookcase-shelves](https://github.com/dcschenc/myleetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/dcschenc/myleetcode/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1176-design-a-leaderboard](https://github.com/dcschenc/myleetcode/tree/master/1176-design-a-leaderboard) |
 | [1190-smallest-common-region](https://github.com/dcschenc/myleetcode/tree/master/1190-smallest-common-region) |
+| [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-valid-palindrome-iii](https://github.com/dcschenc/myleetcode/tree/master/1178-valid-palindrome-iii) |
 | [1189-encode-number](https://github.com/dcschenc/myleetcode/tree/master/1189-encode-number) |
 | [1190-smallest-common-region](https://github.com/dcschenc/myleetcode/tree/master/1190-smallest-common-region) |
+| [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/dcschenc/myleetcode/tree/master/1205-defanging-an-ip-address) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dcschenc/myleetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1238-alphabet-board-path](https://github.com/dcschenc/myleetcode/tree/master/1238-alphabet-board-path) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-path-with-maximum-minimum-value](https://github.com/dcschenc/myleetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/dcschenc/myleetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/dcschenc/myleetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
+| [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/dcschenc/myleetcode/tree/master/1380-number-of-closed-islands) |
 ## Graph
@@ -918,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1077-confusing-number-ii](https://github.com/dcschenc/myleetcode/tree/master/1077-confusing-number-ii) |
 | [1151-stepping-numbers](https://github.com/dcschenc/myleetcode/tree/master/1151-stepping-numbers) |
 | [1160-letter-tile-possibilities](https://github.com/dcschenc/myleetcode/tree/master/1160-letter-tile-possibilities) |
+| [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
 | [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Quickselect
