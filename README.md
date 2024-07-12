@@ -1022,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-team-scores-in-football-tournament](https://github.com/dcschenc/myleetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1377-number-of-comments-per-post](https://github.com/dcschenc/myleetcode/tree/master/1377-number-of-comments-per-post) |
 | [1390-average-selling-price](https://github.com/dcschenc/myleetcode/tree/master/1390-average-selling-price) |
+| [1399-page-recommendations](https://github.com/dcschenc/myleetcode/tree/master/1399-page-recommendations) |
 ## Topological Sort
 |  |
 | ------- |
