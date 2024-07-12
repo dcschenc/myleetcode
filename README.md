@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/dcschenc/myleetcode/tree/master/1390-average-selling-price) |
 | [1399-page-recommendations](https://github.com/dcschenc/myleetcode/tree/master/1399-page-recommendations) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/dcschenc/myleetcode/tree/master/1405-all-people-report-to-the-given-manager) |
+| [1415-students-and-examinations](https://github.com/dcschenc/myleetcode/tree/master/1415-students-and-examinations) |
 ## Topological Sort
 |  |
 | ------- |
