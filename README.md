@@ -1074,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-print-in-order](https://github.com/dcschenc/myleetcode/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/dcschenc/myleetcode/tree/master/1216-print-zero-even-odd) |
 | [1368-web-crawler-multithreaded](https://github.com/dcschenc/myleetcode/tree/master/1368-web-crawler-multithreaded) |
+| [1410-traffic-light-controlled-intersection](https://github.com/dcschenc/myleetcode/tree/master/1410-traffic-light-controlled-intersection) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
