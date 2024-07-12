@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/dcschenc/myleetcode/tree/master/1380-number-of-closed-islands) |
+| [1386-shift-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1386-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
 | [1342-queens-that-can-attack-the-king](https://github.com/dcschenc/myleetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1386-shift-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1386-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/dcschenc/myleetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/dcschenc/myleetcode/tree/master/1380-number-of-closed-islands) |
+| [1386-shift-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1386-shift-2d-grid) |
 ## String
 |  |
 | ------- |
