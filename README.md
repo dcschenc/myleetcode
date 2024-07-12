@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-encode-number](https://github.com/dcschenc/myleetcode/tree/master/1189-encode-number) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/dcschenc/myleetcode/tree/master/1195-distribute-candies-to-people) |
+| [1199-hexspeak](https://github.com/dcschenc/myleetcode/tree/master/1199-hexspeak) |
 | [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1260-day-of-the-year](https://github.com/dcschenc/myleetcode/tree/master/1260-day-of-the-year) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-encode-number](https://github.com/dcschenc/myleetcode/tree/master/1189-encode-number) |
 | [1190-smallest-common-region](https://github.com/dcschenc/myleetcode/tree/master/1190-smallest-common-region) |
 | [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
+| [1199-hexspeak](https://github.com/dcschenc/myleetcode/tree/master/1199-hexspeak) |
 | [1205-defanging-an-ip-address](https://github.com/dcschenc/myleetcode/tree/master/1205-defanging-an-ip-address) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dcschenc/myleetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1238-alphabet-board-path](https://github.com/dcschenc/myleetcode/tree/master/1238-alphabet-board-path) |
