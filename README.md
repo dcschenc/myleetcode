@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1449-print-words-vertically](https://github.com/dcschenc/myleetcode/tree/master/1449-print-words-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/dcschenc/myleetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1449-print-words-vertically](https://github.com/dcschenc/myleetcode/tree/master/1449-print-words-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/dcschenc/myleetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1449-print-words-vertically](https://github.com/dcschenc/myleetcode/tree/master/1449-print-words-vertically) |
 ## Depth-First Search
 |  |
 | ------- |
