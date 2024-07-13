@@ -963,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
+| [1212-sequential-digits](https://github.com/dcschenc/myleetcode/tree/master/1212-sequential-digits) |
 ## Backtracking
 |  |
 | ------- |
