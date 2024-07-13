@@ -1125,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-weather-type-in-each-country](https://github.com/dcschenc/myleetcode/tree/master/1425-weather-type-in-each-country) |
 | [1439-running-total-for-different-genders](https://github.com/dcschenc/myleetcode/tree/master/1439-running-total-for-different-genders) |
 | [1452-restaurant-growth](https://github.com/dcschenc/myleetcode/tree/master/1452-restaurant-growth) |
+| [1453-ads-performance](https://github.com/dcschenc/myleetcode/tree/master/1453-ads-performance) |
 ## Topological Sort
 |  |
 | ------- |
