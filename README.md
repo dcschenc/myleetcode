@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/dcschenc/myleetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Simulation
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Geometry
 |  |
 | ------- |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dcschenc/myleetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Union Find
 |  |
 | ------- |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-optimize-water-distribution-in-a-village](https://github.com/dcschenc/myleetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1177-tree-diameter](https://github.com/dcschenc/myleetcode/tree/master/1177-tree-diameter) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Divide and Conquer
 |  |
 | ------- |
