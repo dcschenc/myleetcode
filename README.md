@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/dcschenc/myleetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Depth-First Search
 |  |
 | ------- |
