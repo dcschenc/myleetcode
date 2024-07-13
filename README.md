@@ -1075,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-all-people-report-to-the-given-manager](https://github.com/dcschenc/myleetcode/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1415-students-and-examinations](https://github.com/dcschenc/myleetcode/tree/master/1415-students-and-examinations) |
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/dcschenc/myleetcode/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
+| [1425-weather-type-in-each-country](https://github.com/dcschenc/myleetcode/tree/master/1425-weather-type-in-each-country) |
 ## Topological Sort
 |  |
 | ------- |
