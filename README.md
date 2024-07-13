@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dcschenc/myleetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dcschenc/myleetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/dcschenc/myleetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1239-largest-1-bordered-square](https://github.com/dcschenc/myleetcode/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/dcschenc/myleetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/dcschenc/myleetcode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1150-two-sum-bsts](https://github.com/dcschenc/myleetcode/tree/master/1150-two-sum-bsts) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/dcschenc/myleetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/dcschenc/myleetcode/tree/master/1222-remove-covered-intervals) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/dcschenc/myleetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/dcschenc/myleetcode/tree/master/1306-minimum-absolute-difference) |
