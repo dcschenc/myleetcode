@@ -18,19 +18,19 @@ class Solution:
         list1, list2 = [], []
         dfs(root1, list1)
         dfs(root2, list2)
-        i, j = 0, 0
-        m, n = len(list1), len(list2)
-        res = []
-        while i < m and j < n:
-            if list1[i] <= list2[j]:
-                res.append(list1[i])
-                i += 1
-            else:
-                res.append(list2[j])
-                j += 1
-        # while i < m:
-        res.extend(list1[i:])
-        res.extend(list2[j:])
-        return res
-        
+        # i, j = 0, 0
+        # m, n = len(list1), len(list2)
+        # res = []
+        # while i < m and j < n:
+        #     if list1[i] <= list2[j]:
+        #         res.append(list1[i])
+        #         i += 1
+        #     else:
+        #         res.append(list2[j])
+        #         j += 1
+        # # while i < m:
+        # res.extend(list1[i:])
+        # res.extend(list2[j:])
+        # return res
+
         return sorted(list1 + list2)
