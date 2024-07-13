@@ -5,7 +5,7 @@ class Solution:
             num_digit = 1
             while num >= 10:
                 num_digit += 1
-                num = num/10
-            if num_digit%2 == 0:
+                num = num / 10
+            if num_digit % 2 == 0:
                 count += 1
         return count
