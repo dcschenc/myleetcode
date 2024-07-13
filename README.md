@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dcschenc/myleetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dcschenc/myleetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
 ## Union Find
 |  |
 | ------- |
