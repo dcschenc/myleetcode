@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dcschenc/myleetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dcschenc/myleetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/dcschenc/myleetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/dcschenc/myleetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Geometry
 |  |
 | ------- |
