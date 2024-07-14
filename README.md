@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dcschenc/myleetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dcschenc/myleetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Simulation
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/dcschenc/myleetcode/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dcschenc/myleetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Sorting
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dcschenc/myleetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Geometry
 |  |
 | ------- |
@@ -979,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Merge Sort
 |  |
 | ------- |
