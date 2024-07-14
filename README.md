@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dcschenc/myleetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dcschenc/myleetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dcschenc/myleetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dcschenc/myleetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Geometry
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dcschenc/myleetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-optimize-water-distribution-in-a-village](https://github.com/dcschenc/myleetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
