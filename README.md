@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dcschenc/myleetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1466-jump-game-v](https://github.com/dcschenc/myleetcode/tree/master/1466-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
 ## Geometry
 |  |
 | ------- |
@@ -945,10 +948,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-iterator-for-combination](https://github.com/dcschenc/myleetcode/tree/master/1211-iterator-for-combination) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
 ## Ordered Set
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/dcschenc/myleetcode/tree/master/0931-maximum-frequency-stack) |
+| [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
 ## Binary Search Tree
 |  |
 | ------- |
