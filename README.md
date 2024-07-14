@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/dcschenc/myleetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/dcschenc/myleetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1256-rank-transform-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1280-diet-plan-performance](https://github.com/dcschenc/myleetcode/tree/master/1280-diet-plan-performance) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dcschenc/myleetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1238-alphabet-board-path](https://github.com/dcschenc/myleetcode/tree/master/1238-alphabet-board-path) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
+| [1256-rank-transform-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/dcschenc/myleetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/dcschenc/myleetcode/tree/master/1222-remove-covered-intervals) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/dcschenc/myleetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/dcschenc/myleetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1256-rank-transform-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/dcschenc/myleetcode/tree/master/1306-minimum-absolute-difference) |
