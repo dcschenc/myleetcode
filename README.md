@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-binary-tree-coloring-game](https://github.com/dcschenc/myleetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1254-deepest-leaves-sum](https://github.com/dcschenc/myleetcode/tree/master/1254-deepest-leaves-sum) |
 | [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
+| [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1368-web-crawler-multithreaded](https://github.com/dcschenc/myleetcode/tree/master/1368-web-crawler-multithreaded) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dcschenc/myleetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/dcschenc/myleetcode/tree/master/1254-deepest-leaves-sum) |
 | [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
+| [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1368-web-crawler-multithreaded](https://github.com/dcschenc/myleetcode/tree/master/1368-web-crawler-multithreaded) |
 | [1380-number-of-closed-islands](https://github.com/dcschenc/myleetcode/tree/master/1380-number-of-closed-islands) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1100-connecting-cities-with-minimum-cost](https://github.com/dcschenc/myleetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/dcschenc/myleetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1191-synonymous-sentences](https://github.com/dcschenc/myleetcode/tree/master/1191-synonymous-sentences) |
+| [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/dcschenc/myleetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-optimize-water-distribution-in-a-village](https://github.com/dcschenc/myleetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1177-tree-diameter](https://github.com/dcschenc/myleetcode/tree/master/1177-tree-diameter) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dcschenc/myleetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -881,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dcschenc/myleetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/dcschenc/myleetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1254-deepest-leaves-sum](https://github.com/dcschenc/myleetcode/tree/master/1254-deepest-leaves-sum) |
+| [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/dcschenc/myleetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -916,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dcschenc/myleetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1248-binary-tree-coloring-game](https://github.com/dcschenc/myleetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1254-deepest-leaves-sum](https://github.com/dcschenc/myleetcode/tree/master/1254-deepest-leaves-sum) |
+| [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/dcschenc/myleetcode/tree/master/1450-delete-leaves-with-a-given-value) |
