@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1150-two-sum-bsts](https://github.com/dcschenc/myleetcode/tree/master/1150-two-sum-bsts) |
 | [1165-meeting-scheduler](https://github.com/dcschenc/myleetcode/tree/master/1165-meeting-scheduler) |
+| [1454-remove-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1454-remove-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/dcschenc/myleetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1449-print-words-vertically](https://github.com/dcschenc/myleetcode/tree/master/1449-print-words-vertically) |
+| [1454-remove-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1454-remove-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
