@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dcschenc/myleetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dcschenc/myleetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/dcschenc/myleetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1459-apply-discount-every-n-orders](https://github.com/dcschenc/myleetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1466-jump-game-v](https://github.com/dcschenc/myleetcode/tree/master/1466-jump-game-v) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1447-jump-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1447-jump-game-iv) |
+| [1459-apply-discount-every-n-orders](https://github.com/dcschenc/myleetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dcschenc/myleetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-iterator-for-combination](https://github.com/dcschenc/myleetcode/tree/master/1211-iterator-for-combination) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1459-apply-discount-every-n-orders](https://github.com/dcschenc/myleetcode/tree/master/1459-apply-discount-every-n-orders) |
 | [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dcschenc/myleetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Ordered Set
