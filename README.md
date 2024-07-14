@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1447-jump-game-iv) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dcschenc/myleetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1449-print-words-vertically](https://github.com/dcschenc/myleetcode/tree/master/1449-print-words-vertically) |
 | [1454-remove-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dcschenc/myleetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/dcschenc/myleetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dcschenc/myleetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Number Theory
 |  |
 | ------- |
