@@ -12,6 +12,8 @@ class Solution:
 
         sorted_nums = sorted(nums)
         ans = []
+        n = len(nums)
         for i, num in enumerate(nums):
-            ans.append(find_idx(num))   
+            # ans.append(find_idx(num))   
+            ans.append(bisect_left(sorted_nums, num))
         return ans
