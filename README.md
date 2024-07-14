@@ -1170,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-restaurant-growth](https://github.com/dcschenc/myleetcode/tree/master/1452-restaurant-growth) |
 | [1453-ads-performance](https://github.com/dcschenc/myleetcode/tree/master/1453-ads-performance) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/dcschenc/myleetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/dcschenc/myleetcode/tree/master/1480-movie-rating) |
 ## Topological Sort
 |  |
 | ------- |
