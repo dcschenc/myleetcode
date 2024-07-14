@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/dcschenc/myleetcode/tree/master/1449-print-words-vertically) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dcschenc/myleetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dcschenc/myleetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dcschenc/myleetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## Hash Table
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dcschenc/myleetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dcschenc/myleetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## Game Theory
 |  |
 | ------- |
