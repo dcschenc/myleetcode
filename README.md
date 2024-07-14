@@ -1223,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/dcschenc/myleetcode/tree/master/1480-movie-rating) |
 | [1481-students-with-invalid-departments](https://github.com/dcschenc/myleetcode/tree/master/1481-students-with-invalid-departments) |
 | [1494-activity-participants](https://github.com/dcschenc/myleetcode/tree/master/1494-activity-participants) |
+| [1495-number-of-trusted-contacts-of-a-customer](https://github.com/dcschenc/myleetcode/tree/master/1495-number-of-trusted-contacts-of-a-customer) |
 ## Topological Sort
 |  |
 | ------- |
