@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1260-day-of-the-year](https://github.com/dcschenc/myleetcode/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/dcschenc/myleetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1279-prime-arrangements](https://github.com/dcschenc/myleetcode/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/dcschenc/myleetcode/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1271-web-crawler](https://github.com/dcschenc/myleetcode/tree/master/1271-web-crawler) |
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1274-number-of-days-between-two-dates](https://github.com/dcschenc/myleetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/dcschenc/myleetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
