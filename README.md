@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/dcschenc/myleetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1447-jump-game-iv) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/dcschenc/myleetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Union Find
 |  |
 | ------- |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/dcschenc/myleetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
 | ------- |
