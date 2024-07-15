@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/dcschenc/myleetcode/tree/master/1466-jump-game-v) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1488-sort-integers-by-the-power-value](https://github.com/dcschenc/myleetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Game Theory
 |  |
 | ------- |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dcschenc/myleetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/dcschenc/myleetcode/tree/master/1483-rank-teams-by-votes) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1488-sort-integers-by-the-power-value](https://github.com/dcschenc/myleetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 ## Geometry
 |  |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/dcschenc/myleetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Stack
 |  |
 | ------- |
