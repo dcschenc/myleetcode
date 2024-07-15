@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/dcschenc/myleetcode/tree/master/1511-count-number-of-teams) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/dcschenc/myleetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/dcschenc/myleetcode/tree/master/1503-reducing-dishes) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Sorting
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/dcschenc/myleetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/dcschenc/myleetcode/tree/master/1503-reducing-dishes) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Geometry
 |  |
 | ------- |
