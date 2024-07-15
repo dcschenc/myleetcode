@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/dcschenc/myleetcode/tree/master/1511-count-number-of-teams) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dcschenc/myleetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1522-stone-game-iii) |
 ## Hash Table
@@ -1215,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dcschenc/myleetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dcschenc/myleetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Data Stream
 |  |
 | ------- |
