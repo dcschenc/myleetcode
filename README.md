@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1487-cinema-seat-allocation](https://github.com/dcschenc/myleetcode/tree/master/1487-cinema-seat-allocation) |
+| [1489-pizza-with-3n-slices](https://github.com/dcschenc/myleetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dcschenc/myleetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/dcschenc/myleetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1489-pizza-with-3n-slices](https://github.com/dcschenc/myleetcode/tree/master/1489-pizza-with-3n-slices) |
 ## Game Theory
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dcschenc/myleetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1487-cinema-seat-allocation](https://github.com/dcschenc/myleetcode/tree/master/1487-cinema-seat-allocation) |
+| [1489-pizza-with-3n-slices](https://github.com/dcschenc/myleetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 ## Sorting
 |  |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dcschenc/myleetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1489-pizza-with-3n-slices](https://github.com/dcschenc/myleetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 ## Merge Sort
 |  |
