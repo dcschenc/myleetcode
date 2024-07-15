@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dcschenc/myleetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/dcschenc/myleetcode/tree/master/1466-jump-game-v) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dcschenc/myleetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/dcschenc/myleetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/dcschenc/myleetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/dcschenc/myleetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Recursion
 |  |
