@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/dcschenc/myleetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1511-count-number-of-teams](https://github.com/dcschenc/myleetcode/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/dcschenc/myleetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1489-pizza-with-3n-slices](https://github.com/dcschenc/myleetcode/tree/master/1489-pizza-with-3n-slices) |
+| [1511-count-number-of-teams](https://github.com/dcschenc/myleetcode/tree/master/1511-count-number-of-teams) |
 ## Game Theory
 |  |
 | ------- |
@@ -1358,4 +1360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/dcschenc/myleetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
