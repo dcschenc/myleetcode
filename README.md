@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/dcschenc/myleetcode/tree/master/1472-increasing-decreasing-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dcschenc/myleetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1483-rank-teams-by-votes](https://github.com/dcschenc/myleetcode/tree/master/1483-rank-teams-by-votes) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/dcschenc/myleetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## Depth-First Search
 |  |
 | ------- |
