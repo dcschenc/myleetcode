@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dcschenc/myleetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1522-stone-game-iii) |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/dcschenc/myleetcode/tree/master/1512-design-underground-system) |
 | [1526-html-entity-parser](https://github.com/dcschenc/myleetcode/tree/master/1526-html-entity-parser) |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 ## Simulation
 |  |
 | ------- |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/dcschenc/myleetcode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 ## Geometry
 |  |
 | ------- |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dcschenc/myleetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1526-html-entity-parser](https://github.com/dcschenc/myleetcode/tree/master/1526-html-entity-parser) |
 | [1532-reformat-the-string](https://github.com/dcschenc/myleetcode/tree/master/1532-reformat-the-string) |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1087,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/dcschenc/myleetcode/tree/master/0931-maximum-frequency-stack) |
 | [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 ## Binary Search Tree
 |  |
 | ------- |
