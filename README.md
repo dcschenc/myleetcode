@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dcschenc/myleetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1483-rank-teams-by-votes](https://github.com/dcschenc/myleetcode/tree/master/1483-rank-teams-by-votes) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/dcschenc/myleetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1508-longest-happy-prefix](https://github.com/dcschenc/myleetcode/tree/master/1508-longest-happy-prefix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1241,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
+| [1508-longest-happy-prefix](https://github.com/dcschenc/myleetcode/tree/master/1508-longest-happy-prefix) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
+| [1508-longest-happy-prefix](https://github.com/dcschenc/myleetcode/tree/master/1508-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
@@ -1262,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
+| [1508-longest-happy-prefix](https://github.com/dcschenc/myleetcode/tree/master/1508-longest-happy-prefix) |
 ## Database
 |  |
 | ------- |
