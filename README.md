@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dcschenc/myleetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/dcschenc/myleetcode/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dcschenc/myleetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/dcschenc/myleetcode/tree/master/1470-tweet-counts-per-frequency) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1165-meeting-scheduler](https://github.com/dcschenc/myleetcode/tree/master/1165-meeting-scheduler) |
 | [1454-remove-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dcschenc/myleetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dcschenc/myleetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/dcschenc/myleetcode/tree/master/1483-rank-teams-by-votes) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 ## Geometry
 |  |
