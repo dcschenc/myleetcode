@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dcschenc/myleetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dcschenc/myleetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1526-html-entity-parser](https://github.com/dcschenc/myleetcode/tree/master/1526-html-entity-parser) |
+| [1532-reformat-the-string](https://github.com/dcschenc/myleetcode/tree/master/1532-reformat-the-string) |
 ## Depth-First Search
 |  |
 | ------- |
