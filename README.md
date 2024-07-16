@@ -1417,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/dcschenc/myleetcode/tree/master/1541-top-travellers) |
 | [1551-npv-queries](https://github.com/dcschenc/myleetcode/tree/master/1551-npv-queries) |
 | [1564-create-a-session-bar-chart](https://github.com/dcschenc/myleetcode/tree/master/1564-create-a-session-bar-chart) |
+| [1565-evaluate-boolean-expression](https://github.com/dcschenc/myleetcode/tree/master/1565-evaluate-boolean-expression) |
 ## Topological Sort
 |  |
 | ------- |
