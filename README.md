@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/dcschenc/myleetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dcschenc/myleetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/dcschenc/myleetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dcschenc/myleetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Union Find
 |  |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/dcschenc/myleetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1493-frog-position-after-t-seconds](https://github.com/dcschenc/myleetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dcschenc/myleetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dcschenc/myleetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
