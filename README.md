@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/dcschenc/myleetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dcschenc/myleetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/dcschenc/myleetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 ## Sorting
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/dcschenc/myleetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/dcschenc/myleetcode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/dcschenc/myleetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1539-diagonal-traverse-ii](https://github.com/dcschenc/myleetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Geometry
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dcschenc/myleetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dcschenc/myleetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1526-html-entity-parser](https://github.com/dcschenc/myleetcode/tree/master/1526-html-entity-parser) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/dcschenc/myleetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1532-reformat-the-string](https://github.com/dcschenc/myleetcode/tree/master/1532-reformat-the-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/dcschenc/myleetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
