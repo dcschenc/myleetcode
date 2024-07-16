@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dcschenc/myleetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dcschenc/myleetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dcschenc/myleetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-html-entity-parser](https://github.com/dcschenc/myleetcode/tree/master/1526-html-entity-parser) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1547-destination-city](https://github.com/dcschenc/myleetcode/tree/master/1547-destination-city) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/dcschenc/myleetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1522-stone-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dcschenc/myleetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1279,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dcschenc/myleetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dcschenc/myleetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dcschenc/myleetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Data Stream
 |  |
 | ------- |
@@ -1325,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/dcschenc/myleetcode/tree/master/1487-cinema-seat-allocation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dcschenc/myleetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dcschenc/myleetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Bitmask
 |  |
 | ------- |
