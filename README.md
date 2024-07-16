@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1532-reformat-the-string](https://github.com/dcschenc/myleetcode/tree/master/1532-reformat-the-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/dcschenc/myleetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/dcschenc/myleetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1228,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dcschenc/myleetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dcschenc/myleetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/dcschenc/myleetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Data Stream
 |  |
 | ------- |
