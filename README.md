@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1522-stone-game-iii) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/dcschenc/myleetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dcschenc/myleetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dcschenc/myleetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dcschenc/myleetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dcschenc/myleetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dcschenc/myleetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dcschenc/myleetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dcschenc/myleetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Data Stream
 |  |
 | ------- |
