@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dcschenc/myleetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/dcschenc/myleetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1547-destination-city](https://github.com/dcschenc/myleetcode/tree/master/1547-destination-city) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dcschenc/myleetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 ## Hash Table
 |  |
 | ------- |
