@@ -1460,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1565-evaluate-boolean-expression](https://github.com/dcschenc/myleetcode/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/dcschenc/myleetcode/tree/master/1578-apples-oranges) |
 | [1579-active-users](https://github.com/dcschenc/myleetcode/tree/master/1579-active-users) |
+| [1607-rectangles-area](https://github.com/dcschenc/myleetcode/tree/master/1607-rectangles-area) |
 ## Topological Sort
 |  |
 | ------- |
