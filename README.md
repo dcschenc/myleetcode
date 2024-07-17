@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/dcschenc/myleetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dcschenc/myleetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/dcschenc/myleetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dcschenc/myleetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Union Find
 |  |
 | ------- |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dcschenc/myleetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 ## Recursion
 |  |
 | ------- |
