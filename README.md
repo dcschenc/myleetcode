@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dcschenc/myleetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
