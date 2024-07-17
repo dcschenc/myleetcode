@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/dcschenc/myleetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dcschenc/myleetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/dcschenc/myleetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dcschenc/myleetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dcschenc/myleetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/dcschenc/myleetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Geometry
 |  |
 | ------- |
