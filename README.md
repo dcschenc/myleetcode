@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1583-paint-house-iii](https://github.com/dcschenc/myleetcode/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dcschenc/myleetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/dcschenc/myleetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1558-course-schedule-iv](https://github.com/dcschenc/myleetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dcschenc/myleetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1444,12 +1446,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 | [1610-xor-operation-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Bitmask
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dcschenc/myleetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 ## Trie
 |  |
 | ------- |
