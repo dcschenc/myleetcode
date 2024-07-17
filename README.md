@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dcschenc/myleetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1571-allocate-mailboxes](https://github.com/dcschenc/myleetcode/tree/master/1571-allocate-mailboxes) |
+| [1610-xor-operation-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1424,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1610-xor-operation-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Bitmask
 |  |
 | ------- |
