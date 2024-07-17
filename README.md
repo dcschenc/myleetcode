@@ -1593,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/dcschenc/myleetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/dcschenc/myleetcode/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/dcschenc/myleetcode/tree/master/1641-countries-you-can-safely-invest-in) |
+| [1654-customer-order-frequency](https://github.com/dcschenc/myleetcode/tree/master/1654-customer-order-frequency) |
 ## Topological Sort
 |  |
 | ------- |
