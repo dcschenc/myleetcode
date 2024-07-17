@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/dcschenc/myleetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 ## Simulation
 |  |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-minimum-number-of-frogs-croaking](https://github.com/dcschenc/myleetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dcschenc/myleetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/dcschenc/myleetcode/tree/master/1547-destination-city) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/dcschenc/myleetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1363,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dcschenc/myleetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dcschenc/myleetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Bitmask
 |  |
@@ -1395,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 | [1508-longest-happy-prefix](https://github.com/dcschenc/myleetcode/tree/master/1508-longest-happy-prefix) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Suffix Array
 |  |
 | ------- |
@@ -1406,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1060-longest-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/dcschenc/myleetcode/tree/master/1122-longest-duplicate-substring) |
 | [1508-longest-happy-prefix](https://github.com/dcschenc/myleetcode/tree/master/1508-longest-happy-prefix) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Database
 |  |
 | ------- |
