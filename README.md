@@ -1553,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1607-rectangles-area](https://github.com/dcschenc/myleetcode/tree/master/1607-rectangles-area) |
 | [1608-calculate-salaries](https://github.com/dcschenc/myleetcode/tree/master/1608-calculate-salaries) |
 | [1625-group-sold-products-by-the-date](https://github.com/dcschenc/myleetcode/tree/master/1625-group-sold-products-by-the-date) |
+| [1639-friendly-movies-streamed-last-month](https://github.com/dcschenc/myleetcode/tree/master/1639-friendly-movies-streamed-last-month) |
 ## Topological Sort
 |  |
 | ------- |
