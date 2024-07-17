@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1611-making-file-names-unique](https://github.com/dcschenc/myleetcode/tree/master/1611-making-file-names-unique) |
 | [1612-avoid-flood-in-the-city](https://github.com/dcschenc/myleetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1619-path-crossing](https://github.com/dcschenc/myleetcode/tree/master/1619-path-crossing) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 ## Simulation
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dcschenc/myleetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1611-making-file-names-unique](https://github.com/dcschenc/myleetcode/tree/master/1611-making-file-names-unique) |
+| [1619-path-crossing](https://github.com/dcschenc/myleetcode/tree/master/1619-path-crossing) |
 ## Depth-First Search
 |  |
 | ------- |
