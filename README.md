@@ -1481,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-apples-oranges](https://github.com/dcschenc/myleetcode/tree/master/1578-apples-oranges) |
 | [1579-active-users](https://github.com/dcschenc/myleetcode/tree/master/1579-active-users) |
 | [1607-rectangles-area](https://github.com/dcschenc/myleetcode/tree/master/1607-rectangles-area) |
+| [1608-calculate-salaries](https://github.com/dcschenc/myleetcode/tree/master/1608-calculate-salaries) |
 ## Topological Sort
 |  |
 | ------- |
