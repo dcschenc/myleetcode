@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
 | [1583-paint-house-iii](https://github.com/dcschenc/myleetcode/tree/master/1583-paint-house-iii) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dcschenc/myleetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/dcschenc/myleetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dcschenc/myleetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/dcschenc/myleetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1581-the-k-strongest-values-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dcschenc/myleetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Geometry
 |  |
