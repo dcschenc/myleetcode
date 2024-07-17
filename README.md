@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/dcschenc/myleetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dcschenc/myleetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1611-making-file-names-unique](https://github.com/dcschenc/myleetcode/tree/master/1611-making-file-names-unique) |
 ## Hash Table
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/dcschenc/myleetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1611-making-file-names-unique](https://github.com/dcschenc/myleetcode/tree/master/1611-making-file-names-unique) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 ## Simulation
 |  |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/dcschenc/myleetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dcschenc/myleetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1611-making-file-names-unique](https://github.com/dcschenc/myleetcode/tree/master/1611-making-file-names-unique) |
 ## Depth-First Search
 |  |
 | ------- |
