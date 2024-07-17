@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/dcschenc/myleetcode/tree/master/1580-shuffle-the-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
+| [1583-paint-house-iii](https://github.com/dcschenc/myleetcode/tree/master/1583-paint-house-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/dcschenc/myleetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/dcschenc/myleetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1583-paint-house-iii](https://github.com/dcschenc/myleetcode/tree/master/1583-paint-house-iii) |
 ## Game Theory
 |  |
 | ------- |
