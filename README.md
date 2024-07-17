@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
+| [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
 ## Simulation
 |  |
 | ------- |
@@ -1239,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/dcschenc/myleetcode/tree/master/1512-design-underground-system) |
 | [1572-subrectangle-queries](https://github.com/dcschenc/myleetcode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
+| [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dcschenc/myleetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/dcschenc/myleetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1412,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-first-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1366-first-unique-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dcschenc/myleetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
+| [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
 ## Enumeration
 |  |
 | ------- |
