@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1571-allocate-mailboxes](https://github.com/dcschenc/myleetcode/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/dcschenc/myleetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1617-stone-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1617-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1583-paint-house-iii](https://github.com/dcschenc/myleetcode/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dcschenc/myleetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
+| [1617-stone-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Game Theory
 |  |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/dcschenc/myleetcode/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1617-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
