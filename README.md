@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-making-file-names-unique](https://github.com/dcschenc/myleetcode/tree/master/1611-making-file-names-unique) |
 | [1612-avoid-flood-in-the-city](https://github.com/dcschenc/myleetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dcschenc/myleetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dcschenc/myleetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
