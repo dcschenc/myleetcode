@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/dcschenc/myleetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dcschenc/myleetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1571-allocate-mailboxes](https://github.com/dcschenc/myleetcode/tree/master/1571-allocate-mailboxes) |
 | [1572-subrectangle-queries](https://github.com/dcschenc/myleetcode/tree/master/1572-subrectangle-queries) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dcschenc/myleetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1571-allocate-mailboxes](https://github.com/dcschenc/myleetcode/tree/master/1571-allocate-mailboxes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/dcschenc/myleetcode/tree/master/1545-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/dcschenc/myleetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1571-allocate-mailboxes](https://github.com/dcschenc/myleetcode/tree/master/1571-allocate-mailboxes) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1583-paint-house-iii](https://github.com/dcschenc/myleetcode/tree/master/1583-paint-house-iii) |
 ## Game Theory
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/dcschenc/myleetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1571-allocate-mailboxes](https://github.com/dcschenc/myleetcode/tree/master/1571-allocate-mailboxes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/dcschenc/myleetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1581-the-k-strongest-values-in-an-array) |
