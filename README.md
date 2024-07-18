@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/dcschenc/myleetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/dcschenc/myleetcode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/dcschenc/myleetcode/tree/master/1656-count-good-triplets) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 ## Hash Table
 |  |
@@ -1484,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1212-sequential-digits](https://github.com/dcschenc/myleetcode/tree/master/1212-sequential-digits) |
+| [1656-count-good-triplets](https://github.com/dcschenc/myleetcode/tree/master/1656-count-good-triplets) |
 ## Backtracking
 |  |
 | ------- |
