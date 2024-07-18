@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/dcschenc/myleetcode/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 | [1635-number-of-good-pairs](https://github.com/dcschenc/myleetcode/tree/master/1635-number-of-good-pairs) |
 | [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dcschenc/myleetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1611-making-file-names-unique](https://github.com/dcschenc/myleetcode/tree/master/1611-making-file-names-unique) |
 | [1619-path-crossing](https://github.com/dcschenc/myleetcode/tree/master/1619-path-crossing) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dcschenc/myleetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Depth-First Search
 |  |
@@ -1507,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 | [1610-xor-operation-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 ## Bitmask
 |  |
