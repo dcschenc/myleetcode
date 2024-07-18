@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/dcschenc/myleetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/dcschenc/myleetcode/tree/master/1656-count-good-triplets) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/dcschenc/myleetcode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dcschenc/myleetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 ## Hash Table
 |  |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dcschenc/myleetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-minimum-suffix-flips](https://github.com/dcschenc/myleetcode/tree/master/1652-minimum-suffix-flips) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dcschenc/myleetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/dcschenc/myleetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1572-subrectangle-queries](https://github.com/dcschenc/myleetcode/tree/master/1572-subrectangle-queries) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dcschenc/myleetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## String
 |  |
 | ------- |
