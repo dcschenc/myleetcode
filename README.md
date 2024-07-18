@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/dcschenc/myleetcode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/dcschenc/myleetcode/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/dcschenc/myleetcode/tree/master/1619-path-crossing) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dcschenc/myleetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1651-shuffle-string](https://github.com/dcschenc/myleetcode/tree/master/1651-shuffle-string) |
 ## Depth-First Search
 |  |
 | ------- |
