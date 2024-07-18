@@ -1000,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
+| [1665-diameter-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1665-diameter-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
+| [1665-diameter-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1665-diameter-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
