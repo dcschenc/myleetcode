@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 | [1635-number-of-good-pairs](https://github.com/dcschenc/myleetcode/tree/master/1635-number-of-good-pairs) |
 | [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 ## Simulation
 |  |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Union Find
 |  |
 | ------- |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 ## Binary Tree
 |  |
@@ -1399,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/dcschenc/myleetcode/tree/master/1635-number-of-good-pairs) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Number Theory
 |  |
 | ------- |
