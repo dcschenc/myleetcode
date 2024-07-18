@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/dcschenc/myleetcode/tree/master/1306-minimum-absolute-difference) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/dcschenc/myleetcode/tree/master/1325-path-with-maximum-probability) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-tree-diameter](https://github.com/dcschenc/myleetcode/tree/master/1177-tree-diameter) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1325-path-with-maximum-probability](https://github.com/dcschenc/myleetcode/tree/master/1325-path-with-maximum-probability) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dcschenc/myleetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1339,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1286-constrained-subsequence-sum](https://github.com/dcschenc/myleetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1304-longest-happy-string](https://github.com/dcschenc/myleetcode/tree/master/1304-longest-happy-string) |
+| [1325-path-with-maximum-probability](https://github.com/dcschenc/myleetcode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/dcschenc/myleetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -1639,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/dcschenc/myleetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Indexed Tree
