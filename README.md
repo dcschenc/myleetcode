@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/dcschenc/myleetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/dcschenc/myleetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/dcschenc/myleetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/dcschenc/myleetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dcschenc/myleetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Sorting
 |  |
 | ------- |
@@ -1263,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dcschenc/myleetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Design
 |  |
 | ------- |
@@ -1341,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dcschenc/myleetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
