@@ -1014,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/dcschenc/myleetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1665-diameter-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1665-diameter-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/dcschenc/myleetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1665-diameter-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1665-diameter-of-n-ary-tree) |
 ## Binary Tree
 |  |
@@ -1232,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/dcschenc/myleetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Recursion
 |  |
 | ------- |
