@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/dcschenc/myleetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/dcschenc/myleetcode/tree/master/1646-kth-missing-positive-number) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/dcschenc/myleetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1651-shuffle-string](https://github.com/dcschenc/myleetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/dcschenc/myleetcode/tree/master/1656-count-good-triplets) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/dcschenc/myleetcode/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1647-can-convert-string-in-k-moves](https://github.com/dcschenc/myleetcode/tree/master/1647-can-convert-string-in-k-moves) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/dcschenc/myleetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 ## Simulation
 |  |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dcschenc/myleetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dcschenc/myleetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/dcschenc/myleetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1652-minimum-suffix-flips](https://github.com/dcschenc/myleetcode/tree/master/1652-minimum-suffix-flips) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dcschenc/myleetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## Sorting
@@ -1486,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dcschenc/myleetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/dcschenc/myleetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/dcschenc/myleetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Data Stream
 |  |
 | ------- |
