@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dcschenc/myleetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/dcschenc/myleetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dcschenc/myleetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dcschenc/myleetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/dcschenc/myleetcode/tree/master/1646-kth-missing-positive-number) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dcschenc/myleetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dcschenc/myleetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/dcschenc/myleetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/dcschenc/myleetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dcschenc/myleetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Geometry
 |  |
 | ------- |
