@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/dcschenc/myleetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dcschenc/myleetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1687-the-most-similar-path-in-a-graph](https://github.com/dcschenc/myleetcode/tree/master/1687-the-most-similar-path-in-a-graph) |
 ## Game Theory
 |  |
@@ -1274,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/dcschenc/myleetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/dcschenc/myleetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/dcschenc/myleetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dcschenc/myleetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Stack
 |  |
 | ------- |
