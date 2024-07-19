@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dcschenc/myleetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dcschenc/myleetcode/tree/master/1682-most-visited-sector-in-a-circular-track) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Hash Table
 |  |
 | ------- |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/dcschenc/myleetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/dcschenc/myleetcode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1617-stone-game-iv) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Greedy
 |  |
 | ------- |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-minimum-suffix-flips](https://github.com/dcschenc/myleetcode/tree/master/1652-minimum-suffix-flips) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dcschenc/myleetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/dcschenc/myleetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sorting
 |  |
 | ------- |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/dcschenc/myleetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/dcschenc/myleetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dcschenc/myleetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Geometry
 |  |
 | ------- |
