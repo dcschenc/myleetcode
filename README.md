@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/dcschenc/myleetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dcschenc/myleetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dcschenc/myleetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1652-minimum-suffix-flips](https://github.com/dcschenc/myleetcode/tree/master/1652-minimum-suffix-flips) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dcschenc/myleetcode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## Sorting
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dcschenc/myleetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-can-convert-string-in-k-moves](https://github.com/dcschenc/myleetcode/tree/master/1647-can-convert-string-in-k-moves) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dcschenc/myleetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/dcschenc/myleetcode/tree/master/1651-shuffle-string) |
 | [1652-minimum-suffix-flips](https://github.com/dcschenc/myleetcode/tree/master/1652-minimum-suffix-flips) |
 ## Depth-First Search
@@ -1286,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dcschenc/myleetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
