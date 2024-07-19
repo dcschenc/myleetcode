@@ -1651,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-customer-order-frequency](https://github.com/dcschenc/myleetcode/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/dcschenc/myleetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1671-the-most-recent-three-orders](https://github.com/dcschenc/myleetcode/tree/master/1671-the-most-recent-three-orders) |
+| [1686-fix-product-name-format](https://github.com/dcschenc/myleetcode/tree/master/1686-fix-product-name-format) |
 ## Topological Sort
 |  |
 | ------- |
