@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/dcschenc/myleetcode/tree/master/1685-stone-game-v) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/dcschenc/myleetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dcschenc/myleetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Hash Table
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/dcschenc/myleetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Simulation
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/dcschenc/myleetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dcschenc/myleetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dcschenc/myleetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Math
 |  |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-number-of-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/dcschenc/myleetcode/tree/master/1685-stone-game-v) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
