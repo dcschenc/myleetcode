@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/dcschenc/myleetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/dcschenc/myleetcode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/dcschenc/myleetcode/tree/master/1685-stone-game-v) |
 ## Dynamic Programming
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/dcschenc/myleetcode/tree/master/1651-shuffle-string) |
 | [1652-minimum-suffix-flips](https://github.com/dcschenc/myleetcode/tree/master/1652-minimum-suffix-flips) |
 | [1666-make-the-string-great](https://github.com/dcschenc/myleetcode/tree/master/1666-make-the-string-great) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 ## Depth-First Search
 |  |
