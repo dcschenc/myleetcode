@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1705-count-unhappy-friends](https://github.com/dcschenc/myleetcode/tree/master/1705-count-unhappy-friends) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 ## Hash Table
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/dcschenc/myleetcode/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/dcschenc/myleetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dcschenc/myleetcode/tree/master/1682-most-visited-sector-in-a-circular-track) |
+| [1705-count-unhappy-friends](https://github.com/dcschenc/myleetcode/tree/master/1705-count-unhappy-friends) |
 ## Binary Search
 |  |
 | ------- |
