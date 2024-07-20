@@ -1698,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-fix-product-name-format](https://github.com/dcschenc/myleetcode/tree/master/1686-fix-product-name-format) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/dcschenc/myleetcode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1702-bank-account-summary](https://github.com/dcschenc/myleetcode/tree/master/1702-bank-account-summary) |
+| [1712-unique-orders-and-customers-per-month](https://github.com/dcschenc/myleetcode/tree/master/1712-unique-orders-and-customers-per-month) |
 ## Topological Sort
 |  |
 | ------- |
