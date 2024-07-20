@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/dcschenc/myleetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dcschenc/myleetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Hash Table
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/dcschenc/myleetcode/tree/master/1685-stone-game-v) |
 | [1687-the-most-similar-path-in-a-graph](https://github.com/dcschenc/myleetcode/tree/master/1687-the-most-similar-path-in-a-graph) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dcschenc/myleetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Game Theory
 |  |
 | ------- |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/dcschenc/myleetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dcschenc/myleetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
 ## Sorting
 |  |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-number-of-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/dcschenc/myleetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Depth-First Search
 |  |
 | ------- |
