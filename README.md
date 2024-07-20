@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/dcschenc/myleetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/dcschenc/myleetcode/tree/master/1714-rearrange-spaces-between-words) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dcschenc/myleetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Quickselect
 |  |
 | ------- |
