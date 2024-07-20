@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1705-count-unhappy-friends](https://github.com/dcschenc/myleetcode/tree/master/1705-count-unhappy-friends) |
+| [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 ## Hash Table
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dcschenc/myleetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
@@ -1204,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/dcschenc/myleetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 | [1687-the-most-similar-path-in-a-graph](https://github.com/dcschenc/myleetcode/tree/master/1687-the-most-similar-path-in-a-graph) |
+| [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1762,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/dcschenc/myleetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/dcschenc/myleetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
+| [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Interactive
 |  |
 | ------- |
