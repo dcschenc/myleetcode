@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/dcschenc/myleetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dcschenc/myleetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/dcschenc/myleetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/dcschenc/myleetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/dcschenc/myleetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/dcschenc/myleetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/dcschenc/myleetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dcschenc/myleetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/dcschenc/myleetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 ## Geometry
@@ -1564,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/dcschenc/myleetcode/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/dcschenc/myleetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Data Stream
 |  |
 | ------- |
