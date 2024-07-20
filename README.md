@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/dcschenc/myleetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1714-rearrange-spaces-between-words](https://github.com/dcschenc/myleetcode/tree/master/1714-rearrange-spaces-between-words) |
 ## Depth-First Search
 |  |
 | ------- |
