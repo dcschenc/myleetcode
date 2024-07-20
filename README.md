@@ -1730,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1702-bank-account-summary](https://github.com/dcschenc/myleetcode/tree/master/1702-bank-account-summary) |
 | [1712-unique-orders-and-customers-per-month](https://github.com/dcschenc/myleetcode/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1718-warehouse-manager](https://github.com/dcschenc/myleetcode/tree/master/1718-warehouse-manager) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dcschenc/myleetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Topological Sort
 |  |
 | ------- |
