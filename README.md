@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dcschenc/myleetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/dcschenc/myleetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
