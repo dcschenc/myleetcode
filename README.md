@@ -1174,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1634-clone-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1634-clone-n-ary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/dcschenc/myleetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1745-find-nearest-right-node-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dcschenc/myleetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1665-diameter-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1665-diameter-of-n-ary-tree) |
 | [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
+| [1745-find-nearest-right-node-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1339,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-find-all-the-lonely-nodes](https://github.com/dcschenc/myleetcode/tree/master/1609-find-all-the-lonely-nodes) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/dcschenc/myleetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dcschenc/myleetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1745-find-nearest-right-node-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
