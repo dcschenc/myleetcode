@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1705-count-unhappy-friends](https://github.com/dcschenc/myleetcode/tree/master/1705-count-unhappy-friends) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/dcschenc/myleetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/dcschenc/myleetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/dcschenc/myleetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/dcschenc/myleetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1703-put-boxes-into-the-warehouse-i](https://github.com/dcschenc/myleetcode/tree/master/1703-put-boxes-into-the-warehouse-i) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/dcschenc/myleetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 ## Geometry
 |  |
@@ -1040,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/dcschenc/myleetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/dcschenc/myleetcode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1714-rearrange-spaces-between-words](https://github.com/dcschenc/myleetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/dcschenc/myleetcode/tree/master/1720-crawler-log-folder) |
