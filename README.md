@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-coordinate-with-maximum-network-quality](https://github.com/dcschenc/myleetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dcschenc/myleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/dcschenc/myleetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
 | [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dcschenc/myleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/dcschenc/myleetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
 ## Geometry
