@@ -1243,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 | [1687-the-most-similar-path-in-a-graph](https://github.com/dcschenc/myleetcode/tree/master/1687-the-most-similar-path-in-a-graph) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1738-maximal-network-rank](https://github.com/dcschenc/myleetcode/tree/master/1738-maximal-network-rank) |
 ## Divide and Conquer
 |  |
 | ------- |
