@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1720-crawler-log-folder](https://github.com/dcschenc/myleetcode/tree/master/1720-crawler-log-folder) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Hash Table
 |  |
 | ------- |
@@ -1599,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1212-sequential-digits](https://github.com/dcschenc/myleetcode/tree/master/1212-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/dcschenc/myleetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/dcschenc/myleetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Backtracking
 |  |
 | ------- |
@@ -1616,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dcschenc/myleetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Quickselect
 |  |
 | ------- |
@@ -1643,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dcschenc/myleetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/dcschenc/myleetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Bitmask
 |  |
 | ------- |
