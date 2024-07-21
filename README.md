@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-delete-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1201-delete-tree-nodes) |
 | [1206-corporate-flight-bookings](https://github.com/dcschenc/myleetcode/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/dcschenc/myleetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/dcschenc/myleetcode/tree/master/1222-remove-covered-intervals) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/dcschenc/myleetcode/tree/master/1169-largest-values-from-labels) |
 | [1176-design-a-leaderboard](https://github.com/dcschenc/myleetcode/tree/master/1176-design-a-leaderboard) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/dcschenc/myleetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/dcschenc/myleetcode/tree/master/1222-remove-covered-intervals) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/dcschenc/myleetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
