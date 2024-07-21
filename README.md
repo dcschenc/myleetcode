@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
 | [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
+| [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 ## Hash Table
 |  |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/dcschenc/myleetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dcschenc/myleetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dcschenc/myleetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -1154,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1750-check-if-two-expression-trees-are-equivalent](https://github.com/dcschenc/myleetcode/tree/master/1750-check-if-two-expression-trees-are-equivalent) |
+| [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1217,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/dcschenc/myleetcode/tree/master/1731-even-odd-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -1241,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -1552,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/dcschenc/myleetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/dcschenc/myleetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+| [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
