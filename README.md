@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1750-check-if-two-expression-trees-are-equivalent](https://github.com/dcschenc/myleetcode/tree/master/1750-check-if-two-expression-trees-are-equivalent) |
 ## Simulation
 |  |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/dcschenc/myleetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Depth-First Search
 |  |
 | ------- |
