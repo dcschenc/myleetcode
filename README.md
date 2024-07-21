@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dcschenc/myleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/dcschenc/myleetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dcschenc/myleetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
 | [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dcschenc/myleetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dcschenc/myleetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
 ## Game Theory
 |  |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dcschenc/myleetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
