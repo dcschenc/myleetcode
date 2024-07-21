@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def checkEquivalence(self, root1: 'Node', root2: 'Node') -> bool:   
+        # https://github.com/doocs/leetcode/tree/main/solution/1600-1699/1612.Check%20If%20Two%20Expression%20Trees%20are%20Equivalent
         def dfs(node, leaves):
             # leaves = set()            
             if not node.left and not node.right:
