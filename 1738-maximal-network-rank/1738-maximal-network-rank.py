@@ -1,7 +1,7 @@
 from collections import defaultdict
 class Solution:
     def maximalNetworkRank(self, n: int, roads: List[List[int]]) -> int:
-
+        # https://github.com/doocs/leetcode/tree/main/solution/1600-1699/1615.Maximal%20Network%20Rank
         adj = defaultdict(list)
         for x, y in roads:
             adj[x].append(y)
