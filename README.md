@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
+| [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 ## Hash Table
 |  |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1750-check-if-two-expression-trees-are-equivalent](https://github.com/dcschenc/myleetcode/tree/master/1750-check-if-two-expression-trees-are-equivalent) |
+| [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
+| [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
 ## Geometry
 |  |
 | ------- |
