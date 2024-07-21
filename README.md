@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-coordinate-with-maximum-network-quality](https://github.com/dcschenc/myleetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
+| [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 ## Hash Table
 |  |
@@ -1075,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-split-two-strings-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
 ## Depth-First Search
 |  |
 | ------- |
