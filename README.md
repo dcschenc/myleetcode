@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/dcschenc/myleetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
 ## Simulation
 |  |
 | ------- |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dcschenc/myleetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1665-diameter-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1665-diameter-of-n-ary-tree) |
+| [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dcschenc/myleetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1665-diameter-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1665-diameter-of-n-ary-tree) |
+| [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1402,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
 | [1640-design-a-file-sharing-system](https://github.com/dcschenc/myleetcode/tree/master/1640-design-a-file-sharing-system) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/dcschenc/myleetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1722-throne-inheritance](https://github.com/dcschenc/myleetcode/tree/master/1722-throne-inheritance) |
 ## Ordered Set
 |  |
 | ------- |
