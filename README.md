@@ -1962,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/dcschenc/myleetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/dcschenc/myleetcode/tree/master/1811-fix-names-in-a-table) |
 | [1821-products-worth-over-invoices](https://github.com/dcschenc/myleetcode/tree/master/1821-products-worth-over-invoices) |
+| [1827-invalid-tweets](https://github.com/dcschenc/myleetcode/tree/master/1827-invalid-tweets) |
 ## Topological Sort
 |  |
 | ------- |
