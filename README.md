@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-minimum-jumps-to-reach-home](https://github.com/dcschenc/myleetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1760-check-array-formation-through-concatenation](https://github.com/dcschenc/myleetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/dcschenc/myleetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1767-design-front-middle-back-queue](https://github.com/dcschenc/myleetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1769-get-maximum-in-generated-array](https://github.com/dcschenc/myleetcode/tree/master/1769-get-maximum-in-generated-array) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dcschenc/myleetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-minimum-jumps-to-reach-home](https://github.com/dcschenc/myleetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1761-count-sorted-vowel-strings](https://github.com/dcschenc/myleetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1764-maximum-repeating-substring) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dcschenc/myleetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/dcschenc/myleetcode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [1762-furthest-building-you-can-reach](https://github.com/dcschenc/myleetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dcschenc/myleetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/dcschenc/myleetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
