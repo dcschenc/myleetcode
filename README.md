@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/dcschenc/myleetcode/tree/master/1775-design-an-ordered-stream) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1783-ways-to-make-a-fair-array](https://github.com/dcschenc/myleetcode/tree/master/1783-ways-to-make-a-fair-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dcschenc/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/dcschenc/myleetcode/tree/master/1791-richest-customer-wealth) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/dcschenc/myleetcode/tree/master/1775-design-an-ordered-stream) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dcschenc/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dcschenc/myleetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dcschenc/myleetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/dcschenc/myleetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dcschenc/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/dcschenc/myleetcode/tree/master/1797-goal-parser-interpretation) |
 | [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 ## Depth-First Search
@@ -1830,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/dcschenc/myleetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dcschenc/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1799-minimum-incompatibility](https://github.com/dcschenc/myleetcode/tree/master/1799-minimum-incompatibility) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Bitmask
