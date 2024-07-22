@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/dcschenc/myleetcode/tree/master/1751-slowest-key) |
 | [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
+| [1755-defuse-the-bomb](https://github.com/dcschenc/myleetcode/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/dcschenc/myleetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/dcschenc/myleetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
@@ -1553,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dcschenc/myleetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dcschenc/myleetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1755-defuse-the-bomb](https://github.com/dcschenc/myleetcode/tree/master/1755-defuse-the-bomb) |
 ## Monotonic Stack
 |  |
 | ------- |
