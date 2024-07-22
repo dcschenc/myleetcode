@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-check-array-formation-through-concatenation](https://github.com/dcschenc/myleetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/dcschenc/myleetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+| [1769-get-maximum-in-generated-array](https://github.com/dcschenc/myleetcode/tree/master/1769-get-maximum-in-generated-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/dcschenc/myleetcode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1705-count-unhappy-friends](https://github.com/dcschenc/myleetcode/tree/master/1705-count-unhappy-friends) |
 | [1708-design-parking-system](https://github.com/dcschenc/myleetcode/tree/master/1708-design-parking-system) |
+| [1769-get-maximum-in-generated-array](https://github.com/dcschenc/myleetcode/tree/master/1769-get-maximum-in-generated-array) |
 ## Binary Search
 |  |
 | ------- |
