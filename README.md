@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/dcschenc/myleetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dcschenc/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1791-richest-customer-wealth](https://github.com/dcschenc/myleetcode/tree/master/1791-richest-customer-wealth) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/dcschenc/myleetcode/tree/master/1617-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dcschenc/myleetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/dcschenc/myleetcode/tree/master/1685-stone-game-v) |
+| [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 ## Greedy
 |  |
 | ------- |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dcschenc/myleetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/dcschenc/myleetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Sorting
@@ -963,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dcschenc/myleetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dcschenc/myleetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Geometry
 |  |
@@ -1666,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/dcschenc/myleetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
+| [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Merge Sort
 |  |
