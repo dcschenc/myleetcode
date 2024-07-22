@@ -1210,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
+| [1810-change-the-root-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1810-change-the-root-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1404,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
+| [1810-change-the-root-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1810-change-the-root-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1458,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
+| [1810-change-the-root-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1810-change-the-root-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
