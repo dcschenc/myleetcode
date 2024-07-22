@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -1205,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-check-if-two-expression-trees-are-equivalent](https://github.com/dcschenc/myleetcode/tree/master/1750-check-if-two-expression-trees-are-equivalent) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
+| [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/dcschenc/myleetcode/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1450,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
