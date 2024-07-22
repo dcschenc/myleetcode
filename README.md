@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1783-ways-to-make-a-fair-array](https://github.com/dcschenc/myleetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1791-richest-customer-wealth](https://github.com/dcschenc/myleetcode/tree/master/1791-richest-customer-wealth) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dcschenc/myleetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/dcschenc/myleetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -1518,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/dcschenc/myleetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -1607,6 +1610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dcschenc/myleetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dcschenc/myleetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
