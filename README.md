@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/dcschenc/myleetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1775-design-an-ordered-stream](https://github.com/dcschenc/myleetcode/tree/master/1775-design-an-ordered-stream) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-check-array-formation-through-concatenation](https://github.com/dcschenc/myleetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dcschenc/myleetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1775-design-an-ordered-stream](https://github.com/dcschenc/myleetcode/tree/master/1775-design-an-ordered-stream) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Simulation
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dcschenc/myleetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -1567,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dcschenc/myleetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/dcschenc/myleetcode/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1711,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/dcschenc/myleetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/dcschenc/myleetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Data Stream
 |  |
 | ------- |
