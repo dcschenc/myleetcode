@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/dcschenc/myleetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 | [1810-change-the-root-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1810-change-the-root-of-a-binary-tree) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1420,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 | [1810-change-the-root-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1810-change-the-root-of-a-binary-tree) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1475,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 | [1810-change-the-root-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1810-change-the-root-of-a-binary-tree) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Recursion
 |  |
 | ------- |
