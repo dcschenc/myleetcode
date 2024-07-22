@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-count-unhappy-friends](https://github.com/dcschenc/myleetcode/tree/master/1705-count-unhappy-friends) |
 | [1708-design-parking-system](https://github.com/dcschenc/myleetcode/tree/master/1708-design-parking-system) |
 | [1769-get-maximum-in-generated-array](https://github.com/dcschenc/myleetcode/tree/master/1769-get-maximum-in-generated-array) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/dcschenc/myleetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1824,6 +1826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-find-root-of-n-ary-tree](https://github.com/dcschenc/myleetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/dcschenc/myleetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Bitmask
 |  |
 | ------- |
