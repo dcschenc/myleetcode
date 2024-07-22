@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/dcschenc/myleetcode/tree/master/1755-defuse-the-bomb) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/dcschenc/myleetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1760-check-array-formation-through-concatenation](https://github.com/dcschenc/myleetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/dcschenc/myleetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dcschenc/myleetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/dcschenc/myleetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/dcschenc/myleetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/dcschenc/myleetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1761-count-sorted-vowel-strings](https://github.com/dcschenc/myleetcode/tree/master/1761-count-sorted-vowel-strings) |
 ## Game Theory
 |  |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/dcschenc/myleetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Union Find
 |  |
 | ------- |
