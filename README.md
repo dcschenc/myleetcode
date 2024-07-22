@@ -867,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/dcschenc/myleetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dcschenc/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/dcschenc/myleetcode/tree/master/1797-goal-parser-interpretation) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 ## Depth-First Search
 |  |
