@@ -768,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dcschenc/myleetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1799-minimum-incompatibility](https://github.com/dcschenc/myleetcode/tree/master/1799-minimum-incompatibility) |
+| [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/dcschenc/myleetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1797-goal-parser-interpretation](https://github.com/dcschenc/myleetcode/tree/master/1797-goal-parser-interpretation) |
+| [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 ## Depth-First Search
 |  |
 | ------- |
