@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/dcschenc/myleetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1799-minimum-incompatibility](https://github.com/dcschenc/myleetcode/tree/master/1799-minimum-incompatibility) |
 | [1808-stone-game-vii](https://github.com/dcschenc/myleetcode/tree/master/1808-stone-game-vii) |
+| [1813-maximum-erasure-value](https://github.com/dcschenc/myleetcode/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dcschenc/myleetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/dcschenc/myleetcode/tree/master/1813-maximum-erasure-value) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Simulation
 |  |
@@ -1632,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dcschenc/myleetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/dcschenc/myleetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/dcschenc/myleetcode/tree/master/1813-maximum-erasure-value) |
 ## Monotonic Stack
 |  |
 | ------- |
