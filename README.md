@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/dcschenc/myleetcode/tree/master/1808-stone-game-vii) |
 | [1813-maximum-erasure-value](https://github.com/dcschenc/myleetcode/tree/master/1813-maximum-erasure-value) |
 | [1814-jump-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1814-jump-game-vi) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/dcschenc/myleetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Hash Table
 |  |
 | ------- |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1804-maximum-binary-string-after-change](https://github.com/dcschenc/myleetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/dcschenc/myleetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Sorting
 |  |
 | ------- |
@@ -1696,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1814-jump-game-vi) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/dcschenc/myleetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Merge Sort
 |  |
 | ------- |
