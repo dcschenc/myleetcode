@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1839-decode-xored-array](https://github.com/dcschenc/myleetcode/tree/master/1839-decode-xored-array) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/dcschenc/myleetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/dcschenc/myleetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
 ## Hash Table
 |  |
