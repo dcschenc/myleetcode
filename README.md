@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1794-minimize-deviation-in-array](https://github.com/dcschenc/myleetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1804-maximum-binary-string-after-change](https://github.com/dcschenc/myleetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/dcschenc/myleetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/dcschenc/myleetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/dcschenc/myleetcode/tree/master/1797-goal-parser-interpretation) |
 | [1804-maximum-binary-string-after-change](https://github.com/dcschenc/myleetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dcschenc/myleetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
@@ -1582,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/dcschenc/myleetcode/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dcschenc/myleetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
