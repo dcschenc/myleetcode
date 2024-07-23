@@ -2050,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1852-biggest-window-between-visits](https://github.com/dcschenc/myleetcode/tree/master/1852-biggest-window-between-visits) |
 | [1862-count-apples-and-oranges](https://github.com/dcschenc/myleetcode/tree/master/1862-count-apples-and-oranges) |
 | [1877-find-followers-count](https://github.com/dcschenc/myleetcode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/dcschenc/myleetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Topological Sort
 |  |
 | ------- |
