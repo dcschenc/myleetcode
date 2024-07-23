@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/dcschenc/myleetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/dcschenc/myleetcode/tree/master/1830-count-good-meals) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1839-decode-xored-array](https://github.com/dcschenc/myleetcode/tree/master/1839-decode-xored-array) |
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
 ## Hash Table
 |  |
@@ -1892,6 +1893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/dcschenc/myleetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1799-minimum-incompatibility](https://github.com/dcschenc/myleetcode/tree/master/1799-minimum-incompatibility) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/dcschenc/myleetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1839-decode-xored-array](https://github.com/dcschenc/myleetcode/tree/master/1839-decode-xored-array) |
 ## Bitmask
 |  |
 | ------- |
