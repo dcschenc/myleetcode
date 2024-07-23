@@ -1998,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1821-products-worth-over-invoices](https://github.com/dcschenc/myleetcode/tree/master/1821-products-worth-over-invoices) |
 | [1827-invalid-tweets](https://github.com/dcschenc/myleetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/dcschenc/myleetcode/tree/master/1837-daily-leads-and-partners) |
+| [1842-number-of-calls-between-two-persons](https://github.com/dcschenc/myleetcode/tree/master/1842-number-of-calls-between-two-persons) |
 ## Topological Sort
 |  |
 | ------- |
