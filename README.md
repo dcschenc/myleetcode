@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1364-tuple-with-same-product](https://github.com/dcschenc/myleetcode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1366-first-unique-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/dcschenc/myleetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1364-tuple-with-same-product](https://github.com/dcschenc/myleetcode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1366-first-unique-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1752,6 +1754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dcschenc/myleetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/dcschenc/myleetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1364-tuple-with-same-product](https://github.com/dcschenc/myleetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/dcschenc/myleetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dcschenc/myleetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
