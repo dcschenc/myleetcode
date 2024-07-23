@@ -2046,6 +2046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1842-number-of-calls-between-two-persons](https://github.com/dcschenc/myleetcode/tree/master/1842-number-of-calls-between-two-persons) |
 | [1852-biggest-window-between-visits](https://github.com/dcschenc/myleetcode/tree/master/1852-biggest-window-between-visits) |
 | [1862-count-apples-and-oranges](https://github.com/dcschenc/myleetcode/tree/master/1862-count-apples-and-oranges) |
+| [1877-find-followers-count](https://github.com/dcschenc/myleetcode/tree/master/1877-find-followers-count) |
 ## Topological Sort
 |  |
 | ------- |
