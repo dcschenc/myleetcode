@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/dcschenc/myleetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1873-longest-nice-substring](https://github.com/dcschenc/myleetcode/tree/master/1873-longest-nice-substring) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/dcschenc/myleetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
@@ -1280,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/dcschenc/myleetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/dcschenc/myleetcode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/dcschenc/myleetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dcschenc/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
@@ -1865,6 +1867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/dcschenc/myleetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/dcschenc/myleetcode/tree/master/1848-sum-of-unique-elements) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/dcschenc/myleetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Number Theory
 |  |
