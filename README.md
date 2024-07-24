@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/dcschenc/myleetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/dcschenc/myleetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1814-jump-game-vi) |
 | [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/dcschenc/myleetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 ## Game Theory
 |  |
 | ------- |
