@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dcschenc/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/dcschenc/myleetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/dcschenc/myleetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dcschenc/myleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dcschenc/myleetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/dcschenc/myleetcode/tree/master/1791-richest-customer-wealth) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/dcschenc/myleetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
 ## String
 |  |
 | ------- |
@@ -1410,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/dcschenc/myleetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 ## Union Find
 |  |
