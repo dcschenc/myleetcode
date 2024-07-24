@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
 | [1848-sum-of-unique-elements](https://github.com/dcschenc/myleetcode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dcschenc/myleetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dcschenc/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/dcschenc/myleetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/dcschenc/myleetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/dcschenc/myleetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dcschenc/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1814-jump-game-vi) |
 | [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dcschenc/myleetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dcschenc/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/dcschenc/myleetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 ## Game Theory
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/dcschenc/myleetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/dcschenc/myleetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/dcschenc/myleetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dcschenc/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Geometry
 |  |
 | ------- |
