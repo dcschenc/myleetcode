@@ -2150,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-leetflex-banned-accounts](https://github.com/dcschenc/myleetcode/tree/master/1898-leetflex-banned-accounts) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dcschenc/myleetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1926-products-price-for-each-store](https://github.com/dcschenc/myleetcode/tree/master/1926-products-price-for-each-store) |
+| [1932-grand-slam-titles](https://github.com/dcschenc/myleetcode/tree/master/1932-grand-slam-titles) |
 ## Topological Sort
 |  |
 | ------- |
