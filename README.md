@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dcschenc/myleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dcschenc/myleetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/dcschenc/myleetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dcschenc/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/dcschenc/myleetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
