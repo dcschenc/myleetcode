@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dcschenc/myleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dcschenc/myleetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dcschenc/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1909-buildings-with-an-ocean-view](https://github.com/dcschenc/myleetcode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Hash Table
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/dcschenc/myleetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/dcschenc/myleetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/dcschenc/myleetcode/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dcschenc/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Depth-First Search
 |  |
 | ------- |
