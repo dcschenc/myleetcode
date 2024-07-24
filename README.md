@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/dcschenc/myleetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/dcschenc/myleetcode/tree/master/1830-count-good-meals) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/dcschenc/myleetcode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/dcschenc/myleetcode/tree/master/1839-decode-xored-array) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/dcschenc/myleetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/dcschenc/myleetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -1838,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/dcschenc/myleetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/dcschenc/myleetcode/tree/master/1833-find-the-highest-altitude) |
 ## Data Stream
 |  |
 | ------- |
