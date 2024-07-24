@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1830-count-good-meals](https://github.com/dcschenc/myleetcode/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/dcschenc/myleetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/dcschenc/myleetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 ## Simulation
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/dcschenc/myleetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1808-stone-game-vii](https://github.com/dcschenc/myleetcode/tree/master/1808-stone-game-vii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dcschenc/myleetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/dcschenc/myleetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1792,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-check-if-two-expression-trees-are-equivalent](https://github.com/dcschenc/myleetcode/tree/master/1750-check-if-two-expression-trees-are-equivalent) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dcschenc/myleetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dcschenc/myleetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/dcschenc/myleetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 ## Number Theory
 |  |
