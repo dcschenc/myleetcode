@@ -2157,6 +2157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/dcschenc/myleetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1926-products-price-for-each-store](https://github.com/dcschenc/myleetcode/tree/master/1926-products-price-for-each-store) |
 | [1932-grand-slam-titles](https://github.com/dcschenc/myleetcode/tree/master/1932-grand-slam-titles) |
+| [1942-primary-department-for-each-employee](https://github.com/dcschenc/myleetcode/tree/master/1942-primary-department-for-each-employee) |
 ## Topological Sort
 |  |
 | ------- |
