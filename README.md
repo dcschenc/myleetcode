@@ -909,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/dcschenc/myleetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/dcschenc/myleetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/dcschenc/myleetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -1222,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dcschenc/myleetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/dcschenc/myleetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## Depth-First Search
 |  |
 | ------- |
