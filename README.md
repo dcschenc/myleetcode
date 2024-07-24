@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/dcschenc/myleetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dcschenc/myleetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dcschenc/myleetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## Math
 |  |
 | ------- |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-longest-palindromic-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/1822-longest-palindromic-subsequence-ii) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dcschenc/myleetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dcschenc/myleetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/dcschenc/myleetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1871-palindrome-partitioning-iv](https://github.com/dcschenc/myleetcode/tree/master/1871-palindrome-partitioning-iv) |
