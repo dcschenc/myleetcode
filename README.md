@@ -1254,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1871-palindrome-partitioning-iv](https://github.com/dcschenc/myleetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/dcschenc/myleetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
