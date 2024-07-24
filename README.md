@@ -1364,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/dcschenc/myleetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1433,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-correct-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1796-correct-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -1488,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-the-most-similar-path-in-a-graph](https://github.com/dcschenc/myleetcode/tree/master/1687-the-most-similar-path-in-a-graph) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/dcschenc/myleetcode/tree/master/1738-maximal-network-rank) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2177,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/dcschenc/myleetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1384-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/dcschenc/myleetcode/tree/master/1384-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 ## Iterator
 |  |
 | ------- |
