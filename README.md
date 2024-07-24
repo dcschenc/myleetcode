@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/dcschenc/myleetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dcschenc/myleetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
 ## Math
 |  |
 | ------- |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/dcschenc/myleetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1879-maximum-score-from-removing-stones](https://github.com/dcschenc/myleetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/dcschenc/myleetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1871-palindrome-partitioning-iv](https://github.com/dcschenc/myleetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
 ## Depth-First Search
 |  |
 | ------- |
