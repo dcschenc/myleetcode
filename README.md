@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/dcschenc/myleetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1879-maximum-score-from-removing-stones](https://github.com/dcschenc/myleetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/dcschenc/myleetcode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dcschenc/myleetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
