@@ -1501,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/dcschenc/myleetcode/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/dcschenc/myleetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1916-find-center-of-star-graph](https://github.com/dcschenc/myleetcode/tree/master/1916-find-center-of-star-graph) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 ## Divide and Conquer
 |  |
