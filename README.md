@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/dcschenc/myleetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/dcschenc/myleetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/dcschenc/myleetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 ## Hash Table
 |  |
 | ------- |
@@ -1859,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/dcschenc/myleetcode/tree/master/1833-find-the-highest-altitude) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/dcschenc/myleetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 ## Data Stream
 |  |
 | ------- |
