@@ -1286,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dcschenc/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [1899-count-items-matching-a-rule](https://github.com/dcschenc/myleetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dcschenc/myleetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 ## Depth-First Search
 |  |
