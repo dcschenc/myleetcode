@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/dcschenc/myleetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/dcschenc/myleetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1847-largest-subarray-length-k](https://github.com/dcschenc/myleetcode/tree/master/1847-largest-subarray-length-k) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/dcschenc/myleetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/dcschenc/myleetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/dcschenc/myleetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/dcschenc/myleetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 ## Simulation
 |  |
