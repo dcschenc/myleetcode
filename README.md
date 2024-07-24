@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/dcschenc/myleetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 ## Simulation
 |  |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [1899-count-items-matching-a-rule](https://github.com/dcschenc/myleetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dcschenc/myleetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 ## Depth-First Search
 |  |
@@ -1875,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/dcschenc/myleetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Number Theory
 |  |
 | ------- |
