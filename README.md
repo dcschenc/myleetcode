@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/dcschenc/myleetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/dcschenc/myleetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/dcschenc/myleetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1897-maximize-palindrome-length-from-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 ## Game Theory
 |  |
 | ------- |
@@ -1270,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/dcschenc/myleetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/dcschenc/myleetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dcschenc/myleetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1897-maximize-palindrome-length-from-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
