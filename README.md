@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1909-buildings-with-an-ocean-view](https://github.com/dcschenc/myleetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/dcschenc/myleetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 ## Hash Table
 |  |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dcschenc/myleetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dcschenc/myleetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/dcschenc/myleetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/dcschenc/myleetcode/tree/master/1894-merge-strings-alternately) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Math
 |  |
 | ------- |
@@ -1690,6 +1693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1909-buildings-with-an-ocean-view](https://github.com/dcschenc/myleetcode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Design
 |  |
 | ------- |
@@ -1786,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dcschenc/myleetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/dcschenc/myleetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1909-buildings-with-an-ocean-view](https://github.com/dcschenc/myleetcode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
