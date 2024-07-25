@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/dcschenc/myleetcode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/dcschenc/myleetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 ## Hash Table
 |  |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/dcschenc/myleetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
