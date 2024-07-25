@@ -1371,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1954-replace-all-digits-with-characters](https://github.com/dcschenc/myleetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/dcschenc/myleetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/dcschenc/myleetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2087,6 +2088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-closest-dessert-cost](https://github.com/dcschenc/myleetcode/tree/master/1900-closest-dessert-cost) |
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/dcschenc/myleetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Quickselect
 |  |
 | ------- |
