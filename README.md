@@ -2249,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/dcschenc/myleetcode/tree/master/1948-rearrange-products-table) |
 | [1964-find-interview-candidates](https://github.com/dcschenc/myleetcode/tree/master/1964-find-interview-candidates) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/dcschenc/myleetcode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
+| [1981-maximum-transaction-each-day](https://github.com/dcschenc/myleetcode/tree/master/1981-maximum-transaction-each-day) |
 ## Topological Sort
 |  |
 | ------- |
