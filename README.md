@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/dcschenc/myleetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/dcschenc/myleetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dcschenc/myleetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/dcschenc/myleetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/dcschenc/myleetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/dcschenc/myleetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
