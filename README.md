@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/dcschenc/myleetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 ## Hash Table
 |  |
