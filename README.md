@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1965-sum-of-digits-in-base-k](https://github.com/dcschenc/myleetcode/tree/master/1965-sum-of-digits-in-base-k) |
 ## Dynamic Programming
 |  |
 | ------- |
