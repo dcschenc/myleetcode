@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/dcschenc/myleetcode/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Simulation
@@ -1314,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dcschenc/myleetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Depth-First Search
