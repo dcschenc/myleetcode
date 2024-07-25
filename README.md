@@ -1365,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1944-truncate-sentence](https://github.com/dcschenc/myleetcode/tree/master/1944-truncate-sentence) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
+| [1954-replace-all-digits-with-characters](https://github.com/dcschenc/myleetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/dcschenc/myleetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Depth-First Search
 |  |
