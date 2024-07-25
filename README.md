@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-number-of-orders-in-the-backlog](https://github.com/dcschenc/myleetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dcschenc/myleetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/dcschenc/myleetcode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/dcschenc/myleetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/dcschenc/myleetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/dcschenc/myleetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dcschenc/myleetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
 ## Sorting
