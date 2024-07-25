@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/dcschenc/myleetcode/tree/master/1894-merge-strings-alternately) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/dcschenc/myleetcode/tree/master/1923-sentence-similarity-iii) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
 ## Math
 |  |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/dcschenc/myleetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Sorting
 |  |
 | ------- |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/dcschenc/myleetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/dcschenc/myleetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/dcschenc/myleetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Depth-First Search
 |  |
 | ------- |
