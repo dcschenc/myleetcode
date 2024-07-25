@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-number-of-orders-in-the-backlog](https://github.com/dcschenc/myleetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1944-truncate-sentence](https://github.com/dcschenc/myleetcode/tree/master/1944-truncate-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -1328,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
+| [1944-truncate-sentence](https://github.com/dcschenc/myleetcode/tree/master/1944-truncate-sentence) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Depth-First Search
 |  |
