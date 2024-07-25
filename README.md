@@ -2205,6 +2205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-grand-slam-titles](https://github.com/dcschenc/myleetcode/tree/master/1932-grand-slam-titles) |
 | [1942-primary-department-for-each-employee](https://github.com/dcschenc/myleetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/dcschenc/myleetcode/tree/master/1948-rearrange-products-table) |
+| [1964-find-interview-candidates](https://github.com/dcschenc/myleetcode/tree/master/1964-find-interview-candidates) |
 ## Topological Sort
 |  |
 | ------- |
