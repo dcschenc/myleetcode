@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/dcschenc/myleetcode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/dcschenc/myleetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 ## Hash Table
 |  |
 | ------- |
@@ -1166,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/dcschenc/myleetcode/tree/master/1791-richest-customer-wealth) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/dcschenc/myleetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
+| [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 ## String
 |  |
 | ------- |
@@ -2038,6 +2040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dcschenc/myleetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1900-closest-dessert-cost](https://github.com/dcschenc/myleetcode/tree/master/1900-closest-dessert-cost) |
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 ## Quickselect
 |  |
 | ------- |
