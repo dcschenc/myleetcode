@@ -1403,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/dcschenc/myleetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1473,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -1531,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/dcschenc/myleetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1916-find-center-of-star-graph](https://github.com/dcschenc/myleetcode/tree/master/1916-find-center-of-star-graph) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1857,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/dcschenc/myleetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/dcschenc/myleetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/dcschenc/myleetcode/tree/master/1928-number-of-orders-in-the-backlog) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2238,6 +2242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1384-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/dcschenc/myleetcode/tree/master/1384-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
+| [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 ## Iterator
 |  |
 | ------- |
