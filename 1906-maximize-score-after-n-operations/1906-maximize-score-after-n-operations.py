@@ -2,16 +2,11 @@ class Solution:
     def maxScore(self, nums: List[int]) -> int:
         def backtrack(idx):
             # If we've performed N operations, return 0
-            if idx == n // 2:
-                return 0
-            
+            if idx == n // 2: return 0            
             # Use a tuple of used indices as a key for memoization
             key = tuple(used)
-            if key in memo:
-                return memo[key]
-            
-            max_result = 0
-            
+            if key in memo: return memo[key]   
+            max_result = 0            
             # Iterate through all pairs
             for i in range(n):
                 if used[i]: continue
@@ -19,17 +14,13 @@ class Solution:
                     if used[j]: continue
                     
                     # Mark these indices as used
-                    used[i] = used[j] = True
-                    
+                    used[i] = used[j] = True                    
                     # Calculate score for this operation
-                    current_score = math.gcd(nums[i], nums[j]) * (idx + 1)
-                    
+                    current_score = math.gcd(nums[i], nums[j]) * (idx + 1)                    
                     # Recur for the next operation
-                    max_result = max(max_result, current_score + backtrack(idx + 1))
-                    
+                    max_result = max(max_result, current_score + backtrack(idx + 1))                    
                     # Backtrack (unmark the indices)
-                    used[i] = used[j] = False
-            
+                    used[i] = used[j] = False            
             memo[key] = max_result
             return max_result
 
