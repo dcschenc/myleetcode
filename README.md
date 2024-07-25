@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
+| [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/dcschenc/myleetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/dcschenc/myleetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
+| [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -1296,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dcschenc/myleetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
+| [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 ## Depth-First Search
 |  |
 | ------- |
