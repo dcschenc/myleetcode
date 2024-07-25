@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 | [1923-sentence-similarity-iii](https://github.com/dcschenc/myleetcode/tree/master/1923-sentence-similarity-iii) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/dcschenc/myleetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/dcschenc/myleetcode/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dcschenc/myleetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/dcschenc/myleetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1921,6 +1924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/dcschenc/myleetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
