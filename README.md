@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/dcschenc/myleetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
+| [1923-sentence-similarity-iii](https://github.com/dcschenc/myleetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/dcschenc/myleetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/dcschenc/myleetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/dcschenc/myleetcode/tree/master/1894-merge-strings-alternately) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1923-sentence-similarity-iii](https://github.com/dcschenc/myleetcode/tree/master/1923-sentence-similarity-iii) |
 ## Math
 |  |
 | ------- |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/dcschenc/myleetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1923-sentence-similarity-iii](https://github.com/dcschenc/myleetcode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
