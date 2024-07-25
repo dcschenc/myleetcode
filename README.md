@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
+| [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
 ## Hash Table
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/dcschenc/myleetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1943-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/dcschenc/myleetcode/tree/master/1943-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
+| [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1919-sort-features-by-popularity](https://github.com/dcschenc/myleetcode/tree/master/1919-sort-features-by-popularity) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Geometry
 |  |
 | ------- |
