@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1962-single-threaded-cpu](https://github.com/dcschenc/myleetcode/tree/master/1962-single-threaded-cpu) |
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
 ## Hash Table
@@ -1122,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/dcschenc/myleetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1962-single-threaded-cpu](https://github.com/dcschenc/myleetcode/tree/master/1962-single-threaded-cpu) |
 ## Geometry
 |  |
 | ------- |
@@ -1901,6 +1903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-number-of-orders-in-the-backlog](https://github.com/dcschenc/myleetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
+| [1962-single-threaded-cpu](https://github.com/dcschenc/myleetcode/tree/master/1962-single-threaded-cpu) |
 ## Merge Sort
 |  |
 | ------- |
