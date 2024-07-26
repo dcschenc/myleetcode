@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/dcschenc/myleetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
+| [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Hash Table
 |  |
@@ -1988,6 +1989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/dcschenc/myleetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 ## Number Theory
 |  |
 | ------- |
@@ -2054,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/dcschenc/myleetcode/tree/master/1859-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/dcschenc/myleetcode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 ## Data Stream
 |  |
 | ------- |
