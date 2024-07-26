@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2012-process-tasks-using-servers](https://github.com/dcschenc/myleetcode/tree/master/2012-process-tasks-using-servers) |
 | [2013-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dcschenc/myleetcode/tree/master/2013-minimum-skips-to-arrive-at-meeting-on-time) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dcschenc/myleetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
@@ -1253,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/dcschenc/myleetcode/tree/master/1876-map-of-highest-peak) |
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 | [1972-rotating-the-box](https://github.com/dcschenc/myleetcode/tree/master/1972-rotating-the-box) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dcschenc/myleetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |
 | ------- |
