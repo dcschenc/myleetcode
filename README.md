@@ -827,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/dcschenc/myleetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1971-incremental-memory-leak](https://github.com/dcschenc/myleetcode/tree/master/1971-incremental-memory-leak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/dcschenc/myleetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/dcschenc/myleetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/dcschenc/myleetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Game Theory
 |  |
 | ------- |
@@ -2052,6 +2054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-number-of-music-playlists](https://github.com/dcschenc/myleetcode/tree/master/0956-number-of-music-playlists) |
 | [1761-count-sorted-vowel-strings](https://github.com/dcschenc/myleetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/dcschenc/myleetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Prefix Sum
 |  |
 | ------- |
