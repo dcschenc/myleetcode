@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/dcschenc/myleetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2012-process-tasks-using-servers](https://github.com/dcschenc/myleetcode/tree/master/2012-process-tasks-using-servers) |
 | [2013-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dcschenc/myleetcode/tree/master/2013-minimum-skips-to-arrive-at-meeting-on-time) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dcschenc/myleetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-number-of-orders-in-the-backlog](https://github.com/dcschenc/myleetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1971-incremental-memory-leak](https://github.com/dcschenc/myleetcode/tree/master/1971-incremental-memory-leak) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
 | ------- |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/dcschenc/myleetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 | [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
@@ -2142,6 +2145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/dcschenc/myleetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 ## Data Stream
 |  |
