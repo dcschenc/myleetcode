@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/dcschenc/myleetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 ## Hash Table
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-incremental-memory-leak](https://github.com/dcschenc/myleetcode/tree/master/1971-incremental-memory-leak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/dcschenc/myleetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/dcschenc/myleetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/dcschenc/myleetcode/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/dcschenc/myleetcode/tree/master/1808-stone-game-vii) |
+| [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -2097,6 +2101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/dcschenc/myleetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 ## Data Stream
 |  |
 | ------- |
