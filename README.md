@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/dcschenc/myleetcode/tree/master/1985-maximum-subarray-min-product) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Hash Table
 |  |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/dcschenc/myleetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1971-incremental-memory-leak](https://github.com/dcschenc/myleetcode/tree/master/1971-incremental-memory-leak) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2044,6 +2046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/dcschenc/myleetcode/tree/master/0956-number-of-music-playlists) |
 | [1761-count-sorted-vowel-strings](https://github.com/dcschenc/myleetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -2099,6 +2102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-coordinate-with-maximum-network-quality](https://github.com/dcschenc/myleetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
@@ -2122,6 +2126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/dcschenc/myleetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Quickselect
 |  |
 | ------- |
@@ -2156,6 +2161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/dcschenc/myleetcode/tree/master/1839-decode-xored-array) |
 | [1873-longest-nice-substring](https://github.com/dcschenc/myleetcode/tree/master/1873-longest-nice-substring) |
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bitmask
 |  |
 | ------- |
