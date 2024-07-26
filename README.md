@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Simulation
@@ -1413,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/dcschenc/myleetcode/tree/master/1970-sorting-the-sentence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/dcschenc/myleetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
@@ -1911,6 +1913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/dcschenc/myleetcode/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/dcschenc/myleetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Monotonic Stack
@@ -2033,6 +2036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
