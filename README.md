@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/dcschenc/myleetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-finding-the-users-active-minutes](https://github.com/dcschenc/myleetcode/tree/master/1945-finding-the-users-active-minutes) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -1868,6 +1870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/dcschenc/myleetcode/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/dcschenc/myleetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
