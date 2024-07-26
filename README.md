@@ -2327,6 +2327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-league-statistics](https://github.com/dcschenc/myleetcode/tree/master/1991-league-statistics) |
 | [1998-suspicious-bank-accounts](https://github.com/dcschenc/myleetcode/tree/master/1998-suspicious-bank-accounts) |
 | [2004-convert-date-format](https://github.com/dcschenc/myleetcode/tree/master/2004-convert-date-format) |
+| [2014-orders-with-maximum-quantity-above-average](https://github.com/dcschenc/myleetcode/tree/master/2014-orders-with-maximum-quantity-above-average) |
 ## Topological Sort
 |  |
 | ------- |
