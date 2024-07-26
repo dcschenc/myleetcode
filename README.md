@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
 | [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Hash Table
 |  |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Linked List
 |  |
 | ------- |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/dcschenc/myleetcode/tree/master/1923-sentence-similarity-iii) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
 | ------- |
