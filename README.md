@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dcschenc/myleetcode/tree/master/2013-minimum-skips-to-arrive-at-meeting-on-time) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dcschenc/myleetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/dcschenc/myleetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 ## Linked List
 |  |
@@ -1191,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dcschenc/myleetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 ## Geometry
@@ -2134,6 +2137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-maximum-subarray-min-product](https://github.com/dcschenc/myleetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
+| [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 ## Data Stream
 |  |
 | ------- |
