@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
+| [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/dcschenc/myleetcode/tree/master/1970-sorting-the-sentence) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 ## Geometry
 |  |
 | ------- |
