@@ -840,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/dcschenc/myleetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2013-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dcschenc/myleetcode/tree/master/2013-minimum-skips-to-arrive-at-meeting-on-time) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Game Theory
 |  |
 | ------- |
