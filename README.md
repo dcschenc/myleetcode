@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
+| [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
 ## Hash Table
 |  |
 | ------- |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/dcschenc/myleetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
+| [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
 ## Linked List
 |  |
 | ------- |
