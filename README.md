@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/dcschenc/myleetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
+| [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 | [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -1277,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 | [1972-rotating-the-box](https://github.com/dcschenc/myleetcode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dcschenc/myleetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
 ## String
 |  |
@@ -1546,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2009-longest-word-with-all-prefixes](https://github.com/dcschenc/myleetcode/tree/master/2009-longest-word-with-all-prefixes) |
+| [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1617,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
+| [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -1643,6 +1647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/dcschenc/myleetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/dcschenc/myleetcode/tree/master/1753-path-with-minimum-effort) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/dcschenc/myleetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
