@@ -1059,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dcschenc/myleetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2011-maximum-value-after-insertion](https://github.com/dcschenc/myleetcode/tree/master/2011-maximum-value-after-insertion) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 ## Sorting
 |  |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/dcschenc/myleetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2011-maximum-value-after-insertion](https://github.com/dcschenc/myleetcode/tree/master/2011-maximum-value-after-insertion) |
 ## Depth-First Search
 |  |
 | ------- |
