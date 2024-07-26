@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/dcschenc/myleetcode/tree/master/1985-maximum-subarray-min-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Hash Table
 |  |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Simulation
 |  |
@@ -1837,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [1955-seat-reservation-manager](https://github.com/dcschenc/myleetcode/tree/master/1955-seat-reservation-manager) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Ordered Set
 |  |
 | ------- |
