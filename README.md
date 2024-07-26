@@ -952,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2013-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dcschenc/myleetcode/tree/master/2013-minimum-skips-to-arrive-at-meeting-on-time) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Game Theory
 |  |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dcschenc/myleetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2011-maximum-value-after-insertion](https://github.com/dcschenc/myleetcode/tree/master/2011-maximum-value-after-insertion) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 ## Sorting
 |  |
@@ -1438,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/dcschenc/myleetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2011-maximum-value-after-insertion](https://github.com/dcschenc/myleetcode/tree/master/2011-maximum-value-after-insertion) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1936,6 +1939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Monotonic Stack
 |  |
 | ------- |
