@@ -935,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-minimum-sideway-jumps](https://github.com/dcschenc/myleetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/dcschenc/myleetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1407,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1902,6 +1904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/dcschenc/myleetcode/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/dcschenc/myleetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Monotonic Stack
 |  |
@@ -2093,6 +2096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/dcschenc/myleetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 ## Data Stream
 |  |
 | ------- |
