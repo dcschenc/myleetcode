@@ -2346,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2004-convert-date-format](https://github.com/dcschenc/myleetcode/tree/master/2004-convert-date-format) |
 | [2014-orders-with-maximum-quantity-above-average](https://github.com/dcschenc/myleetcode/tree/master/2014-orders-with-maximum-quantity-above-average) |
 | [2024-calculate-special-bonus](https://github.com/dcschenc/myleetcode/tree/master/2024-calculate-special-bonus) |
+| [2030-group-employees-of-the-same-salary](https://github.com/dcschenc/myleetcode/tree/master/2030-group-employees-of-the-same-salary) |
 ## Topological Sort
 |  |
 | ------- |
