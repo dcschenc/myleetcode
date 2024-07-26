@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/dcschenc/myleetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 | [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2011-maximum-value-after-insertion](https://github.com/dcschenc/myleetcode/tree/master/2011-maximum-value-after-insertion) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/dcschenc/myleetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 ## Sorting
 |  |
