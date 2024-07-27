@@ -1498,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2070-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/dcschenc/myleetcode/tree/master/2070-check-if-string-is-decomposable-into-value-equal-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
