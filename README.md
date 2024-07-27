@@ -2454,6 +2454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2030-group-employees-of-the-same-salary](https://github.com/dcschenc/myleetcode/tree/master/2030-group-employees-of-the-same-salary) |
 | [2041-the-latest-login-in-2020](https://github.com/dcschenc/myleetcode/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/dcschenc/myleetcode/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/dcschenc/myleetcode/tree/master/2087-confirmation-rate) |
 ## Topological Sort
 |  |
 | ------- |
