@@ -991,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/dcschenc/myleetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/dcschenc/myleetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 ## Game Theory
 |  |
