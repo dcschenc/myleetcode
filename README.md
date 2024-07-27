@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/dcschenc/myleetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2037-count-square-sum-triples](https://github.com/dcschenc/myleetcode/tree/master/2037-count-square-sum-triples) |
+| [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/dcschenc/myleetcode/tree/master/2050-count-good-numbers) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 ## Dynamic Programming
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/dcschenc/myleetcode/tree/master/1808-stone-game-vii) |
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
+| [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 ## Greedy
 |  |
@@ -1109,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/dcschenc/myleetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
+| [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/dcschenc/myleetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Sorting
 |  |
@@ -1488,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/dcschenc/myleetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
+| [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Depth-First Search
 |  |
