@@ -1405,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-reformat-date](https://github.com/dcschenc/myleetcode/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/dcschenc/myleetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/dcschenc/myleetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/dcschenc/myleetcode/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dcschenc/myleetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
