@@ -2492,6 +2492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/dcschenc/myleetcode/tree/master/2087-confirmation-rate) |
 | [2092-users-that-actively-request-confirmation-messages](https://github.com/dcschenc/myleetcode/tree/master/2092-users-that-actively-request-confirmation-messages) |
 | [2097-strong-friendship](https://github.com/dcschenc/myleetcode/tree/master/2097-strong-friendship) |
+| [2098-all-the-pairs-with-the-maximum-number-of-common-followers](https://github.com/dcschenc/myleetcode/tree/master/2098-all-the-pairs-with-the-maximum-number-of-common-followers) |
 ## Topological Sort
 |  |
 | ------- |
