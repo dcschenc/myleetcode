@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/dcschenc/myleetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2048-build-array-from-permutation](https://github.com/dcschenc/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 ## Hash Table
 |  |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1971-incremental-memory-leak](https://github.com/dcschenc/myleetcode/tree/master/1971-incremental-memory-leak) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/dcschenc/myleetcode/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
