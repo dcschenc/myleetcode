@@ -1,36 +1,36 @@
 class Solution:
     def minDifference(self, nums: List[int], queries: List[List[int]]) -> List[int]:
-        # max_val = 100  # Given constraint: 1 <= nums[i] <= 100
-        # n = len(nums)
+        max_val = 100  # Given constraint: 1 <= nums[i] <= 100
+        n = len(nums)
         
-        # # Prefix sum array for frequencies of each number from 1 to 100
-        # prefix = [[0] * (max_val + 1) for _ in range(n + 1)]
+        # Prefix sum array for frequencies of each number from 1 to 100
+        prefix = [[0] * (max_val + 1) for _ in range(n + 1)]
         
-        # # Build the prefix sum array
-        # for i in range(n):
-        #     for j in range(1, max_val + 1):
-        #         prefix[i + 1][j] = prefix[i][j]
-        #     prefix[i + 1][nums[i]] += 1
+        # Build the prefix sum array
+        for i in range(n):
+            for j in range(1, max_val + 1):
+                prefix[i + 1][j] = prefix[i][j]
+            prefix[i + 1][nums[i]] += 1
         
-        # result = []
+        result = []
         
-        # for l, r in queries:
-        #     # Find all unique numbers in the subarray nums[l..r]
-        #     freq = [prefix[r + 1][i] - prefix[l][i] for i in range(1, max_val + 1)]
-        #     unique_nums = [i for i in range(1, max_val + 1) if freq[i - 1] > 0]
+        for l, r in queries:
+            # Find all unique numbers in the subarray nums[l..r]
+            freq = [prefix[r + 1][i] - prefix[l][i] for i in range(1, max_val + 1)]
+            unique_nums = [i for i in range(1, max_val + 1) if freq[i - 1] > 0]
             
-        #     # Calculate the minimum absolute difference between consecutive unique numbers
-        #     min_diff = float('inf')
-        #     for i in range(1, len(unique_nums)):
-        #         min_diff = min(min_diff, unique_nums[i] - unique_nums[i - 1])
+            # Calculate the minimum absolute difference between consecutive unique numbers
+            min_diff = float('inf')
+            for i in range(1, len(unique_nums)):
+                min_diff = min(min_diff, unique_nums[i] - unique_nums[i - 1])
             
-        #     # If no valid pair is found, return -1
-        #     if min_diff == float('inf'):
-        #         result.append(-1)
-        #     else:
-        #         result.append(min_diff)
+            # If no valid pair is found, return -1
+            if min_diff == float('inf'):
+                result.append(-1)
+            else:
+                result.append(min_diff)
         
-        # return result
+        return result
 
         # Get the lengths of the input list and the queries
         num_count = len(nums)
