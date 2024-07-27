@@ -2488,6 +2488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/dcschenc/myleetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/dcschenc/myleetcode/tree/master/2087-confirmation-rate) |
 | [2092-users-that-actively-request-confirmation-messages](https://github.com/dcschenc/myleetcode/tree/master/2092-users-that-actively-request-confirmation-messages) |
+| [2097-strong-friendship](https://github.com/dcschenc/myleetcode/tree/master/2097-strong-friendship) |
 ## Topological Sort
 |  |
 | ------- |
