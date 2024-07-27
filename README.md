@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2072-maximum-of-minimum-values-in-all-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2072-maximum-of-minimum-values-in-all-subarrays) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/dcschenc/myleetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 ## Hash Table
 |  |
 | ------- |
@@ -1137,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/dcschenc/myleetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2066-add-minimum-number-of-rungs](https://github.com/dcschenc/myleetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/dcschenc/myleetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 ## Sorting
 |  |
 | ------- |
