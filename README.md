@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/dcschenc/myleetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2086-count-number-of-special-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2086-count-number-of-special-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dcschenc/myleetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2086-count-number-of-special-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2086-count-number-of-special-subsequences) |
 ## Game Theory
 |  |
 | ------- |
