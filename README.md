@@ -874,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/dcschenc/myleetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
+| [2037-count-square-sum-triples](https://github.com/dcschenc/myleetcode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/dcschenc/myleetcode/tree/master/2050-count-good-numbers) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 ## Dynamic Programming
@@ -2213,6 +2214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-count-square-sum-triples](https://github.com/dcschenc/myleetcode/tree/master/2037-count-square-sum-triples) |
 ## Backtracking
 |  |
 | ------- |
