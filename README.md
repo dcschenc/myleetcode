@@ -2461,6 +2461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2041-the-latest-login-in-2020](https://github.com/dcschenc/myleetcode/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/dcschenc/myleetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/dcschenc/myleetcode/tree/master/2087-confirmation-rate) |
+| [2092-users-that-actively-request-confirmation-messages](https://github.com/dcschenc/myleetcode/tree/master/2092-users-that-actively-request-confirmation-messages) |
 ## Topological Sort
 |  |
 | ------- |
