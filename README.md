@@ -897,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/dcschenc/myleetcode/tree/master/2050-count-good-numbers) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
+| [2083-three-divisors](https://github.com/dcschenc/myleetcode/tree/master/2083-three-divisors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2165,6 +2166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/dcschenc/myleetcode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1585-the-kth-factor-of-n](https://github.com/dcschenc/myleetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [2083-three-divisors](https://github.com/dcschenc/myleetcode/tree/master/2083-three-divisors) |
 ## Queue
 |  |
 | ------- |
@@ -2261,6 +2263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/dcschenc/myleetcode/tree/master/2037-count-square-sum-triples) |
+| [2083-three-divisors](https://github.com/dcschenc/myleetcode/tree/master/2083-three-divisors) |
 ## Backtracking
 |  |
 | ------- |
