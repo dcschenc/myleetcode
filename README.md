@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/dcschenc/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/dcschenc/myleetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dcschenc/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2055-describe-the-painting](https://github.com/dcschenc/myleetcode/tree/master/2055-describe-the-painting) |
 | [2058-concatenation-of-array](https://github.com/dcschenc/myleetcode/tree/master/2058-concatenation-of-array) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2066-add-minimum-number-of-rungs](https://github.com/dcschenc/myleetcode/tree/master/2066-add-minimum-number-of-rungs) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dcschenc/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2055-describe-the-painting](https://github.com/dcschenc/myleetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 ## Simulation
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/dcschenc/myleetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/dcschenc/myleetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2055-describe-the-painting](https://github.com/dcschenc/myleetcode/tree/master/2055-describe-the-painting) |
 ## Geometry
 |  |
 | ------- |
@@ -2219,6 +2222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2055-describe-the-painting](https://github.com/dcschenc/myleetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Data Stream
 |  |
