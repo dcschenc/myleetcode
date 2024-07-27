@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2066-add-minimum-number-of-rungs](https://github.com/dcschenc/myleetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dcschenc/myleetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-minimum-absolute-difference-queries](https://github.com/dcschenc/myleetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -2133,6 +2135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 ## Number Theory
 |  |
 | ------- |
