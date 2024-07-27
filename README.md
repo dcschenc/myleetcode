@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/dcschenc/myleetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2072-maximum-of-minimum-values-in-all-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2072-maximum-of-minimum-values-in-all-subarrays) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Hash Table
@@ -1934,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-buildings-with-an-ocean-view](https://github.com/dcschenc/myleetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/dcschenc/myleetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2072-maximum-of-minimum-values-in-all-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2072-maximum-of-minimum-values-in-all-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -2047,6 +2049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-buildings-with-an-ocean-view](https://github.com/dcschenc/myleetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/dcschenc/myleetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/dcschenc/myleetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2072-maximum-of-minimum-values-in-all-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2072-maximum-of-minimum-values-in-all-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
