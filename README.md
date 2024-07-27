@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/dcschenc/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dcschenc/myleetcode/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/dcschenc/myleetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Binary Search
 |  |
 | ------- |
@@ -1515,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2070-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/dcschenc/myleetcode/tree/master/2070-check-if-string-is-decomposable-into-value-equal-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/dcschenc/myleetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Depth-First Search
 |  |
 | ------- |
