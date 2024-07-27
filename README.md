@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/dcschenc/myleetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dcschenc/myleetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Game Theory
 |  |
 | ------- |
@@ -2280,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1969-maximum-number-of-accepted-invitations](https://github.com/dcschenc/myleetcode/tree/master/1969-maximum-number-of-accepted-invitations) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/dcschenc/myleetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Quickselect
 |  |
 | ------- |
@@ -2318,6 +2321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
+| [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Bitmask
 |  |
 | ------- |
@@ -2326,6 +2330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 | [1799-minimum-incompatibility](https://github.com/dcschenc/myleetcode/tree/master/1799-minimum-incompatibility) |
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Trie
 |  |
 | ------- |
