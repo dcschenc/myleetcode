@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-minimum-absolute-difference-queries](https://github.com/dcschenc/myleetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/dcschenc/myleetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/dcschenc/myleetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -1300,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/dcschenc/myleetcode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dcschenc/myleetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/dcschenc/myleetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
 ## String
 |  |
@@ -1644,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/dcschenc/myleetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
 |  |
 | ------- |
