@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/dcschenc/myleetcode/tree/master/2048-build-array-from-permutation) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
+| [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 | [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -1982,6 +1984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/dcschenc/myleetcode/tree/master/2001-jump-game-vii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/dcschenc/myleetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
