@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2034-minimum-absolute-difference-queries](https://github.com/dcschenc/myleetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -1495,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/dcschenc/myleetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2200,6 +2202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dcschenc/myleetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Data Stream
 |  |
 | ------- |
@@ -2284,6 +2287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 ## Bitmask
 |  |
