@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/dcschenc/myleetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/dcschenc/myleetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
 | [2034-minimum-absolute-difference-queries](https://github.com/dcschenc/myleetcode/tree/master/2034-minimum-absolute-difference-queries) |
