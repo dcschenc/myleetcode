@@ -1469,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/dcschenc/myleetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2011-maximum-value-after-insertion](https://github.com/dcschenc/myleetcode/tree/master/2011-maximum-value-after-insertion) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/dcschenc/myleetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Depth-First Search
