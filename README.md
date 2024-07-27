@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/dcschenc/myleetcode/tree/master/2058-concatenation-of-array) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2066-add-minimum-number-of-rungs](https://github.com/dcschenc/myleetcode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/dcschenc/myleetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 ## Hash Table
 |  |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/dcschenc/myleetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/dcschenc/myleetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Game Theory
 |  |
 | ------- |
