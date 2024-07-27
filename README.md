@@ -874,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/dcschenc/myleetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/dcschenc/myleetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
+| [2050-count-good-numbers](https://github.com/dcschenc/myleetcode/tree/master/2050-count-good-numbers) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 ## Dynamic Programming
 |  |
@@ -1843,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/dcschenc/myleetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
