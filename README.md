@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dcschenc/myleetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dcschenc/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2086-count-number-of-special-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dcschenc/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -1355,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2080-check-if-move-is-legal](https://github.com/dcschenc/myleetcode/tree/master/2080-check-if-move-is-legal) |
 | [2089-maximum-matrix-sum](https://github.com/dcschenc/myleetcode/tree/master/2089-maximum-matrix-sum) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## String
 |  |
 | ------- |
