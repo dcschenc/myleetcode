@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-check-if-move-is-legal](https://github.com/dcschenc/myleetcode/tree/master/2080-check-if-move-is-legal) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/dcschenc/myleetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2086-count-number-of-special-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2086-count-number-of-special-subsequences) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/dcschenc/myleetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dcschenc/myleetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/dcschenc/myleetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Math
 |  |
 | ------- |
@@ -1531,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/dcschenc/myleetcode/tree/master/2070-check-if-string-is-decomposable-into-value-equal-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dcschenc/myleetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/dcschenc/myleetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Depth-First Search
 |  |
 | ------- |
