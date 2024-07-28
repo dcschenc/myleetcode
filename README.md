@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dcschenc/myleetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dcschenc/myleetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2122-count-special-quadruplets) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/dcschenc/myleetcode/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dcschenc/myleetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Simulation
@@ -2246,6 +2248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dcschenc/myleetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Number Theory
 |  |
