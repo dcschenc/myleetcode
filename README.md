@@ -926,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2083-three-divisors](https://github.com/dcschenc/myleetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dcschenc/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/dcschenc/myleetcode/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2348,6 +2349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-check-if-move-is-legal](https://github.com/dcschenc/myleetcode/tree/master/2080-check-if-move-is-legal) |
 | [2083-three-divisors](https://github.com/dcschenc/myleetcode/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2122-count-special-quadruplets) |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/dcschenc/myleetcode/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 ## Backtracking
 |  |
 | ------- |
