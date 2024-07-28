@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dcschenc/myleetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
+| [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 ## Hash Table
 |  |
 | ------- |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dcschenc/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/dcschenc/myleetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 ## Sorting
 |  |
 | ------- |
@@ -1329,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/dcschenc/myleetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 ## Geometry
 |  |
 | ------- |
@@ -2202,6 +2205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dcschenc/myleetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dcschenc/myleetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 ## Merge Sort
 |  |
 | ------- |
