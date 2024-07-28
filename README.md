@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
+| [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/dcschenc/myleetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0550-shortest-path-to-get-food](https://github.com/dcschenc/myleetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/dcschenc/myleetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/dcschenc/myleetcode/tree/master/0924-fair-candy-swap) |
@@ -2244,6 +2246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/dcschenc/myleetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/dcschenc/myleetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/dcschenc/myleetcode/tree/master/1046-max-consecutive-ones-iii) |
