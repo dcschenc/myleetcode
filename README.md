@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dcschenc/myleetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/dcschenc/myleetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2122-count-special-quadruplets) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/dcschenc/myleetcode/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dcschenc/myleetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/dcschenc/myleetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Simulation
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2045-cutting-ribbons](https://github.com/dcschenc/myleetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
+| [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 ## Linked List
 |  |
 | ------- |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2115-number-of-unique-good-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2115-number-of-unique-good-subsequences) |
+| [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/dcschenc/myleetcode/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Game Theory
@@ -1318,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dcschenc/myleetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/dcschenc/myleetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Geometry
 |  |
