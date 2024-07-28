@@ -1,14 +1,24 @@
 class Solution:
     def firstDayBeenInAllRooms(self, nextVisit: List[int]) -> int:
         # https://github.com/doocs/leetcode/tree/main/solution/1900-1999/1997.First%20Day%20Where%20You%20Have%20Been%20in%20All%20the%20Rooms
- 
-        n = len(nextVisit)
-        dp = [0] * n
+        number_of_rooms = len(nextVisit)
+      
+        # Initialize an array to store the days to reach each room for the first time
+        days_to_reach = [0] * number_of_rooms
+      
+        # Define the modulo for large number handling (to prevent integer overflow)
         mod = 10**9 + 7
-        for i in range(1, n):
-            dp[i] = dp[i - 1] + 1 + dp[i - 1] - dp[nextVisit[i - 1]] + 1 
-            dp[i] = dp[i] % mod
-        return dp[n-1] % mod
+      
+        # Iterate over the rooms starting from the second room, as the first room's day count is zero by default
+        for i in range(1, number_of_rooms):
+            # Calculate number of days to reach this room for the first time
+            # The formula is based on the previous room's day count and the day count at the 
+            # index of the nextVisit for the previous room. We visit the current room after
+            # visiting the previous room twice and once after nextVisit for the previous room.
+            days_to_reach[i] = (days_to_reach[i - 1] + 1 + days_to_reach[i - 1] - days_to_reach[nextVisit[i - 1]] + 1) % mod
+      
+        # Return the number of days to reach the last room for the first time
+        return days_to_reach[-1]
 
 
         # n = len(nextVisit)
