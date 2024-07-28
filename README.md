@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/dcschenc/myleetcode/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/dcschenc/myleetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/dcschenc/myleetcode/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
 | [1983-maximum-population-year](https://github.com/dcschenc/myleetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/dcschenc/myleetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dcschenc/myleetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/dcschenc/myleetcode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1979-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/dcschenc/myleetcode/tree/master/1979-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dcschenc/myleetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2011-maximum-value-after-insertion](https://github.com/dcschenc/myleetcode/tree/master/2011-maximum-value-after-insertion) |
