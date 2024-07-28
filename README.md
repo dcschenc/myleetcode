@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/dcschenc/myleetcode/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dcschenc/myleetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dcschenc/myleetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 ## Simulation
 |  |
@@ -1614,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-number-of-unique-good-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2115-number-of-unique-good-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/dcschenc/myleetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dcschenc/myleetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
 |  |
@@ -2276,6 +2279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dcschenc/myleetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 ## Number Theory
 |  |
