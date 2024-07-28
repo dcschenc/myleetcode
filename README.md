@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dcschenc/myleetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2122-count-special-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -2069,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1955-seat-reservation-manager](https://github.com/dcschenc/myleetcode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
+| [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2263,6 +2266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dcschenc/myleetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 ## Number Theory
 |  |
 | ------- |
