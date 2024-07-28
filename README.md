@@ -2566,6 +2566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/dcschenc/myleetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dcschenc/myleetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2136-find-cutoff-score-for-each-school](https://github.com/dcschenc/myleetcode/tree/master/2136-find-cutoff-score-for-each-school) |
+| [2143-count-the-number-of-experiments](https://github.com/dcschenc/myleetcode/tree/master/2143-count-the-number-of-experiments) |
 ## Topological Sort
 |  |
 | ------- |
