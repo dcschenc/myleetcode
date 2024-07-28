@@ -2643,6 +2643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-find-cutoff-score-for-each-school](https://github.com/dcschenc/myleetcode/tree/master/2136-find-cutoff-score-for-each-school) |
 | [2143-count-the-number-of-experiments](https://github.com/dcschenc/myleetcode/tree/master/2143-count-the-number-of-experiments) |
 | [2167-number-of-accounts-that-did-not-stream](https://github.com/dcschenc/myleetcode/tree/master/2167-number-of-accounts-that-did-not-stream) |
+| [2172-low-quality-problems](https://github.com/dcschenc/myleetcode/tree/master/2172-low-quality-problems) |
 ## Topological Sort
 |  |
 | ------- |
