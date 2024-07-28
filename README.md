@@ -1050,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2115-number-of-unique-good-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2115-number-of-unique-good-subsequences) |
 | [2124-first-day-where-you-have-been-in-all-the-rooms](https://github.com/dcschenc/myleetcode/tree/master/2124-first-day-where-you-have-been-in-all-the-rooms) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Game Theory
 |  |
 | ------- |
@@ -1588,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2115-number-of-unique-good-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2115-number-of-unique-good-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/dcschenc/myleetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2384,6 +2386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Quickselect
 |  |
 | ------- |
@@ -2425,6 +2428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
 |  |
 | ------- |
@@ -2435,6 +2439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
