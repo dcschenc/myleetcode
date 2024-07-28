@@ -1,6 +1,8 @@
 class Solution:
     def firstDayBeenInAllRooms(self, nextVisit: List[int]) -> int:
         # https://github.com/doocs/leetcode/tree/main/solution/1900-1999/1997.First%20Day%20Where%20You%20Have%20Been%20in%20All%20the%20Rooms
+        # https://algo.monster/liteproblems/1997
+        
         number_of_rooms = len(nextVisit)
       
         # Initialize an array to store the days to reach each room for the first time
