@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dcschenc/myleetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -1032,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-count-number-of-special-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dcschenc/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Game Theory
 |  |
 | ------- |
@@ -2346,6 +2348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Quickselect
 |  |
 | ------- |
@@ -2386,6 +2389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Bitmask
 |  |
 | ------- |
@@ -2395,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-minimum-incompatibility](https://github.com/dcschenc/myleetcode/tree/master/1799-minimum-incompatibility) |
 | [1906-maximize-score-after-n-operations](https://github.com/dcschenc/myleetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Trie
 |  |
 | ------- |
