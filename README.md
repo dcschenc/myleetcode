@@ -768,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 | [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
 | ------- |
@@ -1617,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/dcschenc/myleetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dcschenc/myleetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
 |  |
@@ -2145,6 +2147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dcschenc/myleetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dcschenc/myleetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2366,6 +2369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2075-brightest-position-on-street](https://github.com/dcschenc/myleetcode/tree/master/2075-brightest-position-on-street) |
 | [2102-find-the-middle-index-in-array](https://github.com/dcschenc/myleetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Data Stream
 |  |
 | ------- |
