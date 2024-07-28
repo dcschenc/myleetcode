@@ -1208,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/dcschenc/myleetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
+| [2154-minimum-moves-to-convert-string](https://github.com/dcschenc/myleetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Sorting
 |  |
 | ------- |
@@ -1620,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dcschenc/myleetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/dcschenc/myleetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Depth-First Search
 |  |
 | ------- |
