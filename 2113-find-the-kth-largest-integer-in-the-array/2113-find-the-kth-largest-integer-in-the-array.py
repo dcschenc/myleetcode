@@ -1,11 +1,11 @@
 class Solution:
     def kthLargestNumber(self, nums: List[str], k: int) -> str:
-        heaps = []
-        for num in nums:
-            heappush(heaps, int(num))
-            while len(heaps) > k:
-                heappop(heaps)
-        return str(heaps[0])
+        # heaps = []
+        # for num in nums:
+        #     heappush(heaps, int(num))
+        #     while len(heaps) > k:
+        #         heappop(heaps)
+        # return str(heaps[0])
 
         def cmp(a, b):
             if len(a) != len(b):
