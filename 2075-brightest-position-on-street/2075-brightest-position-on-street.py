@@ -6,10 +6,7 @@ class Solution:
             left = lights[i][0] - lights[i][1]
             right = lights[i][0] + lights[i][1]
             lights[i][0], lights[i][1] = left, right
-            # min_idx = min(min_idx, left)
-            # max_idx = max(max_idx, right)
-        # n = max_idx - min_idx + 1
-        # diff = [0] * (n + 1)
+          
         diff = defaultdict(int)
         for start, end in lights:
             diff[start] += 1
