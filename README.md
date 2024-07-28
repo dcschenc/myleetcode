@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2072-maximum-of-minimum-values-in-all-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2072-maximum-of-minimum-values-in-all-subarrays) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2080-check-if-move-is-legal](https://github.com/dcschenc/myleetcode/tree/master/2080-check-if-move-is-legal) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/dcschenc/myleetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2086-count-number-of-special-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2086-count-number-of-special-subsequences) |
 ## Hash Table
@@ -1335,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dcschenc/myleetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/dcschenc/myleetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2080-check-if-move-is-legal](https://github.com/dcschenc/myleetcode/tree/master/2080-check-if-move-is-legal) |
 ## String
 |  |
 | ------- |
@@ -2268,6 +2270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dcschenc/myleetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/dcschenc/myleetcode/tree/master/2037-count-square-sum-triples) |
+| [2080-check-if-move-is-legal](https://github.com/dcschenc/myleetcode/tree/master/2080-check-if-move-is-legal) |
 | [2083-three-divisors](https://github.com/dcschenc/myleetcode/tree/master/2083-three-divisors) |
 ## Backtracking
 |  |
