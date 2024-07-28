@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2080-check-if-move-is-legal](https://github.com/dcschenc/myleetcode/tree/master/2080-check-if-move-is-legal) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/dcschenc/myleetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/dcschenc/myleetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2086-count-number-of-special-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dcschenc/myleetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dcschenc/myleetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -1146,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2066-add-minimum-number-of-rungs](https://github.com/dcschenc/myleetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/dcschenc/myleetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/dcschenc/myleetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dcschenc/myleetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dcschenc/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/dcschenc/myleetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/dcschenc/myleetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/dcschenc/myleetcode/tree/master/2055-describe-the-painting) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/dcschenc/myleetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Geometry
 |  |
 | ------- |
