@@ -1,40 +1,40 @@
 class Solution:
     def minSessions(self, tasks: List[int], sessionTime: int) -> int:  
-        # Calculate the number of tasks.
-        num_tasks = len(tasks)
+        # # Calculate the number of tasks.
+        # num_tasks = len(tasks)
       
-        # Initialize a list of booleans to keep track of which combinations of tasks
-        # can fit into a single session.
-        can_fit_session = [False] * (1 << num_tasks)
+        # # Initialize a list of booleans to keep track of which combinations of tasks
+        # # can fit into a single session.
+        # can_fit_session = [False] * (1 << num_tasks)
       
-        # Check all combinations of tasks.
-        for mask in range(1, 1 << num_tasks):
-            # Calculate the total time of tasks in the current combination.
-            total_time = sum(tasks[j] for j in range(num_tasks) if mask >> j & 1)
+        # # Check all combinations of tasks.
+        # for mask in range(1, 1 << num_tasks):
+        #     # Calculate the total time of tasks in the current combination.
+        #     total_time = sum(tasks[j] for j in range(num_tasks) if mask >> j & 1)
           
-            # Set True in can_fit_session if the total time of tasks is within the sessionTime.
-            can_fit_session[mask] = total_time <= sessionTime
+        #     # Set True in can_fit_session if the total time of tasks is within the sessionTime.
+        #     can_fit_session[mask] = total_time <= sessionTime
       
-        # Initialize an array to store the minimum sessions needed for every task combination.
-        min_sessions_needed = [inf] * (1 << num_tasks)
-        # Base case: zero tasks require zero sessions.
-        min_sessions_needed[0] = 0
+        # # Initialize an array to store the minimum sessions needed for every task combination.
+        # min_sessions_needed = [inf] * (1 << num_tasks)
+        # # Base case: zero tasks require zero sessions.
+        # min_sessions_needed[0] = 0
 
-        # Calculate the minimum sessions required for all the combinations.
-        for mask in range(1, 1 << num_tasks):
-            # Store the current mask to iterate over its subsets.
-            subset = mask
-            # Iterate over all the subsets of the mask.
-            while subset:
-                # Check if the current subset can fit into one session.
-                if can_fit_session[subset]:
-                    # Update the minimum sessions needed if we can achieve a smaller number.
-                    min_sessions_needed[mask] = min(min_sessions_needed[mask], min_sessions_needed[mask ^ subset] + 1)
-                # Move to the next subset.
-                subset = (subset - 1) & mask
+        # # Calculate the minimum sessions required for all the combinations.
+        # for mask in range(1, 1 << num_tasks):
+        #     # Store the current mask to iterate over its subsets.
+        #     subset = mask
+        #     # Iterate over all the subsets of the mask.
+        #     while subset:
+        #         # Check if the current subset can fit into one session.
+        #         if can_fit_session[subset]:
+        #             # Update the minimum sessions needed if we can achieve a smaller number.
+        #             min_sessions_needed[mask] = min(min_sessions_needed[mask], min_sessions_needed[mask ^ subset] + 1)
+        #         # Move to the next subset.
+        #         subset = (subset - 1) & mask
       
-        # Return the minimum sessions needed for all tasks.
-        return min_sessions_needed[-1]
+        # # Return the minimum sessions needed for all tasks.
+        # return min_sessions_needed[-1]
 
         def backtrack(idx):
             nonlocal ans           
