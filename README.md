@@ -1539,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/dcschenc/myleetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dcschenc/myleetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dcschenc/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dcschenc/myleetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Depth-First Search
 |  |
 | ------- |
