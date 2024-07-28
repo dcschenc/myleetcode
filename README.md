@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dcschenc/myleetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dcschenc/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/dcschenc/myleetcode/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
+| [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/dcschenc/myleetcode/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/dcschenc/myleetcode/tree/master/2039-sum-game) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
+| [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
@@ -1209,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2154-minimum-moves-to-convert-string](https://github.com/dcschenc/myleetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -2286,6 +2290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
+| [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
