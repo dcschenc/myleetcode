@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/dcschenc/myleetcode/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dcschenc/myleetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dcschenc/myleetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2102-find-the-middle-index-in-array](https://github.com/dcschenc/myleetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dcschenc/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -2300,6 +2301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/dcschenc/myleetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/dcschenc/myleetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Data Stream
 |  |
 | ------- |
