@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dcschenc/myleetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2102-find-the-middle-index-in-array](https://github.com/dcschenc/myleetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/dcschenc/myleetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dcschenc/myleetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/dcschenc/myleetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-describe-the-painting](https://github.com/dcschenc/myleetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/dcschenc/myleetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
 ## Simulation
 |  |
@@ -1659,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-longest-word-with-all-prefixes](https://github.com/dcschenc/myleetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/dcschenc/myleetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2126-count-nodes-equal-to-sum-of-descendants](https://github.com/dcschenc/myleetcode/tree/master/2126-count-nodes-equal-to-sum-of-descendants) |
 ## Breadth-First Search
@@ -1735,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dcschenc/myleetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/dcschenc/myleetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -1879,6 +1883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1810-change-the-root-of-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1810-change-the-root-of-a-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/dcschenc/myleetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
+| [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2126-count-nodes-equal-to-sum-of-descendants](https://github.com/dcschenc/myleetcode/tree/master/2126-count-nodes-equal-to-sum-of-descendants) |
 ## Binary Tree
 |  |
@@ -2032,6 +2037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [1955-seat-reservation-manager](https://github.com/dcschenc/myleetcode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 ## Ordered Set
 |  |
 | ------- |
