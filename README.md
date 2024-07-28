@@ -2533,6 +2533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-strong-friendship](https://github.com/dcschenc/myleetcode/tree/master/2097-strong-friendship) |
 | [2098-all-the-pairs-with-the-maximum-number-of-common-followers](https://github.com/dcschenc/myleetcode/tree/master/2098-all-the-pairs-with-the-maximum-number-of-common-followers) |
 | [2110-employees-with-missing-information](https://github.com/dcschenc/myleetcode/tree/master/2110-employees-with-missing-information) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/dcschenc/myleetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Topological Sort
 |  |
 | ------- |
