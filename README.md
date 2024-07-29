@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1767-design-front-middle-back-queue](https://github.com/dcschenc/myleetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1905-design-authentication-manager](https://github.com/dcschenc/myleetcode/tree/master/1905-design-authentication-manager) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
+| [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/dcschenc/myleetcode/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-faulty-sensor](https://github.com/dcschenc/myleetcode/tree/master/1980-faulty-sensor) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/dcschenc/myleetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dcschenc/myleetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/dcschenc/myleetcode/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2019-product-of-two-run-length-encoded-arrays](https://github.com/dcschenc/myleetcode/tree/master/2019-product-of-two-run-length-encoded-arrays) |
 | [2036-count-pairs-in-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2036-count-pairs-in-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dcschenc/myleetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -1348,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/dcschenc/myleetcode/tree/master/1970-sorting-the-sentence) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/dcschenc/myleetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dcschenc/myleetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/dcschenc/myleetcode/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/dcschenc/myleetcode/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2029-minimize-product-sum-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2029-minimize-product-sum-of-two-arrays) |
