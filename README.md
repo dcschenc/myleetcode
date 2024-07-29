@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/dcschenc/myleetcode/tree/master/2169-simple-bank-system) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -1674,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
