@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
 | [2181-smallest-index-with-equal-value](https://github.com/dcschenc/myleetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2183-minimum-operations-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2183-minimum-operations-to-convert-number) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dcschenc/myleetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 ## Hash Table
 |  |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dcschenc/myleetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Linked List
 |  |
 | ------- |
