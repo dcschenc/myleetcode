@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [1992-sort-linked-list-already-sorted-using-absolute-values](https://github.com/dcschenc/myleetcode/tree/master/1992-sort-linked-list-already-sorted-using-absolute-values) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dcschenc/myleetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/dcschenc/myleetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
 |  |
 | ------- |
