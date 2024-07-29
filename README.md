@@ -2746,6 +2746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-accepted-candidates-from-the-interviews](https://github.com/dcschenc/myleetcode/tree/master/2185-accepted-candidates-from-the-interviews) |
 | [2194-the-category-of-each-member-in-the-store](https://github.com/dcschenc/myleetcode/tree/master/2194-the-category-of-each-member-in-the-store) |
 | [2208-account-balance](https://github.com/dcschenc/myleetcode/tree/master/2208-account-balance) |
+| [2214-the-winner-university](https://github.com/dcschenc/myleetcode/tree/master/2214-the-winner-university) |
 ## Topological Sort
 |  |
 | ------- |
