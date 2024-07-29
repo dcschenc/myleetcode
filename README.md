@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/dcschenc/myleetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2183-minimum-operations-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dcschenc/myleetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dcschenc/myleetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 ## Hash Table
 |  |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dcschenc/myleetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/dcschenc/myleetcode/tree/master/2169-simple-bank-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/dcschenc/myleetcode/tree/master/2178-walking-robot-simulation-ii) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dcschenc/myleetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 ## Binary Search
 |  |
@@ -2402,6 +2404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dcschenc/myleetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
