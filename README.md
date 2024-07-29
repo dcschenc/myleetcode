@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dcschenc/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
 | [2169-simple-bank-system](https://github.com/dcschenc/myleetcode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2118-maximum-earnings-from-taxi](https://github.com/dcschenc/myleetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
 ## Linked List
 |  |
 | ------- |
@@ -1663,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2154-minimum-moves-to-convert-string](https://github.com/dcschenc/myleetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 ## Depth-First Search
@@ -2431,6 +2434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/dcschenc/myleetcode/tree/master/2075-brightest-position-on-street) |
 | [2102-find-the-middle-index-in-array](https://github.com/dcschenc/myleetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
 ## Data Stream
 |  |
 | ------- |
