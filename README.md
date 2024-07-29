@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dcschenc/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2181-smallest-index-with-equal-value](https://github.com/dcschenc/myleetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2183-minimum-operations-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dcschenc/myleetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dcschenc/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dcschenc/myleetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Linked List
 |  |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2154-minimum-moves-to-convert-string](https://github.com/dcschenc/myleetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
 | ------- |
@@ -1395,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dcschenc/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dcschenc/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Geometry
 |  |
 | ------- |
@@ -2397,6 +2401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1814-jump-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2404,6 +2409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/dcschenc/myleetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dcschenc/myleetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1814-jump-game-vi](https://github.com/dcschenc/myleetcode/tree/master/1814-jump-game-vi) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Combinatorics
 |  |
 | ------- |
