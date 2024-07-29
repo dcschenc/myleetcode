@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dcschenc/myleetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dcschenc/myleetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/dcschenc/myleetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 | [2159-two-out-of-three](https://github.com/dcschenc/myleetcode/tree/master/2159-two-out-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dcschenc/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1809,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/dcschenc/myleetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/dcschenc/myleetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 ## Union Find
 |  |
 | ------- |
@@ -1873,6 +1875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dcschenc/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/dcschenc/myleetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 ## Divide and Conquer
 |  |
 | ------- |
