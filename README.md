@@ -1681,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2362,6 +2363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 | [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -2450,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/dcschenc/myleetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2165-plates-between-candles](https://github.com/dcschenc/myleetcode/tree/master/2165-plates-between-candles) |
+| [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 ## Data Stream
 |  |
 | ------- |
