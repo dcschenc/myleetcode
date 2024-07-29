@@ -2680,6 +2680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2143-count-the-number-of-experiments](https://github.com/dcschenc/myleetcode/tree/master/2143-count-the-number-of-experiments) |
 | [2167-number-of-accounts-that-did-not-stream](https://github.com/dcschenc/myleetcode/tree/master/2167-number-of-accounts-that-did-not-stream) |
 | [2172-low-quality-problems](https://github.com/dcschenc/myleetcode/tree/master/2172-low-quality-problems) |
+| [2185-accepted-candidates-from-the-interviews](https://github.com/dcschenc/myleetcode/tree/master/2185-accepted-candidates-from-the-interviews) |
 ## Topological Sort
 |  |
 | ------- |
