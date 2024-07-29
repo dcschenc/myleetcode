@@ -5,6 +5,7 @@
 #         self.next = next
 class Solution:
     def reverseEvenLengthGroups(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        # https://github.com/doocs/leetcode/tree/main/solution/2000-2099/2074.Reverse%20Nodes%20in%20Even%20Length%20Groups
         def reverse_linklist(cur, cnt):
             dummy = ListNode(-1, cur)
             prev = None
