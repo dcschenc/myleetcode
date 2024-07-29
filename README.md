@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/dcschenc/myleetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
 | [2159-two-out-of-three](https://github.com/dcschenc/myleetcode/tree/master/2159-two-out-of-three) |
+| [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 ## Simulation
 |  |
 | ------- |
@@ -2100,6 +2101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dcschenc/myleetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/dcschenc/myleetcode/tree/master/2139-detect-squares) |
+| [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2114,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/dcschenc/myleetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [2075-brightest-position-on-street](https://github.com/dcschenc/myleetcode/tree/master/2075-brightest-position-on-street) |
+| [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -2234,6 +2237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dcschenc/myleetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
+| [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2399,6 +2403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1767-design-front-middle-back-queue](https://github.com/dcschenc/myleetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1775-design-an-ordered-stream](https://github.com/dcschenc/myleetcode/tree/master/1775-design-an-ordered-stream) |
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
+| [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 ## Enumeration
 |  |
 | ------- |
