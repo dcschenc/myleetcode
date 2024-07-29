@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/dcschenc/myleetcode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
+| [2181-smallest-index-with-equal-value](https://github.com/dcschenc/myleetcode/tree/master/2181-smallest-index-with-equal-value) |
 ## Hash Table
 |  |
 | ------- |
