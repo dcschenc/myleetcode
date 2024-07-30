@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/dcschenc/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/dcschenc/myleetcode/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Hash Table
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dcschenc/myleetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/dcschenc/myleetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Game Theory
 |  |
 | ------- |
