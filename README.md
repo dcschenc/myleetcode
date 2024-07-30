@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/dcschenc/myleetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/dcschenc/myleetcode/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
+| [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Hash Table
 |  |
 | ------- |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2226-rings-and-rods](https://github.com/dcschenc/myleetcode/tree/master/2226-rings-and-rods) |
+| [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Simulation
 |  |
 | ------- |
@@ -2299,6 +2301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dcschenc/myleetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/dcschenc/myleetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 ## Monotonic Stack
 |  |
 | ------- |
