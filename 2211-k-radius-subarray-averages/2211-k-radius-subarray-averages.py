@@ -7,7 +7,7 @@ class Solution:
         total_sum = sum(nums[:2 * k + 1])
         avgs[k] = total_sum // (2 * k + 1)
 
-        for i in range(k+1, n - k):
+        for i in range(k + 1, n - k):
             total_sum += nums[i + k] - nums[i - k - 1]
             avgs[i] = total_sum // (2 * k + 1)
 
