@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/dcschenc/myleetcode/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
+| [2258-elements-in-array-after-removing-and-replacing-elements](https://github.com/dcschenc/myleetcode/tree/master/2258-elements-in-array-after-removing-and-replacing-elements) |
 ## Hash Table
 |  |
 | ------- |
