@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/dcschenc/myleetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dcschenc/myleetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/dcschenc/myleetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dcschenc/myleetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dcschenc/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 ## Dynamic Programming
 |  |
@@ -1449,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/dcschenc/myleetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
 | ------- |
@@ -1824,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2126-count-nodes-equal-to-sum-of-descendants](https://github.com/dcschenc/myleetcode/tree/master/2126-count-nodes-equal-to-sum-of-descendants) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -1904,6 +1908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/dcschenc/myleetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2183-minimum-operations-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2183-minimum-operations-to-convert-number) |
+| [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 ## Union Find
 |  |
@@ -1972,6 +1977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/dcschenc/myleetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
+| [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/dcschenc/myleetcode/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
