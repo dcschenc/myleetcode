@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dcschenc/myleetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/dcschenc/myleetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/dcschenc/myleetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1283,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dcschenc/myleetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/dcschenc/myleetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/dcschenc/myleetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
