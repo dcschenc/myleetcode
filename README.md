@@ -2837,6 +2837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2214-the-winner-university](https://github.com/dcschenc/myleetcode/tree/master/2214-the-winner-university) |
 | [2223-the-number-of-rich-customers](https://github.com/dcschenc/myleetcode/tree/master/2223-the-number-of-rich-customers) |
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/dcschenc/myleetcode/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
+| [2252-the-airport-with-the-most-traffic](https://github.com/dcschenc/myleetcode/tree/master/2252-the-airport-with-the-most-traffic) |
 ## Topological Sort
 |  |
 | ------- |
