@@ -1132,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
 | [2187-vowels-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dcschenc/myleetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Game Theory
 |  |
 | ------- |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/dcschenc/myleetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dcschenc/myleetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/dcschenc/myleetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
@@ -1706,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dcschenc/myleetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dcschenc/myleetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 ## Depth-First Search
