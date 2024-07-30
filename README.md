@@ -1959,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/dcschenc/myleetcode/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2340,6 +2341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2841,6 +2843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/dcschenc/myleetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dcschenc/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Binary Indexed Tree
 |  |
 | ------- |
