@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/dcschenc/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/dcschenc/myleetcode/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2258-elements-in-array-after-removing-and-replacing-elements](https://github.com/dcschenc/myleetcode/tree/master/2258-elements-in-array-after-removing-and-replacing-elements) |
 ## Hash Table
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2238-a-number-after-a-double-reversal](https://github.com/dcschenc/myleetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1537,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/dcschenc/myleetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dcschenc/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String
 |  |
 | ------- |
@@ -1763,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/dcschenc/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/dcschenc/myleetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Depth-First Search
 |  |
 | ------- |
