@@ -1039,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2238-a-number-after-a-double-reversal](https://github.com/dcschenc/myleetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Dynamic Programming
 |  |
 | ------- |
