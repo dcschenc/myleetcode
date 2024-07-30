@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2226-rings-and-rods](https://github.com/dcschenc/myleetcode/tree/master/2226-rings-and-rods) |
 ## Simulation
 |  |
 | ------- |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2226-rings-and-rods](https://github.com/dcschenc/myleetcode/tree/master/2226-rings-and-rods) |
 ## Depth-First Search
 |  |
 | ------- |
