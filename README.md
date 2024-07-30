@@ -2760,6 +2760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2194-the-category-of-each-member-in-the-store](https://github.com/dcschenc/myleetcode/tree/master/2194-the-category-of-each-member-in-the-store) |
 | [2208-account-balance](https://github.com/dcschenc/myleetcode/tree/master/2208-account-balance) |
 | [2214-the-winner-university](https://github.com/dcschenc/myleetcode/tree/master/2214-the-winner-university) |
+| [2223-the-number-of-rich-customers](https://github.com/dcschenc/myleetcode/tree/master/2223-the-number-of-rich-customers) |
 ## Topological Sort
 |  |
 | ------- |
