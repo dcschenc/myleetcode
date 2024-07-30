@@ -1724,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/dcschenc/myleetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dcschenc/myleetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 ## Depth-First Search
 |  |
@@ -1816,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-count-nodes-equal-to-sum-of-descendants](https://github.com/dcschenc/myleetcode/tree/master/2126-count-nodes-equal-to-sum-of-descendants) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2048,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-operations-on-tree](https://github.com/dcschenc/myleetcode/tree/master/2104-operations-on-tree) |
 | [2126-count-nodes-equal-to-sum-of-descendants](https://github.com/dcschenc/myleetcode/tree/master/2126-count-nodes-equal-to-sum-of-descendants) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2107,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1883-find-distance-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2126-count-nodes-equal-to-sum-of-descendants](https://github.com/dcschenc/myleetcode/tree/master/2126-count-nodes-equal-to-sum-of-descendants) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Recursion
 |  |
 | ------- |
