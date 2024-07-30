@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dcschenc/myleetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dcschenc/myleetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/dcschenc/myleetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/dcschenc/myleetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2226-rings-and-rods](https://github.com/dcschenc/myleetcode/tree/master/2226-rings-and-rods) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
@@ -1754,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dcschenc/myleetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2226-rings-and-rods](https://github.com/dcschenc/myleetcode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -2001,6 +2004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/dcschenc/myleetcode/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Divide and Conquer
 |  |
@@ -2852,6 +2856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dcschenc/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Probability and Statistics
 |  |
 | ------- |
