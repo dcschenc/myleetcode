@@ -4,9 +4,7 @@ class Solution:
         nums.sort(reverse = True)
         n = len(nums)
         topkSum = sum(nums[:k])
-
-        if topkSum % 2 == 0: 
-            return topkSum
+        if topkSum % 2 == 0: return topkSum
 
         minOdd = minEven = float('inf')
 
