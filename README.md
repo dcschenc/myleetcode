@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/dcschenc/myleetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dcschenc/myleetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2211-k-radius-subarray-averages](https://github.com/dcschenc/myleetcode/tree/master/2211-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -2259,6 +2260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-kth-smallest-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/2069-kth-smallest-subarray-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dcschenc/myleetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dcschenc/myleetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2211-k-radius-subarray-averages](https://github.com/dcschenc/myleetcode/tree/master/2211-k-radius-subarray-averages) |
 ## Monotonic Stack
 |  |
 | ------- |
