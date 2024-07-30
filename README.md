@@ -1423,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/dcschenc/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dcschenc/myleetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 ## Geometry
 |  |
 | ------- |
@@ -1809,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2126-count-nodes-equal-to-sum-of-descendants](https://github.com/dcschenc/myleetcode/tree/master/2126-count-nodes-equal-to-sum-of-descendants) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1887,6 +1889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/dcschenc/myleetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2183-minimum-operations-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2183-minimum-operations-to-convert-number) |
+| [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
@@ -1915,6 +1918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/dcschenc/myleetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
@@ -1953,6 +1957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/dcschenc/myleetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
+| [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/dcschenc/myleetcode/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
 ## Divide and Conquer
 |  |
