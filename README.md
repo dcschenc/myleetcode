@@ -1762,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/dcschenc/myleetcode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/dcschenc/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/dcschenc/myleetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Depth-First Search
 |  |
 | ------- |
