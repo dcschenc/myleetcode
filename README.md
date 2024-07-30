@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/dcschenc/myleetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dcschenc/myleetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/dcschenc/myleetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/dcschenc/myleetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -1752,6 +1753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dcschenc/myleetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/dcschenc/myleetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2226-rings-and-rods](https://github.com/dcschenc/myleetcode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
