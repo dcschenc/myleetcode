@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/dcschenc/myleetcode/tree/master/1287-distance-between-bus-stops) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/dcschenc/myleetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/dcschenc/myleetcode/tree/master/1293-three-consecutive-odds) |
+| [1294-range-frequency-queries](https://github.com/dcschenc/myleetcode/tree/master/1294-range-frequency-queries) |
 | [1299-k-concatenation-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/dcschenc/myleetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/dcschenc/myleetcode/tree/master/1306-minimum-absolute-difference) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/dcschenc/myleetcode/tree/master/1272-invalid-transactions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1294-range-frequency-queries](https://github.com/dcschenc/myleetcode/tree/master/1294-range-frequency-queries) |
 | [1297-maximum-number-of-balloons](https://github.com/dcschenc/myleetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/dcschenc/myleetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/dcschenc/myleetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/dcschenc/myleetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/dcschenc/myleetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1294-range-frequency-queries](https://github.com/dcschenc/myleetcode/tree/master/1294-range-frequency-queries) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/dcschenc/myleetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1384-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/dcschenc/myleetcode/tree/master/1384-maximum-font-to-fit-a-sentence-in-a-screen) |
@@ -2149,6 +2152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1176-design-a-leaderboard](https://github.com/dcschenc/myleetcode/tree/master/1176-design-a-leaderboard) |
 | [1211-iterator-for-combination](https://github.com/dcschenc/myleetcode/tree/master/1211-iterator-for-combination) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
+| [1294-range-frequency-queries](https://github.com/dcschenc/myleetcode/tree/master/1294-range-frequency-queries) |
 | [1366-first-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1366-first-unique-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1459-apply-discount-every-n-orders](https://github.com/dcschenc/myleetcode/tree/master/1459-apply-discount-every-n-orders) |
@@ -2828,4 +2832,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+| [1294-range-frequency-queries](https://github.com/dcschenc/myleetcode/tree/master/1294-range-frequency-queries) |
 <!---LeetCode Topics End-->
