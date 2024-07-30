@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/dcschenc/myleetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/dcschenc/myleetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dcschenc/myleetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/dcschenc/myleetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dcschenc/myleetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dcschenc/myleetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dcschenc/myleetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 ## Simulation
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dcschenc/myleetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dcschenc/myleetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -2353,6 +2356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/dcschenc/myleetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Merge Sort
 |  |
