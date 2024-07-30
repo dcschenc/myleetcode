@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dcschenc/myleetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/dcschenc/myleetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/dcschenc/myleetcode/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
 ## Hash Table
 |  |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-walking-robot-simulation-ii](https://github.com/dcschenc/myleetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dcschenc/myleetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dcschenc/myleetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/dcschenc/myleetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 ## Math
 |  |
 | ------- |
