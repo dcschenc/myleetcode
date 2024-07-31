@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/dcschenc/myleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2273-pour-water-between-buckets-to-make-water-levels-equal](https://github.com/dcschenc/myleetcode/tree/master/2273-pour-water-between-buckets-to-make-water-levels-equal) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/dcschenc/myleetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Hash Table
 |  |
@@ -1518,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dcschenc/myleetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/dcschenc/myleetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Geometry
 |  |
 | ------- |
