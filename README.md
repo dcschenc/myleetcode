@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dcschenc/myleetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/dcschenc/myleetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/dcschenc/myleetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dcschenc/myleetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dcschenc/myleetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -1488,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2242-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/dcschenc/myleetcode/tree/master/2242-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2245-destroying-asteroids](https://github.com/dcschenc/myleetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dcschenc/myleetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/dcschenc/myleetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Geometry
@@ -1569,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dcschenc/myleetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/dcschenc/myleetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/dcschenc/myleetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dcschenc/myleetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/dcschenc/myleetcode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 ## String
@@ -1974,6 +1977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-minimum-operations-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/dcschenc/myleetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Union Find
 |  |
 | ------- |
@@ -2436,6 +2440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/dcschenc/myleetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dcschenc/myleetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/dcschenc/myleetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Merge Sort
 |  |
 | ------- |
