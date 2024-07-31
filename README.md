@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/dcschenc/myleetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/dcschenc/myleetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Hash Table
 |  |
 | ------- |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/dcschenc/myleetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Simulation
 |  |
@@ -1374,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dcschenc/myleetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/dcschenc/myleetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Sorting
 |  |
 | ------- |
@@ -2555,6 +2558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dcschenc/myleetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/dcschenc/myleetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Number Theory
 |  |
