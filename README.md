@@ -1081,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/dcschenc/myleetcode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/dcschenc/myleetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Dynamic Programming
 |  |
@@ -1520,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dcschenc/myleetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/dcschenc/myleetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/dcschenc/myleetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Geometry
 |  |
 | ------- |
