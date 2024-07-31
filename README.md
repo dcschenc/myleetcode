@@ -2921,6 +2921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/dcschenc/myleetcode/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
 | [2252-the-airport-with-the-most-traffic](https://github.com/dcschenc/myleetcode/tree/master/2252-the-airport-with-the-most-traffic) |
 | [2281-the-number-of-passengers-in-each-bus-i](https://github.com/dcschenc/myleetcode/tree/master/2281-the-number-of-passengers-in-each-bus-i) |
+| [2302-order-two-columns-independently](https://github.com/dcschenc/myleetcode/tree/master/2302-order-two-columns-independently) |
 ## Topological Sort
 |  |
 | ------- |
