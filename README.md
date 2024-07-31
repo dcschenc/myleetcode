@@ -1215,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/dcschenc/myleetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/dcschenc/myleetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/dcschenc/myleetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Game Theory
 |  |
@@ -1836,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/dcschenc/myleetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 ## Depth-First Search
 |  |
 | ------- |
