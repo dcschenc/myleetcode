@@ -1074,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/dcschenc/myleetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/dcschenc/myleetcode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Dynamic Programming
@@ -1361,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/dcschenc/myleetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dcschenc/myleetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/dcschenc/myleetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dcschenc/myleetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Geometry
