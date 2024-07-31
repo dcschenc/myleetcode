@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dcschenc/myleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2273-pour-water-between-buckets-to-make-water-levels-equal](https://github.com/dcschenc/myleetcode/tree/master/2273-pour-water-between-buckets-to-make-water-levels-equal) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Hash Table
 |  |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dcschenc/myleetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Simulation
 |  |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/dcschenc/myleetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/dcschenc/myleetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dcschenc/myleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -1505,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dcschenc/myleetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Geometry
 |  |
 | ------- |
