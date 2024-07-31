@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/dcschenc/myleetcode/tree/master/2245-destroying-asteroids) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dcschenc/myleetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2249-count-the-hidden-sequences](https://github.com/dcschenc/myleetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dcschenc/myleetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dcschenc/myleetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -2603,6 +2604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/dcschenc/myleetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2209-number-of-equal-count-substrings](https://github.com/dcschenc/myleetcode/tree/master/2209-number-of-equal-count-substrings) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2249-count-the-hidden-sequences](https://github.com/dcschenc/myleetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Data Stream
 |  |
 | ------- |
