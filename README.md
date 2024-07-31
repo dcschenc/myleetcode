@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dcschenc/myleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2273-pour-water-between-buckets-to-make-water-levels-equal](https://github.com/dcschenc/myleetcode/tree/master/2273-pour-water-between-buckets-to-make-water-levels-equal) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dcschenc/myleetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Simulation
 |  |
 | ------- |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dcschenc/myleetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/dcschenc/myleetcode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1200,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/dcschenc/myleetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/dcschenc/myleetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Game Theory
 |  |
 | ------- |
@@ -1514,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/dcschenc/myleetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Matrix
 |  |
 | ------- |
@@ -2679,6 +2684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Quickselect
 |  |
 | ------- |
@@ -2724,6 +2730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/dcschenc/myleetcode/tree/master/2159-two-out-of-three) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/dcschenc/myleetcode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Bitmask
 |  |
 | ------- |
@@ -2735,6 +2742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/dcschenc/myleetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Trie
 |  |
 | ------- |
