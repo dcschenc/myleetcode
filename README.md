@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -1838,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/dcschenc/myleetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2551,6 +2553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/dcschenc/myleetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dcschenc/myleetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -2798,6 +2801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
+| [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Suffix Array
 |  |
 | ------- |
@@ -2813,6 +2817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dcschenc/myleetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1697-strings-differ-by-one-character](https://github.com/dcschenc/myleetcode/tree/master/1697-strings-differ-by-one-character) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
+| [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Database
 |  |
 | ------- |
