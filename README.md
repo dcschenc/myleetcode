@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/dcschenc/myleetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1342-queens-that-can-attack-the-king](https://github.com/dcschenc/myleetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1345-perform-string-shifts](https://github.com/dcschenc/myleetcode/tree/master/1345-perform-string-shifts) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/dcschenc/myleetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -1311,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/dcschenc/myleetcode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/dcschenc/myleetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
