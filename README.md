@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dcschenc/myleetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dcschenc/myleetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dcschenc/myleetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/dcschenc/myleetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/dcschenc/myleetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dcschenc/myleetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/dcschenc/myleetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
