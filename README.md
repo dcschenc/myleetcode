@@ -1925,6 +1925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dcschenc/myleetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dcschenc/myleetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/dcschenc/myleetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -2012,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dcschenc/myleetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/dcschenc/myleetcode/tree/master/1428-jump-game-iii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dcschenc/myleetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1432-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dcschenc/myleetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -2100,6 +2102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/dcschenc/myleetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/dcschenc/myleetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/dcschenc/myleetcode/tree/master/1325-path-with-maximum-probability) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dcschenc/myleetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/dcschenc/myleetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dcschenc/myleetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -3000,6 +3003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/dcschenc/myleetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [1101-parallel-courses](https://github.com/dcschenc/myleetcode/tree/master/1101-parallel-courses) |
 | [1177-tree-diameter](https://github.com/dcschenc/myleetcode/tree/master/1177-tree-diameter) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dcschenc/myleetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/dcschenc/myleetcode/tree/master/1558-course-schedule-iv) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/dcschenc/myleetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
