@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dcschenc/myleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dcschenc/myleetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2314-remove-all-ones-with-row-and-column-flips-ii](https://github.com/dcschenc/myleetcode/tree/master/2314-remove-all-ones-with-row-and-column-flips-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1422,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/dcschenc/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -2545,6 +2547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/dcschenc/myleetcode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/dcschenc/myleetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dcschenc/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Merge Sort
 |  |
 | ------- |
