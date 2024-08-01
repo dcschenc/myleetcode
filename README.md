@@ -1090,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/dcschenc/myleetcode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dcschenc/myleetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/dcschenc/myleetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/dcschenc/myleetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dcschenc/myleetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1381,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dcschenc/myleetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dcschenc/myleetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/dcschenc/myleetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/dcschenc/myleetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Sorting
@@ -2724,6 +2726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2107-find-unique-binary-string) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dcschenc/myleetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/dcschenc/myleetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 ## Quickselect
 |  |
