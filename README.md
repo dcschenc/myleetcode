@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/dcschenc/myleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2314-remove-all-ones-with-row-and-column-flips-ii](https://github.com/dcschenc/myleetcode/tree/master/2314-remove-all-ones-with-row-and-column-flips-ii) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 ## Hash Table
 |  |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dcschenc/myleetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/dcschenc/myleetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Math
 |  |
 | ------- |
