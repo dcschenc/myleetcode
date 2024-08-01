@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/dcschenc/myleetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2314-remove-all-ones-with-row-and-column-flips-ii](https://github.com/dcschenc/myleetcode/tree/master/2314-remove-all-ones-with-row-and-column-flips-ii) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 ## Hash Table
@@ -1862,6 +1863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/dcschenc/myleetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/dcschenc/myleetcode/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/dcschenc/myleetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dcschenc/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 ## Depth-First Search
@@ -2818,6 +2820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/dcschenc/myleetcode/tree/master/1508-longest-happy-prefix) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1764-maximum-repeating-substring) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Brainteaser
 |  |
 | ------- |
