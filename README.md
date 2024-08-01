@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
+| [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -1427,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 ## Sorting
 |  |
 | ------- |
