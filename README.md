@@ -935,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dcschenc/myleetcode/tree/master/1129-longest-string-chain) |
 | [1150-two-sum-bsts](https://github.com/dcschenc/myleetcode/tree/master/1150-two-sum-bsts) |
 | [1165-meeting-scheduler](https://github.com/dcschenc/myleetcode/tree/master/1165-meeting-scheduler) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dcschenc/myleetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -1300,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/dcschenc/myleetcode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1720,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-perform-string-shifts](https://github.com/dcschenc/myleetcode/tree/master/1345-perform-string-shifts) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dcschenc/myleetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -3057,6 +3060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1511-count-number-of-teams](https://github.com/dcschenc/myleetcode/tree/master/1511-count-number-of-teams) |
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
 ## Doubly-Linked List
