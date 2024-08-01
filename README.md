@@ -1260,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/dcschenc/myleetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/dcschenc/myleetcode/tree/master/2295-minimum-time-to-finish-the-race) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/dcschenc/myleetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 ## Game Theory
 |  |
@@ -1902,6 +1903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/dcschenc/myleetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/dcschenc/myleetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2726,6 +2728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/dcschenc/myleetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/dcschenc/myleetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Data Stream
 |  |
 | ------- |
