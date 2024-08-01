@@ -1031,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1383-number-of-single-divisor-triplets](https://github.com/dcschenc/myleetcode/tree/master/1383-number-of-single-divisor-triplets) |
 | [1385-number-of-ways-to-build-house-of-cards](https://github.com/dcschenc/myleetcode/tree/master/1385-number-of-ways-to-build-house-of-cards) |
 | [1395-minimum-time-visiting-all-points](https://github.com/dcschenc/myleetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/dcschenc/myleetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
