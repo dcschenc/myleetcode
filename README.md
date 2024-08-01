@@ -1881,6 +1881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/dcschenc/myleetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dcschenc/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/dcschenc/myleetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Depth-First Search
 |  |
 | ------- |
