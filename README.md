@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/dcschenc/myleetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/dcschenc/myleetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dcschenc/myleetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Binary Search
 |  |
 | ------- |
@@ -1905,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/dcschenc/myleetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/dcschenc/myleetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
+| [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2364,6 +2366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/dcschenc/myleetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Design
 |  |
 | ------- |
