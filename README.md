@@ -1441,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/dcschenc/myleetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 ## Sorting
 |  |
@@ -1923,6 +1924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/dcschenc/myleetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/dcschenc/myleetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/dcschenc/myleetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Depth-First Search
 |  |
 | ------- |
