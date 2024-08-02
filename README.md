@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2329-maximum-product-after-k-increments](https://github.com/dcschenc/myleetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 ## Hash Table
@@ -1447,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/dcschenc/myleetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/dcschenc/myleetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 ## Sorting
@@ -2584,6 +2586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/dcschenc/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/dcschenc/myleetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2329-maximum-product-after-k-increments](https://github.com/dcschenc/myleetcode/tree/master/2329-maximum-product-after-k-increments) |
 ## Merge Sort
 |  |
 | ------- |
