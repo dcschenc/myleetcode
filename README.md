@@ -1933,6 +1933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/dcschenc/myleetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/dcschenc/myleetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/dcschenc/myleetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/dcschenc/myleetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Depth-First Search
 |  |
@@ -2798,6 +2799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/dcschenc/myleetcode/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/dcschenc/myleetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 ## Backtracking
 |  |
 | ------- |
