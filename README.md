@@ -1220,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/dcschenc/myleetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1419-make-array-non-decreasing-or-non-increasing](https://github.com/dcschenc/myleetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dcschenc/myleetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dcschenc/myleetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1419-make-array-non-decreasing-or-non-increasing](https://github.com/dcschenc/myleetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/dcschenc/myleetcode/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dcschenc/myleetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
