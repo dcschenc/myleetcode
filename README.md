@@ -1092,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dcschenc/myleetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/dcschenc/myleetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dcschenc/myleetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/dcschenc/myleetcode/tree/master/1448-maximum-69-number) |
@@ -1824,6 +1825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1384-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/dcschenc/myleetcode/tree/master/1384-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/dcschenc/myleetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/dcschenc/myleetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1449-print-words-vertically](https://github.com/dcschenc/myleetcode/tree/master/1449-print-words-vertically) |
@@ -2548,6 +2550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dcschenc/myleetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/dcschenc/myleetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/dcschenc/myleetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dcschenc/myleetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dcschenc/myleetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
