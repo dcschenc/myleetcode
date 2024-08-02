@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
+| [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -2745,6 +2746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/dcschenc/myleetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
+| [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 ## Data Stream
 |  |
 | ------- |
