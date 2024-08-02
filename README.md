@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/dcschenc/myleetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2342-minimum-average-difference](https://github.com/dcschenc/myleetcode/tree/master/2342-minimum-average-difference) |
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2350-find-closest-number-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2352-design-an-atm-machine](https://github.com/dcschenc/myleetcode/tree/master/2352-design-an-atm-machine) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
@@ -1314,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/dcschenc/myleetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2340-total-appeal-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2340-total-appeal-of-a-string) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Game Theory
 |  |
 | ------- |
@@ -1733,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2268-remove-all-ones-with-row-and-column-flips](https://github.com/dcschenc/myleetcode/tree/master/2268-remove-all-ones-with-row-and-column-flips) |
 | [2314-remove-all-ones-with-row-and-column-flips-ii](https://github.com/dcschenc/myleetcode/tree/master/2314-remove-all-ones-with-row-and-column-flips-ii) |
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
