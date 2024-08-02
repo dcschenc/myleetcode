@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dcschenc/myleetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/dcschenc/myleetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/dcschenc/myleetcode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1366-first-unique-number) |
@@ -1322,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/dcschenc/myleetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/dcschenc/myleetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -2344,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/dcschenc/myleetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dcschenc/myleetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/dcschenc/myleetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dcschenc/myleetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/dcschenc/myleetcode/tree/master/1552-build-an-array-with-stack-operations) |
