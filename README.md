@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/dcschenc/myleetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/dcschenc/myleetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/dcschenc/myleetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 ## Linked List
 |  |
 | ------- |
@@ -1490,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/dcschenc/myleetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2352-design-an-atm-machine](https://github.com/dcschenc/myleetcode/tree/master/2352-design-an-atm-machine) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/dcschenc/myleetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Sorting
@@ -1653,6 +1656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/dcschenc/myleetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/dcschenc/myleetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Geometry
 |  |
@@ -2845,6 +2849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2342-minimum-average-difference](https://github.com/dcschenc/myleetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/dcschenc/myleetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 ## Data Stream
