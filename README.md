@@ -1149,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/dcschenc/myleetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/dcschenc/myleetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2383-add-two-integers](https://github.com/dcschenc/myleetcode/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
 |  |
@@ -2814,6 +2815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/dcschenc/myleetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/dcschenc/myleetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Backtracking
 |  |
 | ------- |
