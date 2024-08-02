@@ -3087,6 +3087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/dcschenc/myleetcode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2370-users-with-two-purchases-within-seven-days](https://github.com/dcschenc/myleetcode/tree/master/2370-users-with-two-purchases-within-seven-days) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/dcschenc/myleetcode/tree/master/2371-the-users-that-are-eligible-for-discount) |
+| [2376-number-of-times-a-driver-was-a-passenger](https://github.com/dcschenc/myleetcode/tree/master/2376-number-of-times-a-driver-was-a-passenger) |
 ## Topological Sort
 |  |
 | ------- |
