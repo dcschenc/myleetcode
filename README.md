@@ -1606,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/dcschenc/myleetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/dcschenc/myleetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Geometry
 |  |
 | ------- |
@@ -2581,6 +2582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/dcschenc/myleetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dcschenc/myleetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dcschenc/myleetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/dcschenc/myleetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
