@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/dcschenc/myleetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/dcschenc/myleetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2350-find-closest-number-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2352-design-an-atm-machine](https://github.com/dcschenc/myleetcode/tree/master/2352-design-an-atm-machine) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/dcschenc/myleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dcschenc/myleetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Simulation
 |  |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/dcschenc/myleetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/dcschenc/myleetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2383-add-two-integers](https://github.com/dcschenc/myleetcode/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
@@ -1641,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Matrix
 |  |
 | ------- |
@@ -2832,6 +2836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/dcschenc/myleetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/dcschenc/myleetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/dcschenc/myleetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/dcschenc/myleetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
 ## Backtracking
