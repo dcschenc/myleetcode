@@ -3065,6 +3065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-order-two-columns-independently](https://github.com/dcschenc/myleetcode/tree/master/2302-order-two-columns-independently) |
 | [2315-the-change-in-global-rankings](https://github.com/dcschenc/myleetcode/tree/master/2315-the-change-in-global-rankings) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/dcschenc/myleetcode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
+| [2370-users-with-two-purchases-within-seven-days](https://github.com/dcschenc/myleetcode/tree/master/2370-users-with-two-purchases-within-seven-days) |
 ## Topological Sort
 |  |
 | ------- |
