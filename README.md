@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 ## Hash Table
@@ -1953,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/dcschenc/myleetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/dcschenc/myleetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/dcschenc/myleetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2047,6 +2049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/dcschenc/myleetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2204,6 +2207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2289,6 +2293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2175-count-nodes-with-the-highest-score](https://github.com/dcschenc/myleetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dcschenc/myleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2384-root-equals-sum-of-children](https://github.com/dcschenc/myleetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -3115,6 +3120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dcschenc/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Probability and Statistics
 |  |
 | ------- |
