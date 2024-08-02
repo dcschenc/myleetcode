@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/dcschenc/myleetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/dcschenc/myleetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2350-find-closest-number-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2354-minimum-health-to-beat-game](https://github.com/dcschenc/myleetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
