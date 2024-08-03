@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 ## Hash Table
 |  |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/dcschenc/myleetcode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dcschenc/myleetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dcschenc/myleetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -1730,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Geometry
 |  |
 | ------- |
@@ -2780,6 +2783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dcschenc/myleetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dcschenc/myleetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
