@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-counting-elements](https://github.com/dcschenc/myleetcode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/dcschenc/myleetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/dcschenc/myleetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/dcschenc/myleetcode/tree/master/1397-search-suggestions-system) |
@@ -1254,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-number-of-ways-to-build-house-of-cards](https://github.com/dcschenc/myleetcode/tree/master/1385-number-of-ways-to-build-house-of-cards) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/dcschenc/myleetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1419-make-array-non-decreasing-or-non-increasing](https://github.com/dcschenc/myleetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1741,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/dcschenc/myleetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/dcschenc/myleetcode/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/dcschenc/myleetcode/tree/master/1386-shift-2d-grid) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/dcschenc/myleetcode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/dcschenc/myleetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
