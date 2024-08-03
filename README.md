@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dcschenc/myleetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dcschenc/myleetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1416-check-if-an-array-is-consecutive](https://github.com/dcschenc/myleetcode/tree/master/1416-check-if-an-array-is-consecutive) |
+| [1418-fair-distribution-of-cookies](https://github.com/dcschenc/myleetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dcschenc/myleetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dcschenc/myleetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/dcschenc/myleetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dcschenc/myleetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/dcschenc/myleetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1419-make-array-non-decreasing-or-non-increasing](https://github.com/dcschenc/myleetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dcschenc/myleetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -2975,6 +2977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-iterator-for-combination](https://github.com/dcschenc/myleetcode/tree/master/1211-iterator-for-combination) |
 | [1331-path-with-maximum-gold](https://github.com/dcschenc/myleetcode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1418-fair-distribution-of-cookies](https://github.com/dcschenc/myleetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dcschenc/myleetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dcschenc/myleetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -3004,6 +3007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-encode-number](https://github.com/dcschenc/myleetcode/tree/master/1189-encode-number) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1418-fair-distribution-of-cookies](https://github.com/dcschenc/myleetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dcschenc/myleetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/dcschenc/myleetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dcschenc/myleetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -3045,6 +3049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1418-fair-distribution-of-cookies](https://github.com/dcschenc/myleetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dcschenc/myleetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1587-parallel-courses-ii](https://github.com/dcschenc/myleetcode/tree/master/1587-parallel-courses-ii) |
 | [1799-minimum-incompatibility](https://github.com/dcschenc/myleetcode/tree/master/1799-minimum-incompatibility) |
