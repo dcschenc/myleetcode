@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/dcschenc/myleetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Hash Table
@@ -1794,6 +1795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/dcschenc/myleetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## String
 |  |
