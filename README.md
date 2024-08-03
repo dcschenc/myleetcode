@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/dcschenc/myleetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
+| [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -1753,6 +1754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2314-remove-all-ones-with-row-and-column-flips-ii](https://github.com/dcschenc/myleetcode/tree/master/2314-remove-all-ones-with-row-and-column-flips-ii) |
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -2478,6 +2480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/dcschenc/myleetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
+| [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -2612,6 +2615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2072-maximum-of-minimum-values-in-all-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2072-maximum-of-minimum-values-in-all-subarrays) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/dcschenc/myleetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/dcschenc/myleetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
