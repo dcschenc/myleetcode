@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
+| [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -1334,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/dcschenc/myleetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2340-total-appeal-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Game Theory
 |  |
 | ------- |
