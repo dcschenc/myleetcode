@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dcschenc/myleetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dcschenc/myleetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
@@ -1548,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dcschenc/myleetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 ## Sorting
 |  |
@@ -1718,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dcschenc/myleetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
@@ -2766,6 +2769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/dcschenc/myleetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dcschenc/myleetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
