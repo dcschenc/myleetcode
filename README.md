@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/dcschenc/myleetcode/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dcschenc/myleetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/dcschenc/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dcschenc/myleetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/dcschenc/myleetcode/tree/master/2433-best-poker-hand) |
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dcschenc/myleetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/dcschenc/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dcschenc/myleetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dcschenc/myleetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2468-valid-palindrome-iv](https://github.com/dcschenc/myleetcode/tree/master/2468-valid-palindrome-iv) |
 ## Math
 |  |
@@ -3083,6 +3086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/dcschenc/myleetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dcschenc/myleetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Backtracking
 |  |
 | ------- |
