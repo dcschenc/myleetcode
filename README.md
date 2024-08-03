@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dcschenc/myleetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-count-lattice-points-inside-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/dcschenc/myleetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2383-add-two-integers](https://github.com/dcschenc/myleetcode/tree/master/2383-add-two-integers) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1717,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 ## Geometry
 |  |
@@ -2763,6 +2766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/dcschenc/myleetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
