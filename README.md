@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
+| [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 ## Hash Table
 |  |
 | ------- |
@@ -1392,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-count-number-of-ways-to-place-houses](https://github.com/dcschenc/myleetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 ## Game Theory
 |  |
 | ------- |
@@ -2601,6 +2603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
+| [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 ## Design
 |  |
 | ------- |
@@ -2746,6 +2749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2374-steps-to-make-array-non-decreasing](https://github.com/dcschenc/myleetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
+| [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
