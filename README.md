@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
+| [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/dcschenc/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2428-equal-row-and-column-pairs](https://github.com/dcschenc/myleetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 ## Binary Search
 |  |
 | ------- |
