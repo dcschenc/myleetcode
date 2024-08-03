@@ -2035,6 +2035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dcschenc/myleetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
+| [2391-strong-password-checker-ii](https://github.com/dcschenc/myleetcode/tree/master/2391-strong-password-checker-ii) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Depth-First Search
 |  |
