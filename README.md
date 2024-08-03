@@ -1113,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/dcschenc/myleetcode/tree/master/1289-day-of-the-week) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dcschenc/myleetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/dcschenc/myleetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1345-perform-string-shifts](https://github.com/dcschenc/myleetcode/tree/master/1345-perform-string-shifts) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/dcschenc/myleetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
@@ -1252,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/dcschenc/myleetcode/tree/master/1332-count-vowels-permutation) |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/dcschenc/myleetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/dcschenc/myleetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1385-number-of-ways-to-build-house-of-cards](https://github.com/dcschenc/myleetcode/tree/master/1385-number-of-ways-to-build-house-of-cards) |
@@ -1409,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dcschenc/myleetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/dcschenc/myleetcode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dcschenc/myleetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/dcschenc/myleetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/dcschenc/myleetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/dcschenc/myleetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/dcschenc/myleetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -2944,6 +2947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1212-sequential-digits](https://github.com/dcschenc/myleetcode/tree/master/1212-sequential-digits) |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/dcschenc/myleetcode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dcschenc/myleetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/dcschenc/myleetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/dcschenc/myleetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
