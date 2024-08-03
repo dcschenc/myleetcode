@@ -15,8 +15,8 @@ class Solution:
         if left == 0: 
             return 0
         else:
-            a = sum([min(x, left)**2 for x in diff_data]) 
-            b = (left**2 - (left-1)**2) * (k - sum([max(0, x - left) for x in diff_data]))
+            a = sum([min(x, left) ** 2 for x in diff_data]) 
+            b = (left ** 2 - (left - 1) ** 2) * (k - sum([max(0, x - left) for x in diff_data]))
             return a - b
 
 
