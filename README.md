@@ -3277,6 +3277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-arrange-table-by-gender](https://github.com/dcschenc/myleetcode/tree/master/2441-arrange-table-by-gender) |
 | [2446-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/dcschenc/myleetcode/tree/master/2446-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2451-product-sales-analysis-iv](https://github.com/dcschenc/myleetcode/tree/master/2451-product-sales-analysis-iv) |
+| [2452-product-sales-analysis-v](https://github.com/dcschenc/myleetcode/tree/master/2452-product-sales-analysis-v) |
 ## Topological Sort
 |  |
 | ------- |
