@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2386-min-max-game](https://github.com/dcschenc/myleetcode/tree/master/2386-min-max-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2388-replace-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Hash Table
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/dcschenc/myleetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dcschenc/myleetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2388-replace-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Simulation
 |  |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/dcschenc/myleetcode/tree/master/2386-min-max-game) |
+| [2388-replace-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2388-replace-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
