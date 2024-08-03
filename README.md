@@ -2152,6 +2152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dcschenc/myleetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dcschenc/myleetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2237,6 +2238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2314-remove-all-ones-with-row-and-column-flips-ii](https://github.com/dcschenc/myleetcode/tree/master/2314-remove-all-ones-with-row-and-column-flips-ii) |
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -2266,6 +2268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/dcschenc/myleetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dcschenc/myleetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/dcschenc/myleetcode/tree/master/2213-find-all-people-with-secret) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
 |  |
 | ------- |
@@ -2315,6 +2318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
