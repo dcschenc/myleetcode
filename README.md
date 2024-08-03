@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dcschenc/myleetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
@@ -1731,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dcschenc/myleetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Geometry
@@ -2088,6 +2090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 | [2406-decode-the-message](https://github.com/dcschenc/myleetcode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dcschenc/myleetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2468-valid-palindrome-iv](https://github.com/dcschenc/myleetcode/tree/master/2468-valid-palindrome-iv) |
 ## Depth-First Search
 |  |
@@ -2368,6 +2371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/dcschenc/myleetcode/tree/master/1873-longest-nice-substring) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Tree
 |  |
 | ------- |
@@ -2783,6 +2787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/dcschenc/myleetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dcschenc/myleetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
@@ -2797,6 +2802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -3056,6 +3062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/dcschenc/myleetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dcschenc/myleetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Bit Manipulation
 |  |
 | ------- |
