@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dcschenc/myleetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1538,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1707,6 +1709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 ## Geometry
 |  |
 | ------- |
