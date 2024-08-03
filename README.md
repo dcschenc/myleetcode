@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/dcschenc/myleetcode/tree/master/2386-min-max-game) |
 | [2388-replace-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 ## Binary Search
 |  |
 | ------- |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dcschenc/myleetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/dcschenc/myleetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2032,6 +2034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-apply-discount-to-prices](https://github.com/dcschenc/myleetcode/tree/master/2373-apply-discount-to-prices) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dcschenc/myleetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
+| [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Depth-First Search
 |  |
@@ -2510,6 +2513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/dcschenc/myleetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/dcschenc/myleetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/dcschenc/myleetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Design
 |  |
@@ -2552,6 +2556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/dcschenc/myleetcode/tree/master/2169-simple-bank-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/dcschenc/myleetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2352-design-an-atm-machine](https://github.com/dcschenc/myleetcode/tree/master/2352-design-an-atm-machine) |
+| [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 ## Ordered Set
 |  |
 | ------- |
@@ -3292,6 +3297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-design-browser-history](https://github.com/dcschenc/myleetcode/tree/master/1582-design-browser-history) |
 | [1905-design-authentication-manager](https://github.com/dcschenc/myleetcode/tree/master/1905-design-authentication-manager) |
+| [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 ## Line Sweep
 |  |
 | ------- |
