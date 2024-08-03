@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dcschenc/myleetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/dcschenc/myleetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/dcschenc/myleetcode/tree/master/2429-design-a-food-rating-system) |
 | [2433-best-poker-hand](https://github.com/dcschenc/myleetcode/tree/master/2433-best-poker-hand) |
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -2643,6 +2644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-design-an-atm-machine](https://github.com/dcschenc/myleetcode/tree/master/2352-design-an-atm-machine) |
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dcschenc/myleetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/dcschenc/myleetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -2660,6 +2662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/dcschenc/myleetcode/tree/master/2075-brightest-position-on-street) |
 | [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2429-design-a-food-rating-system](https://github.com/dcschenc/myleetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -2809,6 +2812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-minimum-sum-of-squared-difference](https://github.com/dcschenc/myleetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/dcschenc/myleetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dcschenc/myleetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2429-design-a-food-rating-system](https://github.com/dcschenc/myleetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
