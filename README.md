@@ -3247,6 +3247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2376-number-of-times-a-driver-was-a-passenger](https://github.com/dcschenc/myleetcode/tree/master/2376-number-of-times-a-driver-was-a-passenger) |
 | [2431-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/dcschenc/myleetcode/tree/master/2431-products-with-three-or-more-orders-in-two-consecutive-years) |
 | [2440-tasks-count-in-the-weekend](https://github.com/dcschenc/myleetcode/tree/master/2440-tasks-count-in-the-weekend) |
+| [2441-arrange-table-by-gender](https://github.com/dcschenc/myleetcode/tree/master/2441-arrange-table-by-gender) |
 ## Topological Sort
 |  |
 | ------- |
