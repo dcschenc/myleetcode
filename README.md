@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dcschenc/myleetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dcschenc/myleetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/dcschenc/myleetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dcschenc/myleetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1364-tuple-with-same-product](https://github.com/dcschenc/myleetcode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/dcschenc/myleetcode/tree/master/1366-first-unique-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1872,6 +1873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dcschenc/myleetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/dcschenc/myleetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dcschenc/myleetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dcschenc/myleetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1384-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/dcschenc/myleetcode/tree/master/1384-maximum-font-to-fit-a-sentence-in-a-screen) |
@@ -2942,6 +2944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/dcschenc/myleetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1212-sequential-digits](https://github.com/dcschenc/myleetcode/tree/master/1212-sequential-digits) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dcschenc/myleetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/dcschenc/myleetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/dcschenc/myleetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/dcschenc/myleetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
