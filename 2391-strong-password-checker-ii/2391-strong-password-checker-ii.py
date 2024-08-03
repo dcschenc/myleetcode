@@ -1,5 +1,6 @@
 class Solution:
     def strongPasswordCheckerII(self, password: str) -> bool:
+        # https://github.com/doocs/leetcode/tree/main/solution/2200-2299/2299.Strong%20Password%20Checker%20II
         if len(password) < 8:
             return False
         mask = 0
