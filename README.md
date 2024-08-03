@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Hash Table
 |  |
 | ------- |
@@ -1738,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dcschenc/myleetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Geometry
 |  |
 | ------- |
@@ -2586,6 +2588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2374-steps-to-make-array-non-decreasing](https://github.com/dcschenc/myleetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Design
 |  |
 | ------- |
@@ -2726,6 +2729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-sum-of-total-strength-of-wizards](https://github.com/dcschenc/myleetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/dcschenc/myleetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
