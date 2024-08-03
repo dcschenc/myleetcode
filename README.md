@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2388-replace-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Hash Table
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/dcschenc/myleetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -2633,6 +2635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/dcschenc/myleetcode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dcschenc/myleetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dcschenc/myleetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2914,6 +2917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-sum-of-total-strength-of-wizards](https://github.com/dcschenc/myleetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Data Stream
 |  |
 | ------- |
