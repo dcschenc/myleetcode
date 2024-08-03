@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2388-replace-elements-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2406-decode-the-message](https://github.com/dcschenc/myleetcode/tree/master/2406-decode-the-message) |
 ## Simulation
 |  |
 | ------- |
@@ -2062,6 +2063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/dcschenc/myleetcode/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/dcschenc/myleetcode/tree/master/2401-count-asterisks) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
+| [2406-decode-the-message](https://github.com/dcschenc/myleetcode/tree/master/2406-decode-the-message) |
 ## Depth-First Search
 |  |
 | ------- |
