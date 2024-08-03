@@ -2015,6 +2015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2365-percentage-of-letter-in-string](https://github.com/dcschenc/myleetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/dcschenc/myleetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2373-apply-discount-to-prices](https://github.com/dcschenc/myleetcode/tree/master/2373-apply-discount-to-prices) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dcschenc/myleetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
