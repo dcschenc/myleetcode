@@ -3352,6 +3352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-product-sales-analysis-v](https://github.com/dcschenc/myleetcode/tree/master/2452-product-sales-analysis-v) |
 | [2453-all-the-matches-of-the-league](https://github.com/dcschenc/myleetcode/tree/master/2453-all-the-matches-of-the-league) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/dcschenc/myleetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dcschenc/myleetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Topological Sort
 |  |
 | ------- |
