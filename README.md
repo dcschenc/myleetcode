@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2386-min-max-game](https://github.com/dcschenc/myleetcode/tree/master/2386-min-max-game) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Hash Table
@@ -1513,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/dcschenc/myleetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Sorting
 |  |
@@ -1680,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/dcschenc/myleetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/dcschenc/myleetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dcschenc/myleetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Geometry
 |  |
