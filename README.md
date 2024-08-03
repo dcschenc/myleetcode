@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dcschenc/myleetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dcschenc/myleetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
@@ -1361,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2340-total-appeal-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/dcschenc/myleetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Game Theory
 |  |
@@ -1801,6 +1803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dcschenc/myleetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## String
 |  |
@@ -2161,6 +2164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dcschenc/myleetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2247,6 +2251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-escape-the-spreading-fire](https://github.com/dcschenc/myleetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -2327,6 +2332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dcschenc/myleetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2493,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/dcschenc/myleetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dcschenc/myleetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -3284,6 +3291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/dcschenc/myleetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dcschenc/myleetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Probability and Statistics
 |  |
 | ------- |
