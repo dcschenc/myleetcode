@@ -2,17 +2,34 @@ class Solution:
 # https://algo.monster/liteproblems/2345
     def visibleMountains(self, peaks: List[List[int]]) -> int:
         # https://github.com/doocs/leetcode/tree/main/solution/2300-2399/2345.Finding%20the%20Number%20of%20Visible%20Mountains
-        arr = [(x - y, x + y) for x, y in peaks]
-        cnt = Counter(arr)
-        arr.sort(key=lambda x: (x[0], -x[1]))
-        ans, cur = 0, -inf
-        for l, r in arr:
-            if r <= cur:
+        # Convert each peak to a representation of its visibility range (left and right points)
+        visibility_ranges = [(x - y, x + y) for x, y in peaks]
+      
+        # Count how many times each visibility range occurs
+        counts = Counter(visibility_ranges)
+      
+        # Sort the visibility ranges by the left point, and then by the right point in descending order
+        visibility_ranges.sort(key=lambda point: (point[0], -point[1]))
+      
+        # Initialize the answer as 0 and the marker for the furthest right point seen so far as -infinity
+        visible_mountains_count, furthest_right = 0, -inf
+      
+        # Loop through the sorted visibility ranges 
+        for left, right in visibility_ranges:
+            # If the right point of the current range is not further than the furthest right seen
+            # it means this mountain is obscured by another, so we can continue
+            if right <= furthest_right:
                 continue
-            cur = r
-            if cnt[(l, r)] == 1:
-                ans += 1
-        return ans
+          
+            # Update the furthest right point seen so far to the current range's right point
+            furthest_right = right
+          
+            # If the current range only has one occurrence, it means the mountain is visible
+            if counts[(left, right)] == 1:
+                visible_mountains_count += 1
+      
+        # Return the total count of visible mountains
+        return visible_mountains_count
 
         # stack = [-inf]
         # curMax = 0
