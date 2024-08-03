@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/strong-password-checker-ii/">2440. Tasks Count in the Weekend</a></h2><h3>Medium</h3><hr><p>Table: <code>Tasks</code></p>
+<h2><a href="https://leetcode.com/problems/strong-password-checker-ii/description/">2440. Tasks Count in the Weekend</a></h2><h3>Medium</h3><hr><p>Table: <code>Tasks</code></p>
 
 <pre>
 +-------------+------+
