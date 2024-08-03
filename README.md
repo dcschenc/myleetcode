@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/dcschenc/myleetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/dcschenc/myleetcode/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2369-maximum-sum-score-of-array](https://github.com/dcschenc/myleetcode/tree/master/2369-maximum-sum-score-of-array) |
+| [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 ## Hash Table
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Simulation
 |  |
@@ -2008,6 +2010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/dcschenc/myleetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dcschenc/myleetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2365-percentage-of-letter-in-string](https://github.com/dcschenc/myleetcode/tree/master/2365-percentage-of-letter-in-string) |
+| [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Depth-First Search
 |  |
@@ -2761,6 +2764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/dcschenc/myleetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2378-sender-with-largest-word-count](https://github.com/dcschenc/myleetcode/tree/master/2378-sender-with-largest-word-count) |
 | [2405-minimum-number-of-keypresses](https://github.com/dcschenc/myleetcode/tree/master/2405-minimum-number-of-keypresses) |
 ## Number Theory
 |  |
