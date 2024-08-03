@@ -1358,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/dcschenc/myleetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2340-total-appeal-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dcschenc/myleetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/dcschenc/myleetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Game Theory
 |  |
