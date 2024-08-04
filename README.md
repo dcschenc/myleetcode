@@ -3393,6 +3393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2453-all-the-matches-of-the-league](https://github.com/dcschenc/myleetcode/tree/master/2453-all-the-matches-of-the-league) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/dcschenc/myleetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dcschenc/myleetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [2515-calculate-the-influence-of-each-salesperson](https://github.com/dcschenc/myleetcode/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 ## Topological Sort
 |  |
 | ------- |
