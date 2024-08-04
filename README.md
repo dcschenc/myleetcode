@@ -880,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/dcschenc/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/dcschenc/myleetcode/tree/master/2455-node-with-highest-edge-score) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
@@ -2260,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dcschenc/myleetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -2349,6 +2351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dcschenc/myleetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dcschenc/myleetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
 | ------- |
@@ -2524,6 +2527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-root-equals-sum-of-children](https://github.com/dcschenc/myleetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dcschenc/myleetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
 ## Binary Tree
 |  |
@@ -2589,6 +2593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/dcschenc/myleetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/dcschenc/myleetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Recursion
 |  |
 | ------- |
