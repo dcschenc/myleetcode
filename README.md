@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/dcschenc/myleetcode/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dcschenc/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dcschenc/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dcschenc/myleetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2499-minimum-money-required-before-transactions](https://github.com/dcschenc/myleetcode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
@@ -2207,6 +2208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-check-distances-between-same-letters](https://github.com/dcschenc/myleetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/dcschenc/myleetcode/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dcschenc/myleetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dcschenc/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2496-count-days-spent-together](https://github.com/dcschenc/myleetcode/tree/master/2496-count-days-spent-together) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 ## Depth-First Search
@@ -3034,6 +3036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/dcschenc/myleetcode/tree/master/2433-best-poker-hand) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 | [2486-most-frequent-even-element](https://github.com/dcschenc/myleetcode/tree/master/2486-most-frequent-even-element) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dcschenc/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -3303,6 +3306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1949-implement-trie-ii-prefix-tree](https://github.com/dcschenc/myleetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/dcschenc/myleetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dcschenc/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## String Matching
 |  |
 | ------- |
