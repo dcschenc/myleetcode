@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/dcschenc/myleetcode/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## Linked List
 |  |
@@ -1616,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/dcschenc/myleetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 ## Sorting
@@ -1795,6 +1798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Geometry
@@ -3091,6 +3095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/dcschenc/myleetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/dcschenc/myleetcode/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Data Stream
 |  |
 | ------- |
