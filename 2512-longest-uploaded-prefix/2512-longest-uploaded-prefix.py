@@ -1,5 +1,5 @@
 class LUPrefix:
-
+    # https://github.com/doocs/leetcode/tree/main/solution/2400-2499/2424.Longest%20Uploaded%20Prefix
     def __init__(self, n: int):
         self.n = n
         self.hm = set()
@@ -14,7 +14,7 @@ class LUPrefix:
 
     def longest(self) -> int:
         return self.cur
-        
+
         # for i in range(1, self.n + 1):
         #     if i not in self.hm:
         #         return i - 1
