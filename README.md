@@ -3402,6 +3402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2484-compute-the-rank-as-a-percentage](https://github.com/dcschenc/myleetcode/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dcschenc/myleetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/dcschenc/myleetcode/tree/master/2515-calculate-the-influence-of-each-salesperson) |
+| [2516-sort-the-olympic-table](https://github.com/dcschenc/myleetcode/tree/master/2516-sort-the-olympic-table) |
 ## Topological Sort
 |  |
 | ------- |
