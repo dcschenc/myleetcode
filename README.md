@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/dcschenc/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dcschenc/myleetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
@@ -1876,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/dcschenc/myleetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## String
 |  |
 | ------- |
