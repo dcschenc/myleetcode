@@ -896,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 | [2486-most-frequent-even-element](https://github.com/dcschenc/myleetcode/tree/master/2486-most-frequent-even-element) |
+| [2487-optimal-partition-of-string](https://github.com/dcschenc/myleetcode/tree/master/2487-optimal-partition-of-string) |
 ## Simulation
 |  |
 | ------- |
@@ -1637,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
+| [2487-optimal-partition-of-string](https://github.com/dcschenc/myleetcode/tree/master/2487-optimal-partition-of-string) |
 ## Sorting
 |  |
 | ------- |
@@ -2188,6 +2190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/dcschenc/myleetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 | [2476-check-distances-between-same-letters](https://github.com/dcschenc/myleetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2487-optimal-partition-of-string](https://github.com/dcschenc/myleetcode/tree/master/2487-optimal-partition-of-string) |
 ## Depth-First Search
 |  |
 | ------- |
