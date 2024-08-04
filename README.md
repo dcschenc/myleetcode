@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2428-equal-row-and-column-pairs](https://github.com/dcschenc/myleetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 ## Binary Search
 |  |
@@ -1420,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/dcschenc/myleetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2444-longest-ideal-subsequence) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
@@ -2149,6 +2151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dcschenc/myleetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dcschenc/myleetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2468-valid-palindrome-iv](https://github.com/dcschenc/myleetcode/tree/master/2468-valid-palindrome-iv) |
 ## Depth-First Search
 |  |
