@@ -1310,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/dcschenc/myleetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2491-smallest-even-multiple](https://github.com/dcschenc/myleetcode/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/dcschenc/myleetcode/tree/master/2496-count-days-spent-together) |
+| [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 ## Dynamic Programming
 |  |
@@ -3072,6 +3073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dcschenc/myleetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dcschenc/myleetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/dcschenc/myleetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 ## Queue
 |  |
 | ------- |
@@ -3217,6 +3219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/dcschenc/myleetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dcschenc/myleetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 ## Backtracking
 |  |
 | ------- |
