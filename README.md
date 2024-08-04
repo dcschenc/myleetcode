@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2476-check-distances-between-same-letters](https://github.com/dcschenc/myleetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2479-meeting-rooms-iii](https://github.com/dcschenc/myleetcode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 | [2476-check-distances-between-same-letters](https://github.com/dcschenc/myleetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2479-meeting-rooms-iii](https://github.com/dcschenc/myleetcode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 ## Simulation
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2479-meeting-rooms-iii](https://github.com/dcschenc/myleetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 ## Binary Search
 |  |
@@ -1811,6 +1814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/dcschenc/myleetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/dcschenc/myleetcode/tree/master/2479-meeting-rooms-iii) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Geometry
 |  |
@@ -2907,6 +2911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/dcschenc/myleetcode/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
 |  |
 | ------- |
