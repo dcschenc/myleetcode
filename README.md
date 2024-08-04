@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
+| [2486-most-frequent-even-element](https://github.com/dcschenc/myleetcode/tree/master/2486-most-frequent-even-element) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/dcschenc/myleetcode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/dcschenc/myleetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
+| [2486-most-frequent-even-element](https://github.com/dcschenc/myleetcode/tree/master/2486-most-frequent-even-element) |
 ## Simulation
 |  |
 | ------- |
@@ -3004,6 +3006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/dcschenc/myleetcode/tree/master/2433-best-poker-hand) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
+| [2486-most-frequent-even-element](https://github.com/dcschenc/myleetcode/tree/master/2486-most-frequent-even-element) |
 ## Number Theory
 |  |
 | ------- |
