@@ -3425,6 +3425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dcschenc/myleetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/dcschenc/myleetcode/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 | [2516-sort-the-olympic-table](https://github.com/dcschenc/myleetcode/tree/master/2516-sort-the-olympic-table) |
+| [2523-change-null-values-in-a-table-to-the-previous-value](https://github.com/dcschenc/myleetcode/tree/master/2523-change-null-values-in-a-table-to-the-previous-value) |
 ## Topological Sort
 |  |
 | ------- |
