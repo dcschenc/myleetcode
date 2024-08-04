@@ -1295,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dcschenc/myleetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/dcschenc/myleetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2496-count-days-spent-together](https://github.com/dcschenc/myleetcode/tree/master/2496-count-days-spent-together) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 ## Dynamic Programming
 |  |
@@ -2197,6 +2198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 | [2476-check-distances-between-same-letters](https://github.com/dcschenc/myleetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/dcschenc/myleetcode/tree/master/2487-optimal-partition-of-string) |
+| [2496-count-days-spent-together](https://github.com/dcschenc/myleetcode/tree/master/2496-count-days-spent-together) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 ## Depth-First Search
 |  |
