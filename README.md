@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dcschenc/myleetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/dcschenc/myleetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/dcschenc/myleetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/dcschenc/myleetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-count-number-of-ways-to-place-houses](https://github.com/dcschenc/myleetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/dcschenc/myleetcode/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/dcschenc/myleetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
 ## Game Theory
