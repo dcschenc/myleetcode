@@ -1,11 +1,12 @@
 class Solution:
     def matrixMedian(self, grid: List[List[int]]) -> int:
-        # def count(x):
-        #     return sum(bisect_right(row, x) for row in grid)
+        # https://github.com/doocs/leetcode/tree/main/solution/2300-2399/2387.Median%20of%20a%20Row%20Wise%20Sorted%20Matrix
+        def count(x):
+            return sum(bisect_right(row, x) for row in grid)
 
-        # m, n = len(grid), len(grid[0])
-        # target = (m * n + 1) >> 1
-        # return bisect_left(range(10**6 + 1), target, key=count)
+        m, n = len(grid), len(grid[0])
+        target = (m * n + 1) >> 1
+        return bisect_left(range(10**6 + 1), target, key=count)
 
         m, n = len(grid), len(grid[0])        
         heap = []
