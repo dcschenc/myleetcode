@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/dcschenc/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/dcschenc/myleetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dcschenc/myleetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2474-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/dcschenc/myleetcode/tree/master/2474-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
@@ -2169,6 +2170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/dcschenc/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2468-valid-palindrome-iv](https://github.com/dcschenc/myleetcode/tree/master/2468-valid-palindrome-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/dcschenc/myleetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 ## Depth-First Search
 |  |
@@ -3099,6 +3101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/dcschenc/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/dcschenc/myleetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Data Stream
 |  |
 | ------- |
