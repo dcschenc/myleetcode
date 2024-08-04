@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/dcschenc/myleetcode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/dcschenc/myleetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -1889,6 +1891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/dcschenc/myleetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## String
 |  |
 | ------- |
