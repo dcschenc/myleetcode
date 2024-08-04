@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dcschenc/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dcschenc/myleetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2499-minimum-money-required-before-transactions](https://github.com/dcschenc/myleetcode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
@@ -1648,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/dcschenc/myleetcode/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dcschenc/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dcschenc/myleetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2499-minimum-money-required-before-transactions](https://github.com/dcschenc/myleetcode/tree/master/2499-minimum-money-required-before-transactions) |
 ## Sorting
 |  |
 | ------- |
@@ -1831,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dcschenc/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dcschenc/myleetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2499-minimum-money-required-before-transactions](https://github.com/dcschenc/myleetcode/tree/master/2499-minimum-money-required-before-transactions) |
 ## Geometry
 |  |
 | ------- |
