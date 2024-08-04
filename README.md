@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/dcschenc/myleetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/dcschenc/myleetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2470-removing-stars-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 ## Binary Search
 |  |
@@ -2167,6 +2168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/dcschenc/myleetcode/tree/master/2465-shifting-letters-ii) |
 | [2468-valid-palindrome-iv](https://github.com/dcschenc/myleetcode/tree/master/2468-valid-palindrome-iv) |
+| [2470-removing-stars-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2475-largest-palindromic-number](https://github.com/dcschenc/myleetcode/tree/master/2475-largest-palindromic-number) |
 ## Depth-First Search
 |  |
@@ -2672,6 +2674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dcschenc/myleetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2470-removing-stars-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/dcschenc/myleetcode/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 ## Design
