@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 ## Hash Table
 |  |
 | ------- |
@@ -1350,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1514,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 ## Game Theory
 |  |
 | ------- |
@@ -3145,6 +3148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 ## Queue
 |  |
 | ------- |
