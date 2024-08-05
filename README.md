@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
+| [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-count-days-spent-together](https://github.com/dcschenc/myleetcode/tree/master/2496-count-days-spent-together) |
 | [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
+| [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
+| [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 ## Game Theory
 |  |
 | ------- |
@@ -1672,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2499-minimum-money-required-before-transactions](https://github.com/dcschenc/myleetcode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dcschenc/myleetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 ## Sorting
 |  |
 | ------- |
@@ -3085,6 +3089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dcschenc/myleetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/dcschenc/myleetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
+| [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 ## Queue
 |  |
 | ------- |
