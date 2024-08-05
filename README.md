@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Hash Table
 |  |
 | ------- |
@@ -2587,6 +2588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/dcschenc/myleetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2505-number-of-good-paths](https://github.com/dcschenc/myleetcode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -3055,6 +3057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2543-most-popular-video-creator](https://github.com/dcschenc/myleetcode/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Merge Sort
 |  |
 | ------- |
@@ -3678,6 +3681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dcschenc/myleetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Binary Indexed Tree
 |  |
 | ------- |
