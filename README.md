@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/dcschenc/myleetcode/tree/master/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/dcschenc/myleetcode/tree/master/2548-destroy-sequential-targets) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/dcschenc/myleetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2551-apply-operations-to-an-array](https://github.com/dcschenc/myleetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/dcschenc/myleetcode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/dcschenc/myleetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dcschenc/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dcschenc/myleetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/dcschenc/myleetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2551-apply-operations-to-an-array](https://github.com/dcschenc/myleetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 ## Math
 |  |
