@@ -1330,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-sum-of-number-and-its-reverse](https://github.com/dcschenc/myleetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2259,6 +2260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dcschenc/myleetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/dcschenc/myleetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
+| [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 ## Depth-First Search
 |  |
 | ------- |
