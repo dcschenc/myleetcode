@@ -1353,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/dcschenc/myleetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2556-convert-the-temperature](https://github.com/dcschenc/myleetcode/tree/master/2556-convert-the-temperature) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
