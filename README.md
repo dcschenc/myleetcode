@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -2409,6 +2411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Breadth-First Search
 |  |
@@ -2689,6 +2692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dcschenc/myleetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Binary Tree
 |  |
@@ -2757,6 +2761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dcschenc/myleetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Recursion
 |  |
@@ -2911,6 +2916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/dcschenc/myleetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
