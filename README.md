@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -1471,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
+| [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 ## Game Theory
 |  |
 | ------- |
