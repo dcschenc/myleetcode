@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
 | [2505-number-of-good-paths](https://github.com/dcschenc/myleetcode/tree/master/2505-number-of-good-paths) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/dcschenc/myleetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/dcschenc/myleetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
@@ -3309,6 +3310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/dcschenc/myleetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bitmask
 |  |
 | ------- |
