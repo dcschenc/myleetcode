@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dcschenc/myleetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -1916,6 +1918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/dcschenc/myleetcode/tree/master/2543-most-popular-video-creator) |
 | [2554-minimum-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Geometry
 |  |
 | ------- |
