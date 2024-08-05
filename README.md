@@ -3635,6 +3635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-sort-the-olympic-table](https://github.com/dcschenc/myleetcode/tree/master/2516-sort-the-olympic-table) |
 | [2523-change-null-values-in-a-table-to-the-previous-value](https://github.com/dcschenc/myleetcode/tree/master/2523-change-null-values-in-a-table-to-the-previous-value) |
 | [2534-employees-with-deductions](https://github.com/dcschenc/myleetcode/tree/master/2534-employees-with-deductions) |
+| [2622-form-a-chemical-bond](https://github.com/dcschenc/myleetcode/tree/master/2622-form-a-chemical-bond) |
 ## Topological Sort
 |  |
 | ------- |
