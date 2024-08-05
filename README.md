@@ -1521,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dcschenc/myleetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/dcschenc/myleetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
@@ -2298,6 +2299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/dcschenc/myleetcode/tree/master/2547-odd-string-difference) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/dcschenc/myleetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dcschenc/myleetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 ## Depth-First Search
 |  |
