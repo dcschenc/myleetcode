@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dcschenc/myleetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
+| [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/dcschenc/myleetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
+| [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 ## Linked List
 |  |
 | ------- |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
@@ -1674,6 +1677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dcschenc/myleetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2499-minimum-money-required-before-transactions](https://github.com/dcschenc/myleetcode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dcschenc/myleetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 ## Sorting
@@ -3196,6 +3200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/dcschenc/myleetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dcschenc/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
+| [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 ## Data Stream
 |  |
 | ------- |
