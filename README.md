@@ -2239,6 +2239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-count-days-spent-together](https://github.com/dcschenc/myleetcode/tree/master/2496-count-days-spent-together) |
 | [2502-sort-the-people](https://github.com/dcschenc/myleetcode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dcschenc/myleetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2528-number-of-valid-clock-times](https://github.com/dcschenc/myleetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dcschenc/myleetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 ## Depth-First Search
@@ -3236,6 +3237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-maximum-score-of-a-node-sequence](https://github.com/dcschenc/myleetcode/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dcschenc/myleetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
+| [2528-number-of-valid-clock-times](https://github.com/dcschenc/myleetcode/tree/master/2528-number-of-valid-clock-times) |
 ## Backtracking
 |  |
 | ------- |
