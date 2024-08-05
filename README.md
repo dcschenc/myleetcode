@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/dcschenc/myleetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2556-convert-the-temperature](https://github.com/dcschenc/myleetcode/tree/master/2556-convert-the-temperature) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
@@ -3158,6 +3160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/dcschenc/myleetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 ## Queue
