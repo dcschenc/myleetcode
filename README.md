@@ -1517,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/dcschenc/myleetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
