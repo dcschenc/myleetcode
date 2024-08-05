@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2548-destroy-sequential-targets](https://github.com/dcschenc/myleetcode/tree/master/2548-destroy-sequential-targets) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/dcschenc/myleetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2551-apply-operations-to-an-array](https://github.com/dcschenc/myleetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dcschenc/myleetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/dcschenc/myleetcode/tree/master/2543-most-popular-video-creator) |
 | [2547-odd-string-difference](https://github.com/dcschenc/myleetcode/tree/master/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/dcschenc/myleetcode/tree/master/2548-destroy-sequential-targets) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dcschenc/myleetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 ## Simulation
 |  |
@@ -2923,6 +2925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/dcschenc/myleetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dcschenc/myleetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dcschenc/myleetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
 | ------- |
