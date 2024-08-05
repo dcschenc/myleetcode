@@ -2494,6 +2494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/dcschenc/myleetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dcschenc/myleetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Union Find
@@ -2679,6 +2680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/dcschenc/myleetcode/tree/master/2505-number-of-good-paths) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dcschenc/myleetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Binary Tree
@@ -2747,6 +2749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dcschenc/myleetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dcschenc/myleetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Recursion
 |  |
