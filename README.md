@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/dcschenc/myleetcode/tree/master/2505-number-of-good-paths) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/dcschenc/myleetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dcschenc/myleetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
@@ -1474,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 ## Game Theory
@@ -1950,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-number-of-people-that-can-be-seen-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2425-number-of-people-that-can-be-seen-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/dcschenc/myleetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## String
 |  |
