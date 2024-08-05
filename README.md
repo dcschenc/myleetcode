@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/dcschenc/myleetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2547-odd-string-difference](https://github.com/dcschenc/myleetcode/tree/master/2547-odd-string-difference) |
 | [2548-destroy-sequential-targets](https://github.com/dcschenc/myleetcode/tree/master/2548-destroy-sequential-targets) |
@@ -1333,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/dcschenc/myleetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
