@@ -965,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
 | [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
+| [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 ## Simulation
 |  |
@@ -1398,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/dcschenc/myleetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
@@ -2366,6 +2368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
+| [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 ## Depth-First Search
 |  |
@@ -3239,6 +3242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dcschenc/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dcschenc/myleetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/dcschenc/myleetcode/tree/master/2548-destroy-sequential-targets) |
+| [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 ## Number Theory
 |  |
 | ------- |
@@ -3293,6 +3297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/dcschenc/myleetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/dcschenc/myleetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 ## Prefix Sum
 |  |
 | ------- |
