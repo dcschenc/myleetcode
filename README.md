@@ -2434,6 +2434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dcschenc/myleetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Breadth-First Search
 |  |
@@ -2528,6 +2529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dcschenc/myleetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dcschenc/myleetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 ## Union Find
 |  |
@@ -2562,6 +2564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/dcschenc/myleetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2505-number-of-good-paths](https://github.com/dcschenc/myleetcode/tree/master/2505-number-of-good-paths) |
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -2618,6 +2621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/dcschenc/myleetcode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dcschenc/myleetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Divide and Conquer
 |  |
