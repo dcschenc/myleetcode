@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Hash Table
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/dcschenc/myleetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
 |  |
 | ------- |
@@ -2019,6 +2021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## String
 |  |
 | ------- |
