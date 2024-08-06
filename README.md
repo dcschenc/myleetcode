@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
@@ -1747,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -1940,6 +1942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Geometry
 |  |
 | ------- |
@@ -2627,6 +2630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dcschenc/myleetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Divide and Conquer
 |  |
@@ -3103,6 +3107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2543-most-popular-video-creator](https://github.com/dcschenc/myleetcode/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Merge Sort
 |  |
