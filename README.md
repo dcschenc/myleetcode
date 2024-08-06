@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-count-subarrays-with-median-k](https://github.com/dcschenc/myleetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/dcschenc/myleetcode/tree/master/2591-frog-jump-ii) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/dcschenc/myleetcode/tree/master/2483-task-scheduler-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/dcschenc/myleetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
 |  |
@@ -1945,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Geometry
 |  |
@@ -2043,6 +2046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/dcschenc/myleetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## String
 |  |
@@ -3110,6 +3114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2543-most-popular-video-creator](https://github.com/dcschenc/myleetcode/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 ## Merge Sort
