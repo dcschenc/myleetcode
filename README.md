@@ -2311,6 +2311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/dcschenc/myleetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dcschenc/myleetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/dcschenc/myleetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 ## Depth-First Search
 |  |
@@ -3296,6 +3297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/dcschenc/myleetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Data Stream
 |  |
 | ------- |
