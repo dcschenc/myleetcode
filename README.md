@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/dcschenc/myleetcode/tree/master/2591-frog-jump-ii) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-count-subarrays-with-median-k](https://github.com/dcschenc/myleetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 ## Simulation
 |  |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/dcschenc/myleetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
 |  |
@@ -2937,6 +2940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
+| [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
 ## Ordered Set
 |  |
 | ------- |
