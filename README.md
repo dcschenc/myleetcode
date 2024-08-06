@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dcschenc/myleetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/dcschenc/myleetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2601-number-of-great-partitions](https://github.com/dcschenc/myleetcode/tree/master/2601-number-of-great-partitions) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/dcschenc/myleetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -1575,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2601-number-of-great-partitions](https://github.com/dcschenc/myleetcode/tree/master/2601-number-of-great-partitions) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
