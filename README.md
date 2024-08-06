@@ -974,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/dcschenc/myleetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
@@ -2394,6 +2395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dcschenc/myleetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 ## Depth-First Search
 |  |
@@ -3272,6 +3274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2548-destroy-sequential-targets](https://github.com/dcschenc/myleetcode/tree/master/2548-destroy-sequential-targets) |
 | [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dcschenc/myleetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Number Theory
 |  |
