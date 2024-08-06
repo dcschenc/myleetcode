@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/dcschenc/myleetcode/tree/master/2591-frog-jump-ii) |
+| [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
+| [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 ## Simulation
 |  |
@@ -2352,6 +2354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/dcschenc/myleetcode/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
+| [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 ## Depth-First Search
 |  |
@@ -3482,6 +3485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dcschenc/myleetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dcschenc/myleetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 ## Bitmask
 |  |
