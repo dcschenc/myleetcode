@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/dcschenc/myleetcode/tree/master/2591-frog-jump-ii) |
 | [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/dcschenc/myleetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
@@ -1227,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/dcschenc/myleetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Math
 |  |
 | ------- |
