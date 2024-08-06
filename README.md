@@ -1363,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2556-convert-the-temperature](https://github.com/dcschenc/myleetcode/tree/master/2556-convert-the-temperature) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2571-find-the-pivot-integer](https://github.com/dcschenc/myleetcode/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
@@ -3297,6 +3298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2571-find-the-pivot-integer](https://github.com/dcschenc/myleetcode/tree/master/2571-find-the-pivot-integer) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/dcschenc/myleetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Data Stream
 |  |
