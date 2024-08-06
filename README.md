@@ -1201,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -1732,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/dcschenc/myleetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 ## Sorting
 |  |
@@ -2312,6 +2314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/dcschenc/myleetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dcschenc/myleetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/dcschenc/myleetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 ## Depth-First Search
