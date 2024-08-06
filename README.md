@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
+| [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 ## Hash Table
 |  |
 | ------- |
@@ -1377,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
+| [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1544,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
+| [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 ## Game Theory
 |  |
 | ------- |
