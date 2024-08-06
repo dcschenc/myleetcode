@@ -1570,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2500-minimum-costs-using-the-train-line](https://github.com/dcschenc/myleetcode/tree/master/2500-minimum-costs-using-the-train-line) |
 | [2504-find-all-good-indices](https://github.com/dcschenc/myleetcode/tree/master/2504-find-all-good-indices) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/dcschenc/myleetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2517-choose-edges-to-maximize-score-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2517-choose-edges-to-maximize-score-in-a-tree) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dcschenc/myleetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -1776,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dcschenc/myleetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/dcschenc/myleetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2499-minimum-money-required-before-transactions](https://github.com/dcschenc/myleetcode/tree/master/2499-minimum-money-required-before-transactions) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/dcschenc/myleetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dcschenc/myleetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -2364,6 +2366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dcschenc/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2496-count-days-spent-together](https://github.com/dcschenc/myleetcode/tree/master/2496-count-days-spent-together) |
 | [2502-sort-the-people](https://github.com/dcschenc/myleetcode/tree/master/2502-sort-the-people) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/dcschenc/myleetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dcschenc/myleetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2528-number-of-valid-clock-times](https://github.com/dcschenc/myleetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dcschenc/myleetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
