@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/dcschenc/myleetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dcschenc/myleetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/dcschenc/myleetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
 |  |
@@ -1391,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/dcschenc/myleetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2593-number-of-distinct-binary-strings-after-applying-operations](https://github.com/dcschenc/myleetcode/tree/master/2593-number-of-distinct-binary-strings-after-applying-operations) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/dcschenc/myleetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
@@ -3243,6 +3245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/dcschenc/myleetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 ## Queue
 |  |
