@@ -1410,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dcschenc/myleetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/dcschenc/myleetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/dcschenc/myleetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
@@ -3280,6 +3281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/dcschenc/myleetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/dcschenc/myleetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/dcschenc/myleetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Queue
 |  |
 | ------- |
