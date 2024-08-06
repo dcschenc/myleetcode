@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/dcschenc/myleetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
@@ -1597,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2601-number-of-great-partitions](https://github.com/dcschenc/myleetcode/tree/master/2601-number-of-great-partitions) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2672-number-of-good-binary-strings](https://github.com/dcschenc/myleetcode/tree/master/2672-number-of-good-binary-strings) |
@@ -2512,6 +2514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dcschenc/myleetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2800,6 +2803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dcschenc/myleetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 ## Binary Tree
 |  |
 | ------- |
