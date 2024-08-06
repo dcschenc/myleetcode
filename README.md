@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/dcschenc/myleetcode/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
+| [2574-count-subarrays-with-median-k](https://github.com/dcschenc/myleetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2579-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/dcschenc/myleetcode/tree/master/2579-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/dcschenc/myleetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2561-number-of-distinct-averages](https://github.com/dcschenc/myleetcode/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/dcschenc/myleetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2574-count-subarrays-with-median-k](https://github.com/dcschenc/myleetcode/tree/master/2574-count-subarrays-with-median-k) |
 ## Simulation
 |  |
 | ------- |
@@ -3306,6 +3308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/dcschenc/myleetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/dcschenc/myleetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2571-find-the-pivot-integer](https://github.com/dcschenc/myleetcode/tree/master/2571-find-the-pivot-integer) |
+| [2574-count-subarrays-with-median-k](https://github.com/dcschenc/myleetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/dcschenc/myleetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Data Stream
 |  |
