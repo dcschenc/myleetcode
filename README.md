@@ -973,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
 | [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/dcschenc/myleetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 ## Simulation
@@ -2982,6 +2983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -3267,6 +3269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dcschenc/myleetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/dcschenc/myleetcode/tree/master/2548-destroy-sequential-targets) |
 | [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Number Theory
 |  |
 | ------- |
@@ -3304,6 +3307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dcschenc/myleetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dcschenc/myleetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -3411,6 +3415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/dcschenc/myleetcode/tree/master/1775-design-an-ordered-stream) |
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Enumeration
 |  |
 | ------- |
