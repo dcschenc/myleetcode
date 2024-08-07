@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/dcschenc/myleetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2664-maximize-greatness-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/dcschenc/myleetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -1195,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dcschenc/myleetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2665-minimum-time-to-repair-cars](https://github.com/dcschenc/myleetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
