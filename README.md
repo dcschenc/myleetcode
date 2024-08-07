@@ -3681,6 +3681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dcschenc/myleetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/dcschenc/myleetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
+| [2659-number-of-even-and-odd-bits](https://github.com/dcschenc/myleetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bitmask
 |  |
