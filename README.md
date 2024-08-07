@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dcschenc/myleetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/dcschenc/myleetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -1470,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/dcschenc/myleetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dcschenc/myleetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2469,6 +2471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dcschenc/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
