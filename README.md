@@ -1482,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/dcschenc/myleetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dcschenc/myleetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/2650-split-with-minimum-sum) |
+| [2663-distribute-money-to-maximum-children](https://github.com/dcschenc/myleetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/dcschenc/myleetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -1875,6 +1876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/2650-split-with-minimum-sum) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/dcschenc/myleetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2663-distribute-money-to-maximum-children](https://github.com/dcschenc/myleetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
