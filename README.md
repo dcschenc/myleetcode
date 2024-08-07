@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/dcschenc/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dcschenc/myleetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
+| [2698-find-the-array-concatenation-value](https://github.com/dcschenc/myleetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 ## Hash Table
 |  |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dcschenc/myleetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2698-find-the-array-concatenation-value](https://github.com/dcschenc/myleetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -1277,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/dcschenc/myleetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2698-find-the-array-concatenation-value](https://github.com/dcschenc/myleetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Math
 |  |
 | ------- |
