@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dcschenc/myleetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/dcschenc/myleetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -1187,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/dcschenc/myleetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dcschenc/myleetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1870,6 +1872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/2650-split-with-minimum-sum) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/dcschenc/myleetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
@@ -2081,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/2650-split-with-minimum-sum) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/dcschenc/myleetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/dcschenc/myleetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -3043,6 +3047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dcschenc/myleetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 ## Design
 |  |
 | ------- |
