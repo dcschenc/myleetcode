@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2639-separate-the-digits-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/dcschenc/myleetcode/tree/master/2633-minimum-cost-to-split-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Simulation
@@ -1162,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/dcschenc/myleetcode/tree/master/2591-frog-jump-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/dcschenc/myleetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dcschenc/myleetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1825,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/dcschenc/myleetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/dcschenc/myleetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 ## Sorting
@@ -2026,6 +2030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/dcschenc/myleetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 ## Geometry
