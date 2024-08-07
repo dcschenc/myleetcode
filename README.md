@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dcschenc/myleetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/dcschenc/myleetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Linked List
 |  |
 | ------- |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/dcschenc/myleetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dcschenc/myleetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Math
 |  |
 | ------- |
@@ -1862,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dcschenc/myleetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
 | ------- |
@@ -2066,6 +2070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Geometry
 |  |
 | ------- |
