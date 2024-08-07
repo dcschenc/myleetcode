@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2664-maximize-greatness-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dcschenc/myleetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2666-minimum-time-to-eat-all-grains](https://github.com/dcschenc/myleetcode/tree/master/2666-minimum-time-to-eat-all-grains) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/dcschenc/myleetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dcschenc/myleetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2666-minimum-time-to-eat-all-grains](https://github.com/dcschenc/myleetcode/tree/master/2666-minimum-time-to-eat-all-grains) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dcschenc/myleetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/dcschenc/myleetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2664-maximize-greatness-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2666-minimum-time-to-eat-all-grains](https://github.com/dcschenc/myleetcode/tree/master/2666-minimum-time-to-eat-all-grains) |
 | [2698-find-the-array-concatenation-value](https://github.com/dcschenc/myleetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dcschenc/myleetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -2118,6 +2121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/dcschenc/myleetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2664-maximize-greatness-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2666-minimum-time-to-eat-all-grains](https://github.com/dcschenc/myleetcode/tree/master/2666-minimum-time-to-eat-all-grains) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
