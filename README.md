@@ -1504,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dcschenc/myleetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1904,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dcschenc/myleetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Sorting
 |  |
 | ------- |
