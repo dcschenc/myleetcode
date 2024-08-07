@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/dcschenc/myleetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/dcschenc/myleetcode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/dcschenc/myleetcode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 ## Simulation
 |  |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2601-number-of-great-partitions](https://github.com/dcschenc/myleetcode/tree/master/2601-number-of-great-partitions) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/dcschenc/myleetcode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/dcschenc/myleetcode/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2672-number-of-good-binary-strings](https://github.com/dcschenc/myleetcode/tree/master/2672-number-of-good-binary-strings) |
@@ -3296,6 +3299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dcschenc/myleetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2633-minimum-cost-to-split-an-array](https://github.com/dcschenc/myleetcode/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Number Theory
 |  |
 | ------- |
