@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 ## Hash Table
 |  |
@@ -1820,6 +1821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/dcschenc/myleetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/dcschenc/myleetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
+| [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 ## Sorting
 |  |
@@ -2020,6 +2022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/dcschenc/myleetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
+| [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 ## Geometry
 |  |
@@ -3208,6 +3211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-reward-top-k-students](https://github.com/dcschenc/myleetcode/tree/master/2603-reward-top-k-students) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
+| [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 ## Merge Sort
 |  |
 | ------- |
