@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dcschenc/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dcschenc/myleetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -2086,6 +2088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/dcschenc/myleetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
+| [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2693-maximum-price-to-fill-a-bag](https://github.com/dcschenc/myleetcode/tree/master/2693-maximum-price-to-fill-a-bag) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
@@ -2495,6 +2498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dcschenc/myleetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dcschenc/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Depth-First Search
@@ -3097,6 +3101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-design-sql](https://github.com/dcschenc/myleetcode/tree/master/2555-design-sql) |
 | [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 ## Ordered Set
 |  |
 | ------- |
