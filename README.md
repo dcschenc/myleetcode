@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/dcschenc/myleetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -1211,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -2124,6 +2126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Geometry
 |  |
 | ------- |
@@ -3572,6 +3575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dcschenc/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/dcschenc/myleetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Data Stream
 |  |
 | ------- |
