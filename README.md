@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/dcschenc/myleetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dcschenc/myleetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -1505,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dcschenc/myleetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1906,6 +1909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -3448,6 +3452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/dcschenc/myleetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dcschenc/myleetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 ## Queue
 |  |
 | ------- |
