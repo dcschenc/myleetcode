@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2666-minimum-time-to-eat-all-grains](https://github.com/dcschenc/myleetcode/tree/master/2666-minimum-time-to-eat-all-grains) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dcschenc/myleetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/dcschenc/myleetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/dcschenc/myleetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dcschenc/myleetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dcschenc/myleetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/dcschenc/myleetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
@@ -1691,6 +1693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/dcschenc/myleetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2648-number-of-ways-to-earn-points](https://github.com/dcschenc/myleetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/dcschenc/myleetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2672-number-of-good-binary-strings](https://github.com/dcschenc/myleetcode/tree/master/2672-number-of-good-binary-strings) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -2539,6 +2542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2629-number-of-substrings-with-fixed-ratio](https://github.com/dcschenc/myleetcode/tree/master/2629-number-of-substrings-with-fixed-ratio) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/dcschenc/myleetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/dcschenc/myleetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dcschenc/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
