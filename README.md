@@ -750,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/dcschenc/myleetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
+| [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -1528,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2715-k-items-with-the-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
+| [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1709,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 ## Game Theory
 |  |
 | ------- |
@@ -2151,6 +2154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
+| [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 ## Geometry
 |  |
 | ------- |
@@ -3525,6 +3529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/dcschenc/myleetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2605-count-anagrams](https://github.com/dcschenc/myleetcode/tree/master/2605-count-anagrams) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
