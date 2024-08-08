@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/dcschenc/myleetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 ## Hash Table
 |  |
 | ------- |
@@ -1924,6 +1925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
+| [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 ## Sorting
 |  |
 | ------- |
@@ -2141,6 +2143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2702-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/dcschenc/myleetcode/tree/master/2702-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dcschenc/myleetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 ## Geometry
 |  |
 | ------- |
@@ -3350,6 +3353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dcschenc/myleetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dcschenc/myleetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 ## Merge Sort
 |  |
 | ------- |
