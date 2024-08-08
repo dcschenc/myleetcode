@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/dcschenc/myleetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/dcschenc/myleetcode/tree/master/2645-pass-the-pillow) |
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/dcschenc/myleetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dcschenc/myleetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dcschenc/myleetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/dcschenc/myleetcode/tree/master/2698-find-the-array-concatenation-value) |
