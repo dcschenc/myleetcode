@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/dcschenc/myleetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2666-minimum-time-to-eat-all-grains](https://github.com/dcschenc/myleetcode/tree/master/2666-minimum-time-to-eat-all-grains) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dcschenc/myleetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/dcschenc/myleetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dcschenc/myleetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dcschenc/myleetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dcschenc/myleetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
@@ -3624,6 +3626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/dcschenc/myleetcode/tree/master/2507-number-of-common-factors) |
 | [2528-number-of-valid-clock-times](https://github.com/dcschenc/myleetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/dcschenc/myleetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dcschenc/myleetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
 ## Backtracking
 |  |
