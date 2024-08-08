@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-sliding-subarray-beauty](https://github.com/dcschenc/myleetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dcschenc/myleetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dcschenc/myleetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 ## Linked List
 |  |
 | ------- |
@@ -1952,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dcschenc/myleetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dcschenc/myleetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Sorting
 |  |
@@ -2172,6 +2175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
+| [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
 ## Geometry
 |  |
@@ -3216,6 +3220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/dcschenc/myleetcode/tree/master/2447-merge-similar-items) |
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -4065,6 +4070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-design-most-recently-used-queue](https://github.com/dcschenc/myleetcode/tree/master/1903-design-most-recently-used-queue) |
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -4081,4 +4087,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [1294-range-frequency-queries](https://github.com/dcschenc/myleetcode/tree/master/1294-range-frequency-queries) |
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 <!---LeetCode Topics End-->
