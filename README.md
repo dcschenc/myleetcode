@@ -1533,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
+| [2748-calculate-delayed-arrival-time](https://github.com/dcschenc/myleetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## Dynamic Programming
 |  |
 | ------- |
