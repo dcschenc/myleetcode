@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-make-k-subarray-sums-equal](https://github.com/dcschenc/myleetcode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/dcschenc/myleetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
@@ -2258,6 +2259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/dcschenc/myleetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
 ## String
 |  |
