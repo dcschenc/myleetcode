@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/dcschenc/myleetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
+| [2737-row-with-maximum-ones](https://github.com/dcschenc/myleetcode/tree/master/2737-row-with-maximum-ones) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 ## Hash Table
 |  |
@@ -2261,6 +2262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/dcschenc/myleetcode/tree/master/2737-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
