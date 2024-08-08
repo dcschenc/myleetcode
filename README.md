@@ -2549,6 +2549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dcschenc/myleetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/dcschenc/myleetcode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
