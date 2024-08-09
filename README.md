@@ -1565,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/dcschenc/myleetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/dcschenc/myleetcode/tree/master/2752-sum-multiples) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -3768,6 +3769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dcschenc/myleetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
 ## Quickselect
 |  |
