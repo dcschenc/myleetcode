@@ -2954,6 +2954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -3462,6 +3463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dcschenc/myleetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 | [2728-sum-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2728-sum-in-a-matrix) |
+| [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 ## Merge Sort
 |  |
 | ------- |
@@ -4137,6 +4139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 ## Binary Indexed Tree
 |  |
 | ------- |
