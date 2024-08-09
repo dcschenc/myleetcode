@@ -1079,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-frequency-tracker](https://github.com/dcschenc/myleetcode/tree/master/2778-frequency-tracker) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/dcschenc/myleetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
 ## Simulation
@@ -1580,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/dcschenc/myleetcode/tree/master/2752-sum-multiples) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Dynamic Programming
 |  |
 | ------- |
