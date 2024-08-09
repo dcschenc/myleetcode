@@ -1761,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Game Theory
 |  |
 | ------- |
@@ -1991,6 +1992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dcschenc/myleetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -2640,6 +2642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Depth-First Search
 |  |
