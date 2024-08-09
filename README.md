@@ -1062,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-sliding-subarray-beauty](https://github.com/dcschenc/myleetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2777-find-the-distinct-difference-array](https://github.com/dcschenc/myleetcode/tree/master/2777-find-the-distinct-difference-array) |
+| [2778-frequency-tracker](https://github.com/dcschenc/myleetcode/tree/master/2778-frequency-tracker) |
 ## Simulation
 |  |
 | ------- |
@@ -3211,6 +3212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/dcschenc/myleetcode/tree/master/2587-design-memory-allocator) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
+| [2778-frequency-tracker](https://github.com/dcschenc/myleetcode/tree/master/2778-frequency-tracker) |
 ## Ordered Set
 |  |
 | ------- |
