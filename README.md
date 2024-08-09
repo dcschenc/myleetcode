@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/dcschenc/myleetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2756-buy-two-chocolates](https://github.com/dcschenc/myleetcode/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -2202,6 +2203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 | [2728-sum-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2728-sum-in-a-matrix) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
+| [2756-buy-two-chocolates](https://github.com/dcschenc/myleetcode/tree/master/2756-buy-two-chocolates) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
 ## Geometry
