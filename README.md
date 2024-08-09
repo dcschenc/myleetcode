@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/dcschenc/myleetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
@@ -2903,6 +2904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/dcschenc/myleetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -3400,6 +3402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/dcschenc/myleetcode/tree/master/2636-maximum-subsequence-score) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/dcschenc/myleetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dcschenc/myleetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dcschenc/myleetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
@@ -4066,6 +4069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/dcschenc/myleetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dcschenc/myleetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Binary Indexed Tree
 |  |
 | ------- |
