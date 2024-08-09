@@ -1,5 +1,6 @@
 class Solution:
     def minOperations(self, nums: List[int], x: int, y: int) -> int:
+        # https://github.com/doocs/leetcode/tree/main/solution/2700-2799/2702.Minimum%20Operations%20to%20Make%20Numbers%20Non-positive
         def check(t: int) -> bool:
             cnt = 0
             for v in nums:
