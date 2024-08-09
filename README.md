@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
+| [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 ## Hash Table
 |  |
 | ------- |
@@ -4129,6 +4130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-find-the-index-of-the-large-integer](https://github.com/dcschenc/myleetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
+| [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 ## Iterator
 |  |
 | ------- |
