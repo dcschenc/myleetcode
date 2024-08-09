@@ -1076,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-frequency-tracker](https://github.com/dcschenc/myleetcode/tree/master/2778-frequency-tracker) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/dcschenc/myleetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
 ## Simulation
 |  |
 | ------- |
@@ -2644,6 +2645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
 ## Depth-First Search
 |  |
 | ------- |
