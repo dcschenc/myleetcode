@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 | [2751-sliding-subarray-beauty](https://github.com/dcschenc/myleetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/dcschenc/myleetcode/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1754,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
+| [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1982,6 +1984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dcschenc/myleetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dcschenc/myleetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -2206,6 +2209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2725-mice-and-cheese](https://github.com/dcschenc/myleetcode/tree/master/2725-mice-and-cheese) |
 | [2728-sum-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2728-sum-in-a-matrix) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
+| [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2756-buy-two-chocolates](https://github.com/dcschenc/myleetcode/tree/master/2756-buy-two-chocolates) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
@@ -3744,6 +3748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-sum-of-number-and-its-reverse](https://github.com/dcschenc/myleetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dcschenc/myleetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 ## Backtracking
 |  |
 | ------- |
@@ -3777,6 +3782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dcschenc/myleetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
 ## Quickselect
@@ -3838,6 +3844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [2659-number-of-even-and-odd-bits](https://github.com/dcschenc/myleetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
 |  |
