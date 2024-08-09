@@ -17,7 +17,7 @@ class Solution:
         
         total = 0
         for i in range(1, n+1) :
-            square_n = i**2
+            square_n = i ** 2
             if dfs(str(square_n), i):
                 total += square_n
         return total
