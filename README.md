@@ -764,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dcschenc/myleetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/dcschenc/myleetcode/tree/master/2777-find-the-distinct-difference-array) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
 ## Hash Table
@@ -1738,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -1965,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/dcschenc/myleetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -3012,6 +3015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -3082,6 +3086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dcschenc/myleetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
