@@ -2732,6 +2732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3031,6 +3032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/dcschenc/myleetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -3102,6 +3104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2584-number-of-nodes-with-value-one](https://github.com/dcschenc/myleetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 ## Recursion
 |  |
 | ------- |
