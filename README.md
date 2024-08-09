@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/dcschenc/myleetcode/tree/master/2681-put-marbles-in-bags) |
 | [2682-count-increasing-quadruplets](https://github.com/dcschenc/myleetcode/tree/master/2682-count-increasing-quadruplets) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/dcschenc/myleetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2685-first-completely-painted-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/dcschenc/myleetcode/tree/master/2690-house-robber-iv) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dcschenc/myleetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/dcschenc/myleetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2679-count-distinct-numbers-on-board](https://github.com/dcschenc/myleetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2685-first-completely-painted-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2688-design-a-todo-list](https://github.com/dcschenc/myleetcode/tree/master/2688-design-a-todo-list) |
 | [2689-rearranging-fruits](https://github.com/dcschenc/myleetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dcschenc/myleetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -2283,6 +2285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/dcschenc/myleetcode/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/dcschenc/myleetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/dcschenc/myleetcode/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
