@@ -2815,6 +2815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
+| [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2915,6 +2916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -3117,6 +3119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
+| [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -3190,6 +3193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
+| [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 ## Recursion
 |  |
 | ------- |
