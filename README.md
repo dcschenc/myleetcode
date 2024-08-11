@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dcschenc/myleetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2848-special-permutations](https://github.com/dcschenc/myleetcode/tree/master/2848-special-permutations) |
 | [2854-decremental-string-concatenation](https://github.com/dcschenc/myleetcode/tree/master/2854-decremental-string-concatenation) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 ## Hash Table
 |  |
@@ -1598,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1790,6 +1792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-special-permutations](https://github.com/dcschenc/myleetcode/tree/master/2848-special-permutations) |
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2854-decremental-string-concatenation](https://github.com/dcschenc/myleetcode/tree/master/2854-decremental-string-concatenation) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Game Theory
 |  |
 | ------- |
