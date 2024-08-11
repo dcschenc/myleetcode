@@ -2058,6 +2058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dcschenc/myleetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/dcschenc/myleetcode/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -2719,6 +2720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dcschenc/myleetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2854-decremental-string-concatenation](https://github.com/dcschenc/myleetcode/tree/master/2854-decremental-string-concatenation) |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/dcschenc/myleetcode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2881-split-strings-by-separator](https://github.com/dcschenc/myleetcode/tree/master/2881-split-strings-by-separator) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/dcschenc/myleetcode/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -3868,6 +3870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/dcschenc/myleetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/dcschenc/myleetcode/tree/master/2870-longest-alternating-subarray) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/dcschenc/myleetcode/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Backtracking
 |  |
 | ------- |
