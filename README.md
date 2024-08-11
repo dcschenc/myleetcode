@@ -2800,6 +2800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3101,6 +3102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -3173,6 +3175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -3254,6 +3257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Design
 |  |
 | ------- |
