@@ -1590,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
 ## Dynamic Programming
 |  |
@@ -1781,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/dcschenc/myleetcode/tree/master/2808-painting-the-walls) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2848-special-permutations](https://github.com/dcschenc/myleetcode/tree/master/2848-special-permutations) |
+| [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -2012,6 +2014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
+| [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Sorting
 |  |
 | ------- |
@@ -3927,6 +3930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/dcschenc/myleetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/dcschenc/myleetcode/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
+| [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Rolling Hash
 |  |
 | ------- |
