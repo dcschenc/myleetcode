@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/dcschenc/myleetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2868-continuous-subarrays) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2870-longest-alternating-subarray](https://github.com/dcschenc/myleetcode/tree/master/2870-longest-alternating-subarray) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
@@ -1805,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2854-decremental-string-concatenation](https://github.com/dcschenc/myleetcode/tree/master/2854-decremental-string-concatenation) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dcschenc/myleetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Game Theory
 |  |
