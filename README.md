@@ -2277,6 +2277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/dcschenc/myleetcode/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/dcschenc/myleetcode/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/dcschenc/myleetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [2887-sort-vowels-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
@@ -2712,6 +2713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2854-decremental-string-concatenation](https://github.com/dcschenc/myleetcode/tree/master/2854-decremental-string-concatenation) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/dcschenc/myleetcode/tree/master/2884-length-of-the-longest-valid-substring) |
+| [2887-sort-vowels-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 ## Depth-First Search
 |  |
