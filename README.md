@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/dcschenc/myleetcode/tree/master/2808-painting-the-walls) |
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
+| [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/dcschenc/myleetcode/tree/master/2833-count-zero-request-servers) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2845-find-the-value-of-the-partition](https://github.com/dcschenc/myleetcode/tree/master/2845-find-the-value-of-the-partition) |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/dcschenc/myleetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
+| [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2833-count-zero-request-servers](https://github.com/dcschenc/myleetcode/tree/master/2833-count-zero-request-servers) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dcschenc/myleetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -1593,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
 ## Dynamic Programming
@@ -3599,6 +3602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-make-number-of-distinct-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/dcschenc/myleetcode/tree/master/2633-minimum-cost-to-split-an-array) |
+| [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -3623,6 +3627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/dcschenc/myleetcode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/dcschenc/myleetcode/tree/master/2722-prime-in-diagonal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
 ## Queue
 |  |
 | ------- |
