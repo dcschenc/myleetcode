@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2868-continuous-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2870-longest-alternating-subarray](https://github.com/dcschenc/myleetcode/tree/master/2870-longest-alternating-subarray) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dcschenc/myleetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -2052,6 +2053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dcschenc/myleetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Sorting
 |  |
 | ------- |
