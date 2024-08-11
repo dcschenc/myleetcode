@@ -2962,6 +2962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2995-number-of-unique-categories](https://github.com/dcschenc/myleetcode/tree/master/2995-number-of-unique-categories) |
 ## Graph
 |  |
 | ------- |
@@ -3648,6 +3649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/dcschenc/myleetcode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [2995-number-of-unique-categories](https://github.com/dcschenc/myleetcode/tree/master/2995-number-of-unique-categories) |
 ## Number Theory
 |  |
 | ------- |
@@ -4219,6 +4221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
+| [2995-number-of-unique-categories](https://github.com/dcschenc/myleetcode/tree/master/2995-number-of-unique-categories) |
 ## Iterator
 |  |
 | ------- |
