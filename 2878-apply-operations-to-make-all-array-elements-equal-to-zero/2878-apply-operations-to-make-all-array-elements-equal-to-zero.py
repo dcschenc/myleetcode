@@ -2,6 +2,20 @@ class Solution:
     # https://github.com/doocs/leetcode/tree/main/solution/2700-2799/2772.Apply%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%20Zero
     def checkArray(self, nums: List[int], k: int) -> bool:
         n = len(nums)
+        d = [0] * (n + 1)
+        s = 0
+        for i, x in enumerate(nums):
+            s += d[i]
+            x += s
+            if x == 0:
+                continue
+            if x < 0 or i + k > n:
+                return False
+            s -= x
+            d[i + k] += x
+        return True
+        
+        n = len(nums)
         deltas = [0] * n
         decreased = 0
         for i in range(n):
