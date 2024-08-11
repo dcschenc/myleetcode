@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
+| [2845-find-the-value-of-the-partition](https://github.com/dcschenc/myleetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 ## Hash Table
 |  |
@@ -2227,6 +2228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/dcschenc/myleetcode/tree/master/2756-buy-two-chocolates) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
+| [2845-find-the-value-of-the-partition](https://github.com/dcschenc/myleetcode/tree/master/2845-find-the-value-of-the-partition) |
 ## Geometry
 |  |
 | ------- |
