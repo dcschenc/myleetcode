@@ -1,5 +1,6 @@
 class Solution:
     def numberOfWays(self, n: int, x: int) -> int:
+        # https://github.com/doocs/leetcode/tree/main/solution/2700-2799/2787.Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers
         mod = 10 ** 9 + 7      
         # Initializing a dynamic programming table where
         # dp[i][j] represents the number of ways to write j as a sum
