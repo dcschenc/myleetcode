@@ -1166,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-semi-ordered-permutation](https://github.com/dcschenc/myleetcode/tree/master/2785-semi-ordered-permutation) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/dcschenc/myleetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
 ## Binary Search
 |  |
 | ------- |
@@ -1582,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dcschenc/myleetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dcschenc/myleetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
 ## Dynamic Programming
 |  |
 | ------- |
