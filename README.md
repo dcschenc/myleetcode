@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
 | [2845-find-the-value-of-the-partition](https://github.com/dcschenc/myleetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [2848-special-permutations](https://github.com/dcschenc/myleetcode/tree/master/2848-special-permutations) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 ## Hash Table
 |  |
@@ -1773,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
+| [2848-special-permutations](https://github.com/dcschenc/myleetcode/tree/master/2848-special-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -3868,6 +3870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/dcschenc/myleetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2754-maximum-strength-of-a-group](https://github.com/dcschenc/myleetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2848-special-permutations](https://github.com/dcschenc/myleetcode/tree/master/2848-special-permutations) |
 ## Bitmask
 |  |
 | ------- |
@@ -3883,6 +3886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dcschenc/myleetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/dcschenc/myleetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/dcschenc/myleetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
+| [2848-special-permutations](https://github.com/dcschenc/myleetcode/tree/master/2848-special-permutations) |
 ## Trie
 |  |
 | ------- |
