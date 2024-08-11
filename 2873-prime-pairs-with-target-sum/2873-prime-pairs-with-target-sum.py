@@ -1,5 +1,6 @@
 class Solution:
-    def findPrimePairs(self, n: int) -> List[List[int]]:           
+    def findPrimePairs(self, n: int) -> List[List[int]]: 
+        # https://github.com/doocs/leetcode/tree/main/solution/2700-2799/2761.Prime%20Pairs%20With%20Target%20Sum          
         def get_primes(n):
             is_prime = [True] * n
             is_prime[0] = is_prime[1] = False
