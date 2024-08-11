@@ -1085,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
+| [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 ## Simulation
 |  |
 | ------- |
@@ -2661,6 +2662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/dcschenc/myleetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/dcschenc/myleetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
+| [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -3365,6 +3367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2751-sliding-subarray-beauty](https://github.com/dcschenc/myleetcode/tree/master/2751-sliding-subarray-beauty) |
+| [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 ## Monotonic Stack
 |  |
 | ------- |
