@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-longest-alternating-subarray](https://github.com/dcschenc/myleetcode/tree/master/2870-longest-alternating-subarray) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -3781,6 +3782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/dcschenc/myleetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/dcschenc/myleetcode/tree/master/2721-sum-of-distances) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 ## Data Stream
 |  |
 | ------- |
