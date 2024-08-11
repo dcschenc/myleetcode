@@ -1817,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dcschenc/myleetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/dcschenc/myleetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Game Theory
 |  |
