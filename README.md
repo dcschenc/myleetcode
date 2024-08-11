@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dcschenc/myleetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/dcschenc/myleetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2881-split-strings-by-separator](https://github.com/dcschenc/myleetcode/tree/master/2881-split-strings-by-separator) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/dcschenc/myleetcode/tree/master/2884-length-of-the-longest-valid-substring) |
