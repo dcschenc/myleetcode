@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2881-split-strings-by-separator](https://github.com/dcschenc/myleetcode/tree/master/2881-split-strings-by-separator) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/dcschenc/myleetcode/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -2712,6 +2713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dcschenc/myleetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2854-decremental-string-concatenation](https://github.com/dcschenc/myleetcode/tree/master/2854-decremental-string-concatenation) |
+| [2881-split-strings-by-separator](https://github.com/dcschenc/myleetcode/tree/master/2881-split-strings-by-separator) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/dcschenc/myleetcode/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2887-sort-vowels-in-a-string) |
