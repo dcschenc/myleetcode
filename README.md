@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -1301,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dcschenc/myleetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2729-minimum-operations-to-make-numbers-non-positive](https://github.com/dcschenc/myleetcode/tree/master/2729-minimum-operations-to-make-numbers-non-positive) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -2269,6 +2271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/dcschenc/myleetcode/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/dcschenc/myleetcode/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/dcschenc/myleetcode/tree/master/2845-find-the-value-of-the-partition) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Geometry
 |  |
 | ------- |
@@ -3418,6 +3421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/dcschenc/myleetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2868-continuous-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2868-continuous-subarrays) |
 | [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
