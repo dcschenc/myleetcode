@@ -1,5 +1,6 @@
 class Solution:
     def specialPerm(self, nums: List[int]) -> int:
+        # https://github.com/doocs/leetcode/tree/main/solution/2700-2799/2741.Special%20Permutations
         mod = 10**9 + 7
         n = len(nums)
         m = 1 << n
