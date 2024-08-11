@@ -16,14 +16,4 @@ class Solution:
         n = len(words)   
         return len(words[0]) + dp(1, words[0][0], words[0][-1])
 
-        # n = len(words)
-        # dp = [0] * n
-        # prev = words[0]
-        # for i in range(1, n):
-        #     if words[i][-1] == prev[0]:
-        #         prev = words[i] + prev[1:]
-        #     elif words[i][0] == prev[-1]:
-        #         prev = prev + words[i][1:]
-        #     else:
-        #         prev = words[i] + prev
-        # return len(prev)
+      
