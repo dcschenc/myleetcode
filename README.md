@@ -1627,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/dcschenc/myleetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Dynamic Programming
 |  |
 | ------- |
