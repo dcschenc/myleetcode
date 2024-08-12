@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2904-sorting-three-groups](https://github.com/dcschenc/myleetcode/tree/master/2904-sorting-three-groups) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2915-count-of-interesting-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dcschenc/myleetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/dcschenc/myleetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2902-max-pair-sum-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/dcschenc/myleetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dcschenc/myleetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -3881,6 +3883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/dcschenc/myleetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/dcschenc/myleetcode/tree/master/2721-sum-of-distances) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2915-count-of-interesting-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Data Stream
 |  |
 | ------- |
