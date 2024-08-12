@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1829,6 +1830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/dcschenc/myleetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -2063,6 +2065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dcschenc/myleetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/dcschenc/myleetcode/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Sorting
 |  |
 | ------- |
