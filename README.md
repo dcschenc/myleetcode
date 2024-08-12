@@ -4277,6 +4277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-find-active-users](https://github.com/dcschenc/myleetcode/tree/master/2842-find-active-users) |
 | [3002-flight-occupancy-and-waitlist-analysis](https://github.com/dcschenc/myleetcode/tree/master/3002-flight-occupancy-and-waitlist-analysis) |
 | [3097-total-traveled-distance](https://github.com/dcschenc/myleetcode/tree/master/3097-total-traveled-distance) |
+| [3156-rolling-average-steps](https://github.com/dcschenc/myleetcode/tree/master/3156-rolling-average-steps) |
 ## Topological Sort
 |  |
 | ------- |
