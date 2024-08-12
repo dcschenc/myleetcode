@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Hash Table
 |  |
@@ -1316,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-minimum-operations-to-make-numbers-non-positive](https://github.com/dcschenc/myleetcode/tree/master/2729-minimum-operations-to-make-numbers-non-positive) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -2409,6 +2411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/dcschenc/myleetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -2951,6 +2954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/dcschenc/myleetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 ## Union Find
 |  |
@@ -2987,6 +2991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dcschenc/myleetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2995-number-of-unique-categories](https://github.com/dcschenc/myleetcode/tree/master/2995-number-of-unique-categories) |
 ## Graph
 |  |
