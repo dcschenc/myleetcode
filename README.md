@@ -1662,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/dcschenc/myleetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/dcschenc/myleetcode/tree/master/2998-count-symmetric-integers) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/dcschenc/myleetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/dcschenc/myleetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3111-smallest-number-with-given-digit-product](https://github.com/dcschenc/myleetcode/tree/master/3111-smallest-number-with-given-digit-product) |
 ## Dynamic Programming
 |  |
