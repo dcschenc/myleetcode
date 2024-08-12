@@ -816,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dcschenc/myleetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/dcschenc/myleetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3045-minimum-right-shifts-to-sort-the-array](https://github.com/dcschenc/myleetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/dcschenc/myleetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/dcschenc/myleetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
