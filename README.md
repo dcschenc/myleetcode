@@ -1131,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2902-max-pair-sum-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dcschenc/myleetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Simulation
 |  |
@@ -2327,6 +2328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dcschenc/myleetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dcschenc/myleetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Geometry
 |  |
@@ -2767,6 +2769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dcschenc/myleetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dcschenc/myleetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dcschenc/myleetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/dcschenc/myleetcode/tree/master/3019-furthest-point-from-origin) |
 ## Depth-First Search
