@@ -1345,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2374-steps-to-make-array-non-decreasing](https://github.com/dcschenc/myleetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2389-design-a-text-editor](https://github.com/dcschenc/myleetcode/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -1635,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/dcschenc/myleetcode/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -3323,6 +3325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Design
