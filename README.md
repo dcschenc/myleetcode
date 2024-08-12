@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2902-max-pair-sum-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [2904-sorting-three-groups](https://github.com/dcschenc/myleetcode/tree/master/2904-sorting-three-groups) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dcschenc/myleetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -1323,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-minimum-operations-to-make-numbers-non-positive](https://github.com/dcschenc/myleetcode/tree/master/2729-minimum-operations-to-make-numbers-non-positive) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-sorting-three-groups](https://github.com/dcschenc/myleetcode/tree/master/2904-sorting-three-groups) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dcschenc/myleetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/dcschenc/myleetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1842,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/dcschenc/myleetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/dcschenc/myleetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [2904-sorting-three-groups](https://github.com/dcschenc/myleetcode/tree/master/2904-sorting-three-groups) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Game Theory
