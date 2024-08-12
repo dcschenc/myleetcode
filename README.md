@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-find-maximal-uncovered-ranges](https://github.com/dcschenc/myleetcode/tree/master/2815-find-maximal-uncovered-ranges) |
 | [2823-the-knights-tour](https://github.com/dcschenc/myleetcode/tree/master/2823-the-knights-tour) |
 | [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dcschenc/myleetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2833-count-zero-request-servers](https://github.com/dcschenc/myleetcode/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/dcschenc/myleetcode/tree/master/2834-relocate-marbles) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/dcschenc/myleetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/dcschenc/myleetcode/tree/master/2825-minimize-string-length) |
 | [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dcschenc/myleetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2833-count-zero-request-servers](https://github.com/dcschenc/myleetcode/tree/master/2833-count-zero-request-servers) |
 | [2834-relocate-marbles](https://github.com/dcschenc/myleetcode/tree/master/2834-relocate-marbles) |
 | [2838-sum-of-matrix-after-queries](https://github.com/dcschenc/myleetcode/tree/master/2838-sum-of-matrix-after-queries) |
@@ -1326,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dcschenc/myleetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2729-minimum-operations-to-make-numbers-non-positive](https://github.com/dcschenc/myleetcode/tree/master/2729-minimum-operations-to-make-numbers-non-positive) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dcschenc/myleetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/dcschenc/myleetcode/tree/master/2904-sorting-three-groups) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -3482,6 +3485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/dcschenc/myleetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/dcschenc/myleetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2751-sliding-subarray-beauty](https://github.com/dcschenc/myleetcode/tree/master/2751-sliding-subarray-beauty) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dcschenc/myleetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2833-count-zero-request-servers](https://github.com/dcschenc/myleetcode/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/dcschenc/myleetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
