@@ -1669,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/dcschenc/myleetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/dcschenc/myleetcode/tree/master/2998-count-symmetric-integers) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/dcschenc/myleetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3055-maximum-odd-binary-number](https://github.com/dcschenc/myleetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/dcschenc/myleetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3111-smallest-number-with-given-digit-product](https://github.com/dcschenc/myleetcode/tree/master/3111-smallest-number-with-given-digit-product) |
 ## Dynamic Programming
@@ -2110,6 +2111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/dcschenc/myleetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3055-maximum-odd-binary-number](https://github.com/dcschenc/myleetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3111-smallest-number-with-given-digit-product](https://github.com/dcschenc/myleetcode/tree/master/3111-smallest-number-with-given-digit-product) |
 ## Sorting
 |  |
@@ -2791,6 +2793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dcschenc/myleetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dcschenc/myleetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/dcschenc/myleetcode/tree/master/3019-furthest-point-from-origin) |
+| [3055-maximum-odd-binary-number](https://github.com/dcschenc/myleetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Depth-First Search
 |  |
 | ------- |
