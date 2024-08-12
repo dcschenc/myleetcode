@@ -4251,6 +4251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-bikes-last-time-used](https://github.com/dcschenc/myleetcode/tree/master/2841-bikes-last-time-used) |
 | [2842-find-active-users](https://github.com/dcschenc/myleetcode/tree/master/2842-find-active-users) |
 | [3002-flight-occupancy-and-waitlist-analysis](https://github.com/dcschenc/myleetcode/tree/master/3002-flight-occupancy-and-waitlist-analysis) |
+| [3097-total-traveled-distance](https://github.com/dcschenc/myleetcode/tree/master/3097-total-traveled-distance) |
 ## Topological Sort
 |  |
 | ------- |
