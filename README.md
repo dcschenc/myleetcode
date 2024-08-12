@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dcschenc/myleetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/dcschenc/myleetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dcschenc/myleetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/dcschenc/myleetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2902-max-pair-sum-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/dcschenc/myleetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dcschenc/myleetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Simulation
@@ -3502,6 +3504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2884-length-of-the-longest-valid-substring](https://github.com/dcschenc/myleetcode/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/dcschenc/myleetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
