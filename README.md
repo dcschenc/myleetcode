@@ -2767,6 +2767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dcschenc/myleetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dcschenc/myleetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/dcschenc/myleetcode/tree/master/3019-furthest-point-from-origin) |
 ## Depth-First Search
 |  |
