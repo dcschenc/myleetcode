@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Hash Table
@@ -1119,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2890-count-substrings-without-repeating-character](https://github.com/dcschenc/myleetcode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -2067,6 +2069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/dcschenc/myleetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/dcschenc/myleetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/dcschenc/myleetcode/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/dcschenc/myleetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Sorting
 |  |
@@ -2299,6 +2302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/dcschenc/myleetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/dcschenc/myleetcode/tree/master/2892-check-if-array-is-good) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Geometry
 |  |
 | ------- |
@@ -3317,6 +3321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/dcschenc/myleetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/dcschenc/myleetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dcschenc/myleetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 ## Design
 |  |
@@ -3579,6 +3584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/dcschenc/myleetcode/tree/master/2728-sum-in-a-matrix) |
 | [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [2868-continuous-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2868-continuous-subarrays) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
