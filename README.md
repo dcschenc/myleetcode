@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dcschenc/myleetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dcschenc/myleetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 | [3151-minimum-processing-time](https://github.com/dcschenc/myleetcode/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dcschenc/myleetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1890,6 +1891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/dcschenc/myleetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 ## Game Theory
 |  |
@@ -2131,6 +2133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/dcschenc/myleetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3111-smallest-number-with-given-digit-product](https://github.com/dcschenc/myleetcode/tree/master/3111-smallest-number-with-given-digit-product) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/dcschenc/myleetcode/tree/master/3151-minimum-processing-time) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 ## Sorting
@@ -2816,6 +2819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/dcschenc/myleetcode/tree/master/3019-furthest-point-from-origin) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3055-maximum-odd-binary-number](https://github.com/dcschenc/myleetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Depth-First Search
 |  |
 | ------- |
