@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reshape-data-melt">3073. Reshape Data: Melt</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/method-chaining/">3073. Reshape Data: Melt</a></h2><h3>Easy</h3><hr><pre>
 DataFrame <code>report</code>
 +-------------+--------+
 | Column Name | Type   |
