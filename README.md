@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3187-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/dcschenc/myleetcode/tree/master/3187-maximum-profitable-triplets-with-increasing-prices-i) |
+| [3188-find-champion-i](https://github.com/dcschenc/myleetcode/tree/master/3188-find-champion-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -2508,6 +2509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/dcschenc/myleetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
+| [3188-find-champion-i](https://github.com/dcschenc/myleetcode/tree/master/3188-find-champion-i) |
 ## String
 |  |
 | ------- |
