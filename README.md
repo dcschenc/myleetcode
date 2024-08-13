@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/dcschenc/myleetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
+| [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3187-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/dcschenc/myleetcode/tree/master/3187-maximum-profitable-triplets-with-increasing-prices-i) |
 ## Hash Table
 |  |
@@ -4109,6 +4110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dcschenc/myleetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dcschenc/myleetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
 ## Bitmask
 |  |
 | ------- |
