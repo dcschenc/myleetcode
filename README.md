@@ -830,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dcschenc/myleetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dcschenc/myleetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dcschenc/myleetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3164-last-visited-integers](https://github.com/dcschenc/myleetcode/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dcschenc/myleetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3166-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/dcschenc/myleetcode/tree/master/3166-minimum-number-of-groups-to-create-a-valid-assignment) |
@@ -1163,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dcschenc/myleetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dcschenc/myleetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3166-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/dcschenc/myleetcode/tree/master/3166-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
 ## Simulation
