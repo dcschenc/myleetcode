@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3164-last-visited-integers](https://github.com/dcschenc/myleetcode/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dcschenc/myleetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/dcschenc/myleetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
 ## Hash Table
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/dcschenc/myleetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dcschenc/myleetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dcschenc/myleetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/dcschenc/myleetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Math
 |  |
 | ------- |
