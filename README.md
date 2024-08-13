@@ -2916,6 +2916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/dcschenc/myleetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 ## Breadth-First Search
 |  |
@@ -3228,6 +3229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/dcschenc/myleetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/dcschenc/myleetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
