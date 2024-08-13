@@ -1705,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-smallest-number-with-given-digit-product](https://github.com/dcschenc/myleetcode/tree/master/3111-smallest-number-with-given-digit-product) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dcschenc/myleetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -3883,6 +3884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -4021,6 +4023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2877-shortest-string-that-contains-three-strings](https://github.com/dcschenc/myleetcode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2998-count-symmetric-integers](https://github.com/dcschenc/myleetcode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Backtracking
 |  |
 | ------- |
