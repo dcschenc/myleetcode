@@ -1912,6 +1912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/dcschenc/myleetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -2964,6 +2965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dcschenc/myleetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3277,6 +3279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dcschenc/myleetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
