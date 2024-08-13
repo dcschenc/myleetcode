@@ -2825,6 +2825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/dcschenc/myleetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dcschenc/myleetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dcschenc/myleetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -3563,6 +3564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dcschenc/myleetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/dcschenc/myleetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dcschenc/myleetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dcschenc/myleetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Stack
 |  |
 | ------- |
