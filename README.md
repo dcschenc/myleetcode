@@ -3168,6 +3168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
+| [3189-find-champion-ii](https://github.com/dcschenc/myleetcode/tree/master/3189-find-champion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
