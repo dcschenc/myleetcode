@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dcschenc/myleetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dcschenc/myleetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dcschenc/myleetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 ## Hash Table
