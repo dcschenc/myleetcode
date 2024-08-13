@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dcschenc/myleetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dcschenc/myleetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
+| [3164-last-visited-integers](https://github.com/dcschenc/myleetcode/tree/master/3164-last-visited-integers) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
 ## Hash Table
@@ -1244,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dcschenc/myleetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2857-total-distance-traveled](https://github.com/dcschenc/myleetcode/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/dcschenc/myleetcode/tree/master/2886-faulty-keyboard) |
+| [3164-last-visited-integers](https://github.com/dcschenc/myleetcode/tree/master/3164-last-visited-integers) |
 ## Binary Search
 |  |
 | ------- |
