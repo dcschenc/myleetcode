@@ -1705,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-smallest-number-with-given-digit-product](https://github.com/dcschenc/myleetcode/tree/master/3111-smallest-number-with-given-digit-product) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dcschenc/myleetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Dynamic Programming
 |  |
@@ -1915,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/dcschenc/myleetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## Game Theory
 |  |
 | ------- |
@@ -3884,6 +3886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/dcschenc/myleetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2738-count-the-number-of-k-free-subsets](https://github.com/dcschenc/myleetcode/tree/master/2738-count-the-number-of-k-free-subsets) |
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Prefix Sum
 |  |
