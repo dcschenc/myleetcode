@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3187-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/dcschenc/myleetcode/tree/master/3187-maximum-profitable-triplets-with-increasing-prices-i) |
 | [3188-find-champion-i](https://github.com/dcschenc/myleetcode/tree/master/3188-find-champion-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dcschenc/myleetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3166-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/dcschenc/myleetcode/tree/master/3166-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
@@ -3592,6 +3594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/dcschenc/myleetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dcschenc/myleetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dcschenc/myleetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -4130,6 +4133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/dcschenc/myleetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dcschenc/myleetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -4161,6 +4165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dcschenc/myleetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String Matching
 |  |
 | ------- |
