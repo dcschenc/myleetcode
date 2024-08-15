@@ -862,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dcschenc/myleetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/dcschenc/myleetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/dcschenc/myleetcode/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -4220,6 +4221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dcschenc/myleetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/dcschenc/myleetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Bitmask
 |  |
 | ------- |
