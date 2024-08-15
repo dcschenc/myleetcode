@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/dcschenc/myleetcode/tree/master/3194-find-words-containing-character) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/dcschenc/myleetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/dcschenc/myleetcode/tree/master/3221-find-the-peaks) |
@@ -1184,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
