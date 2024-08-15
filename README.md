@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/dcschenc/myleetcode/tree/master/3221-find-the-peaks) |
 | [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 ## Hash Table
@@ -1187,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 ## Simulation
@@ -3631,6 +3633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dcschenc/myleetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dcschenc/myleetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
