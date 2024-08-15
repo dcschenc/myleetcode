@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
+| [3254-number-of-divisible-triplet-sums](https://github.com/dcschenc/myleetcode/tree/master/3254-number-of-divisible-triplet-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
+| [3254-number-of-divisible-triplet-sums](https://github.com/dcschenc/myleetcode/tree/master/3254-number-of-divisible-triplet-sums) |
 ## Simulation
 |  |
 | ------- |
