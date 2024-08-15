@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/dcschenc/myleetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
+| [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -3714,6 +3715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -4322,6 +4324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -4344,6 +4347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Suffix Array
 |  |
 | ------- |
@@ -4362,6 +4366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Database
 |  |
 | ------- |
