@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/dcschenc/myleetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
+| [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Hash Table
 |  |
@@ -1777,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3244-minimize-length-of-array-using-operations](https://github.com/dcschenc/myleetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dcschenc/myleetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2494,6 +2496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/dcschenc/myleetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dcschenc/myleetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 ## Geometry
 |  |
 | ------- |
