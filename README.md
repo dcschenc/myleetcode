@@ -3179,6 +3179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/dcschenc/myleetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Union Find
 |  |
 | ------- |
@@ -3280,6 +3281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/dcschenc/myleetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [3189-find-champion-ii](https://github.com/dcschenc/myleetcode/tree/master/3189-find-champion-ii) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -4102,6 +4104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/dcschenc/myleetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Data Stream
 |  |
 | ------- |
