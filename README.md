@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3188-find-champion-i](https://github.com/dcschenc/myleetcode/tree/master/3188-find-champion-i) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/dcschenc/myleetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3194-find-words-containing-character](https://github.com/dcschenc/myleetcode/tree/master/3194-find-words-containing-character) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 | [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
 ## Hash Table
@@ -2860,6 +2861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dcschenc/myleetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dcschenc/myleetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/dcschenc/myleetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/dcschenc/myleetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 | [3207-make-three-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/3207-make-three-strings-equal) |
