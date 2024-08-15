@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dcschenc/myleetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dcschenc/myleetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/dcschenc/myleetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/dcschenc/myleetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dcschenc/myleetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/dcschenc/myleetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dcschenc/myleetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/dcschenc/myleetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/dcschenc/myleetcode/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -3919,6 +3921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/dcschenc/myleetcode/tree/master/3019-furthest-point-from-origin) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/dcschenc/myleetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
