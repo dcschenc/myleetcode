@@ -1972,6 +1972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/dcschenc/myleetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
 ## Game Theory
@@ -3156,6 +3157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/dcschenc/myleetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union Find
 |  |
 | ------- |
@@ -3459,6 +3461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dcschenc/myleetcode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Stack
 |  |
 | ------- |
