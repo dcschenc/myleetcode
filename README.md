@@ -1426,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/dcschenc/myleetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1542,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dcschenc/myleetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/dcschenc/myleetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/dcschenc/myleetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Math
 |  |
@@ -2939,6 +2941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -4296,6 +4299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dcschenc/myleetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -4317,6 +4321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Suffix Array
 |  |
 | ------- |
@@ -4334,6 +4339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Database
 |  |
 | ------- |
