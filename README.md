@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/dcschenc/myleetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
+| [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dcschenc/myleetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/dcschenc/myleetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/dcschenc/myleetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
 ## Linked List
 |  |
 | ------- |
@@ -4419,6 +4421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1959-minimum-path-cost-in-a-hidden-grid](https://github.com/dcschenc/myleetcode/tree/master/1959-minimum-path-cost-in-a-hidden-grid) |
 | [2875-count-houses-in-a-circular-street](https://github.com/dcschenc/myleetcode/tree/master/2875-count-houses-in-a-circular-street) |
 | [2995-number-of-unique-categories](https://github.com/dcschenc/myleetcode/tree/master/2995-number-of-unique-categories) |
+| [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
 ## Iterator
 |  |
 | ------- |
