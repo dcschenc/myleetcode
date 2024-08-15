@@ -1940,6 +1940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/dcschenc/myleetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Game Theory
 |  |
 | ------- |
@@ -2186,6 +2187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dcschenc/myleetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3195-separate-black-and-white-balls](https://github.com/dcschenc/myleetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Sorting
 |  |
@@ -2883,6 +2885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 | [3207-make-three-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/3207-make-three-strings-equal) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 ## Depth-First Search
