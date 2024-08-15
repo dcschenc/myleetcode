@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/dcschenc/myleetcode/tree/master/3221-find-the-peaks) |
 | [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3227-find-missing-and-repeated-values](https://github.com/dcschenc/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
@@ -1193,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3227-find-missing-and-repeated-values](https://github.com/dcschenc/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/dcschenc/myleetcode/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -1738,6 +1740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3227-find-missing-and-repeated-values](https://github.com/dcschenc/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
 ## Dynamic Programming
 |  |
@@ -2555,6 +2558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 | [3188-find-champion-i](https://github.com/dcschenc/myleetcode/tree/master/3188-find-champion-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3227-find-missing-and-repeated-values](https://github.com/dcschenc/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
