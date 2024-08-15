@@ -1181,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
+| [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1719,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
 |  |
@@ -2871,6 +2873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/dcschenc/myleetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 | [3207-make-three-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/3207-make-three-strings-equal) |
+| [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -3866,6 +3869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/dcschenc/myleetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Queue
 |  |
 | ------- |
@@ -3998,6 +4002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/dcschenc/myleetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2915-count-of-interesting-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dcschenc/myleetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -4053,6 +4058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/dcschenc/myleetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 ## Backtracking
 |  |
 | ------- |
