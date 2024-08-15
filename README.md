@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/dcschenc/myleetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/dcschenc/myleetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
+| [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -1979,6 +1980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
+| [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 ## Game Theory
 |  |
 | ------- |
@@ -3058,6 +3060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dcschenc/myleetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3373,6 +3376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dcschenc/myleetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 ## Binary Tree
 |  |
 | ------- |
