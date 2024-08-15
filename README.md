@@ -1772,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/dcschenc/myleetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dcschenc/myleetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2241,6 +2242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dcschenc/myleetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/dcschenc/myleetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/dcschenc/myleetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dcschenc/myleetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -2950,6 +2952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dcschenc/myleetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Depth-First Search
 |  |
 | ------- |
