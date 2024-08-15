@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3187-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/dcschenc/myleetcode/tree/master/3187-maximum-profitable-triplets-with-increasing-prices-i) |
 | [3188-find-champion-i](https://github.com/dcschenc/myleetcode/tree/master/3188-find-champion-i) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/dcschenc/myleetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 ## Hash Table
@@ -4032,6 +4033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/dcschenc/myleetcode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2998-count-symmetric-integers](https://github.com/dcschenc/myleetcode/tree/master/2998-count-symmetric-integers) |
+| [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/dcschenc/myleetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/dcschenc/myleetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Backtracking
