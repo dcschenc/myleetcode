@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/dcschenc/myleetcode/tree/master/3221-find-the-peaks) |
 | [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Hash Table
 |  |
 | ------- |
@@ -2181,6 +2182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dcschenc/myleetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3177-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/dcschenc/myleetcode/tree/master/3177-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3195-separate-black-and-white-balls](https://github.com/dcschenc/myleetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Sorting
 |  |
 | ------- |
@@ -2419,6 +2421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/dcschenc/myleetcode/tree/master/3151-minimum-processing-time) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Geometry
 |  |
 | ------- |
