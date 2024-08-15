@@ -869,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/dcschenc/myleetcode/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/dcschenc/myleetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/dcschenc/myleetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
 ## Hash Table
 |  |
@@ -4137,6 +4138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
 | [3221-find-the-peaks](https://github.com/dcschenc/myleetcode/tree/master/3221-find-the-peaks) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/dcschenc/myleetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Backtracking
 |  |
 | ------- |
