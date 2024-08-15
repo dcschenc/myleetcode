@@ -1751,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/dcschenc/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/dcschenc/myleetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
+| [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1963,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/dcschenc/myleetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 ## Game Theory
 |  |
 | ------- |
@@ -3919,6 +3921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 ## Queue
 |  |
 | ------- |
