@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -2874,6 +2875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
 | [3207-make-three-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/3207-make-three-strings-equal) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -3842,6 +3844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2995-number-of-unique-categories](https://github.com/dcschenc/myleetcode/tree/master/2995-number-of-unique-categories) |
 | [3019-furthest-point-from-origin](https://github.com/dcschenc/myleetcode/tree/master/3019-furthest-point-from-origin) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -4003,6 +4006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dcschenc/myleetcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 ## Data Stream
 |  |
 | ------- |
