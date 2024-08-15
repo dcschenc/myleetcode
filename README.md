@@ -2859,6 +2859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dcschenc/myleetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dcschenc/myleetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3202-high-access-employees](https://github.com/dcschenc/myleetcode/tree/master/3202-high-access-employees) |
+| [3207-make-three-strings-equal](https://github.com/dcschenc/myleetcode/tree/master/3207-make-three-strings-equal) |
 ## Depth-First Search
 |  |
 | ------- |
