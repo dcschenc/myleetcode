@@ -4468,7 +4468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3281-find-peak-calling-hours-for-each-city](https://github.com/dcschenc/myleetcode/tree/master/3281-find-peak-calling-hours-for-each-city) |
 | [3283-find-third-transaction](https://github.com/dcschenc/myleetcode/tree/master/3283-find-third-transaction) |
 | [3284-find-expensive-cities](https://github.com/dcschenc/myleetcode/tree/master/3284-find-expensive-cities) |
-| [3285-manager-of-the-largest-department](https://github.com/dcschenc/myleetcode/tree/master/3285-manager-of-the-largest-department) |
+| [3286-class-performance](https://github.com/dcschenc/myleetcode/tree/master/3286-class-performance) |
 ## Topological Sort
 |  |
 | ------- |
