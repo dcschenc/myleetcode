@@ -865,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dcschenc/myleetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dcschenc/myleetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dcschenc/myleetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3244-minimize-length-of-array-using-operations](https://github.com/dcschenc/myleetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/dcschenc/myleetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dcschenc/myleetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -1769,6 +1770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/dcschenc/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/dcschenc/myleetcode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3234-double-modular-exponentiation](https://github.com/dcschenc/myleetcode/tree/master/3234-double-modular-exponentiation) |
+| [3244-minimize-length-of-array-using-operations](https://github.com/dcschenc/myleetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 ## Dynamic Programming
 |  |
@@ -2237,6 +2239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/dcschenc/myleetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dcschenc/myleetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3244-minimize-length-of-array-using-operations](https://github.com/dcschenc/myleetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/dcschenc/myleetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Sorting
 |  |
@@ -3958,6 +3961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/dcschenc/myleetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/dcschenc/myleetcode/tree/master/3210-count-beautiful-substrings-i) |
+| [3244-minimize-length-of-array-using-operations](https://github.com/dcschenc/myleetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 ## Queue
 |  |
