@@ -1204,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/dcschenc/myleetcode/tree/master/3254-number-of-divisible-triplet-sums) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1415,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/dcschenc/myleetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
 |  |
 | ------- |
@@ -2921,6 +2923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/dcschenc/myleetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -3666,6 +3669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dcschenc/myleetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -3894,6 +3898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3237-number-of-divisible-substrings](https://github.com/dcschenc/myleetcode/tree/master/3237-number-of-divisible-substrings) |
 | [3247-number-of-same-end-substrings](https://github.com/dcschenc/myleetcode/tree/master/3247-number-of-same-end-substrings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Number Theory
 |  |
 | ------- |
