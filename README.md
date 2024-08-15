@@ -4467,6 +4467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3253-symmetric-coordinates](https://github.com/dcschenc/myleetcode/tree/master/3253-symmetric-coordinates) |
 | [3281-find-peak-calling-hours-for-each-city](https://github.com/dcschenc/myleetcode/tree/master/3281-find-peak-calling-hours-for-each-city) |
 | [3283-find-third-transaction](https://github.com/dcschenc/myleetcode/tree/master/3283-find-third-transaction) |
+| [3284-find-expensive-cities](https://github.com/dcschenc/myleetcode/tree/master/3284-find-expensive-cities) |
 ## Topological Sort
 |  |
 | ------- |
