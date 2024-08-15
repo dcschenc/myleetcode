@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/dcschenc/myleetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/dcschenc/myleetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/dcschenc/myleetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/dcschenc/myleetcode/tree/master/3221-find-the-peaks) |
 | [3222-number-of-equal-numbers-blocks](https://github.com/dcschenc/myleetcode/tree/master/3222-number-of-equal-numbers-blocks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dcschenc/myleetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1281,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/dcschenc/myleetcode/tree/master/2886-faulty-keyboard) |
 | [3164-last-visited-integers](https://github.com/dcschenc/myleetcode/tree/master/3164-last-visited-integers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dcschenc/myleetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/dcschenc/myleetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
 | ------- |
