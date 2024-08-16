@@ -1,16 +1,14 @@
 class Solution:
     def maxPalindromesAfterOperations(self, words: List[str]) -> int:
-        n = len(words)
-        v = Counter(''.join(words)).most_common()     
-        pairs = sum([f//2 for _, f in v])        
-        sizes = [len(w) for w in words]
-        sizes.sort()        
         ans = 0
-        for i in range(n):
-            need = sizes[i]//2
-            if need <= pairs:
-                pairs -= need
-                ans += 1
-            else:
-                break        
+        count = collections.Counter(''.join(words))
+        pairs = sum(value // 2 for value in count.values())
+
+        for length in sorted(len(word) for word in words):
+            needPairs = length // 2
+            if pairs < needPairs:
+                return ans
+            ans += 1
+            pairs -= needPairs
+
         return ans
