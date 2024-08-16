@@ -2971,6 +2971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dcschenc/myleetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/dcschenc/myleetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3312-number-of-changing-keys](https://github.com/dcschenc/myleetcode/tree/master/3312-number-of-changing-keys) |
 ## Depth-First Search
 |  |
@@ -4338,6 +4339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/dcschenc/myleetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Brainteaser
 |  |
@@ -4361,6 +4363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/dcschenc/myleetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Suffix Array
 |  |
@@ -4380,6 +4383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/dcschenc/myleetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Database
 |  |
