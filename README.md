@@ -880,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/dcschenc/myleetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3311-ant-on-the-boundary](https://github.com/dcschenc/myleetcode/tree/master/3311-ant-on-the-boundary) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/dcschenc/myleetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/dcschenc/myleetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Simulation
@@ -2513,6 +2515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dcschenc/myleetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dcschenc/myleetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 ## Geometry
@@ -3973,6 +3976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 ## Number Theory
 |  |
