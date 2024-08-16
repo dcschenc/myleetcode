@@ -4646,6 +4646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3358-friends-with-no-mutual-friends](https://github.com/dcschenc/myleetcode/tree/master/3358-friends-with-no-mutual-friends) |
 | [3365-find-all-unique-email-domains](https://github.com/dcschenc/myleetcode/tree/master/3365-find-all-unique-email-domains) |
 | [3392-find-trending-hashtags](https://github.com/dcschenc/myleetcode/tree/master/3392-find-trending-hashtags) |
+| [3400-find-bursty-behavior](https://github.com/dcschenc/myleetcode/tree/master/3400-find-bursty-behavior) |
 ## Topological Sort
 |  |
 | ------- |
