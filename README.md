@@ -899,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3378-maximum-increasing-triplet-value](https://github.com/dcschenc/myleetcode/tree/master/3378-maximum-increasing-triplet-value) |
 ## Hash Table
 |  |
@@ -1250,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3359-linked-list-frequency](https://github.com/dcschenc/myleetcode/tree/master/3359-linked-list-frequency) |
 ## Simulation
 |  |
@@ -3018,6 +3020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/dcschenc/myleetcode/tree/master/3312-number-of-changing-keys) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -4388,6 +4391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/dcschenc/myleetcode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## String Matching
 |  |
 | ------- |
