@@ -4594,6 +4594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3287-loan-types](https://github.com/dcschenc/myleetcode/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/dcschenc/myleetcode/tree/master/3300-friday-purchases-i) |
 | [3339-top-percentile-fraud](https://github.com/dcschenc/myleetcode/tree/master/3339-top-percentile-fraud) |
+| [3340-snaps-analysis](https://github.com/dcschenc/myleetcode/tree/master/3340-snaps-analysis) |
 ## Topological Sort
 |  |
 | ------- |
