@@ -883,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3311-ant-on-the-boundary](https://github.com/dcschenc/myleetcode/tree/master/3311-ant-on-the-boundary) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/dcschenc/myleetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/dcschenc/myleetcode/tree/master/3330-modify-the-matrix) |
@@ -2011,6 +2012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/dcschenc/myleetcode/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Game Theory
 |  |
@@ -3522,6 +3524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dcschenc/myleetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/dcschenc/myleetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 ## Stack
 |  |
 | ------- |
