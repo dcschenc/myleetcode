@@ -1253,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/dcschenc/myleetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/dcschenc/myleetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -3033,6 +3034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/dcschenc/myleetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/dcschenc/myleetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/dcschenc/myleetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
@@ -3796,6 +3798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/dcschenc/myleetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
