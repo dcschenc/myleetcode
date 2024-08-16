@@ -889,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/dcschenc/myleetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/dcschenc/myleetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dcschenc/myleetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -3127,6 +3128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3445,6 +3447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dcschenc/myleetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Binary Tree
 |  |
 | ------- |
