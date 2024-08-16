@@ -874,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/dcschenc/myleetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dcschenc/myleetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/3265-maximum-good-subarray-sum) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/dcschenc/myleetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/dcschenc/myleetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dcschenc/myleetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
@@ -4344,6 +4345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/dcschenc/myleetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/dcschenc/myleetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/dcschenc/myleetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Brainteaser
@@ -4368,6 +4370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/dcschenc/myleetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/dcschenc/myleetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Suffix Array
@@ -4388,6 +4391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-unique-substrings-with-equal-digit-frequency](https://github.com/dcschenc/myleetcode/tree/master/2303-unique-substrings-with-equal-digit-frequency) |
 | [2339-k-divisible-elements-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/dcschenc/myleetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/dcschenc/myleetcode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Database
