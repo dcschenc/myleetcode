@@ -1252,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3359-linked-list-frequency](https://github.com/dcschenc/myleetcode/tree/master/3359-linked-list-frequency) |
 ## Simulation
@@ -2295,6 +2296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dcschenc/myleetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Sorting
 |  |
 | ------- |
@@ -2547,6 +2549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dcschenc/myleetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Geometry
 |  |
 | ------- |
@@ -3022,6 +3025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/dcschenc/myleetcode/tree/master/3312-number-of-changing-keys) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## Depth-First Search
 |  |
@@ -3904,6 +3908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/dcschenc/myleetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3226-minimum-number-game](https://github.com/dcschenc/myleetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dcschenc/myleetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Merge Sort
 |  |
 | ------- |
@@ -4018,6 +4023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3359-linked-list-frequency](https://github.com/dcschenc/myleetcode/tree/master/3359-linked-list-frequency) |
 ## Number Theory
 |  |
