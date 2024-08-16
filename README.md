@@ -4584,6 +4584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3205-market-analysis-iii](https://github.com/dcschenc/myleetcode/tree/master/3205-market-analysis-iii) |
 | [3253-symmetric-coordinates](https://github.com/dcschenc/myleetcode/tree/master/3253-symmetric-coordinates) |
 | [3255-pizza-toppings-cost-analysis](https://github.com/dcschenc/myleetcode/tree/master/3255-pizza-toppings-cost-analysis) |
+| [3256-find-candidates-for-data-scientist-position](https://github.com/dcschenc/myleetcode/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3281-find-peak-calling-hours-for-each-city](https://github.com/dcschenc/myleetcode/tree/master/3281-find-peak-calling-hours-for-each-city) |
 | [3283-find-third-transaction](https://github.com/dcschenc/myleetcode/tree/master/3283-find-third-transaction) |
 | [3284-find-expensive-cities](https://github.com/dcschenc/myleetcode/tree/master/3284-find-expensive-cities) |
