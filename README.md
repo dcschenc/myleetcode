@@ -4595,6 +4595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-friday-purchases-i](https://github.com/dcschenc/myleetcode/tree/master/3300-friday-purchases-i) |
 | [3339-top-percentile-fraud](https://github.com/dcschenc/myleetcode/tree/master/3339-top-percentile-fraud) |
 | [3340-snaps-analysis](https://github.com/dcschenc/myleetcode/tree/master/3340-snaps-analysis) |
+| [3358-friends-with-no-mutual-friends](https://github.com/dcschenc/myleetcode/tree/master/3358-friends-with-no-mutual-friends) |
 ## Topological Sort
 |  |
 | ------- |
