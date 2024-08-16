@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/dcschenc/myleetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
+| [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/dcschenc/myleetcode/tree/master/3330-modify-the-matrix) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/dcschenc/myleetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Simulation
@@ -3988,6 +3990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/dcschenc/myleetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
 ## Number Theory
 |  |
 | ------- |
