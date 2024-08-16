@@ -891,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/dcschenc/myleetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dcschenc/myleetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/dcschenc/myleetcode/tree/master/3330-modify-the-matrix) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dcschenc/myleetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 ## Hash Table
 |  |
