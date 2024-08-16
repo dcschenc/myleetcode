@@ -898,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/dcschenc/myleetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3378-maximum-increasing-triplet-value](https://github.com/dcschenc/myleetcode/tree/master/3378-maximum-increasing-triplet-value) |
 ## Hash Table
 |  |
@@ -2289,6 +2290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dcschenc/myleetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
@@ -2540,6 +2542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dcschenc/myleetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Geometry
 |  |
 | ------- |
