@@ -897,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3333-find-pattern-in-infinite-stream-i](https://github.com/dcschenc/myleetcode/tree/master/3333-find-pattern-in-infinite-stream-i) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3378-maximum-increasing-triplet-value](https://github.com/dcschenc/myleetcode/tree/master/3378-maximum-increasing-triplet-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -3688,6 +3689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [2868-continuous-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2868-continuous-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/dcschenc/myleetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3378-maximum-increasing-triplet-value](https://github.com/dcschenc/myleetcode/tree/master/3378-maximum-increasing-triplet-value) |
 ## Binary Search Tree
 |  |
 | ------- |
