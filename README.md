@@ -3195,6 +3195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3301,6 +3302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-sum-of-remoteness-of-all-cells](https://github.com/dcschenc/myleetcode/tree/master/3148-sum-of-remoteness-of-all-cells) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Union Find
 |  |
 | ------- |
@@ -3403,6 +3405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [3189-find-champion-ii](https://github.com/dcschenc/myleetcode/tree/master/3189-find-champion-ii) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -3961,6 +3964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dcschenc/myleetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/dcschenc/myleetcode/tree/master/3363-most-frequent-ids) |
+| [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Merge Sort
 |  |
 | ------- |
@@ -4760,6 +4764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2612-minimum-cost-to-buy-apples](https://github.com/dcschenc/myleetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/dcschenc/myleetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2865-find-shortest-path-with-k-hops](https://github.com/dcschenc/myleetcode/tree/master/2865-find-shortest-path-with-k-hops) |
+| [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Binary Indexed Tree
 |  |
 | ------- |
