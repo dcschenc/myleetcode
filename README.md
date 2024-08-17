@@ -911,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 ## Hash Table
 |  |
@@ -2707,6 +2708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/dcschenc/myleetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/dcschenc/myleetcode/tree/master/3330-modify-the-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 ## String
 |  |
@@ -4318,6 +4320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/dcschenc/myleetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dcschenc/myleetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Backtracking
 |  |
 | ------- |
