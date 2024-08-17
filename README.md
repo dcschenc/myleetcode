@@ -4699,6 +4699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3392-find-trending-hashtags](https://github.com/dcschenc/myleetcode/tree/master/3392-find-trending-hashtags) |
 | [3400-find-bursty-behavior](https://github.com/dcschenc/myleetcode/tree/master/3400-find-bursty-behavior) |
 | [3424-friday-purchase-iii](https://github.com/dcschenc/myleetcode/tree/master/3424-friday-purchase-iii) |
+| [3432-find-longest-calls](https://github.com/dcschenc/myleetcode/tree/master/3432-find-longest-calls) |
 ## Topological Sort
 |  |
 | ------- |
