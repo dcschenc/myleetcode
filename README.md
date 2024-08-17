@@ -1359,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/dcschenc/myleetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/dcschenc/myleetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dcschenc/myleetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/dcschenc/myleetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -1827,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dcschenc/myleetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3336-water-bottles-ii](https://github.com/dcschenc/myleetcode/tree/master/3336-water-bottles-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/dcschenc/myleetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dcschenc/myleetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
