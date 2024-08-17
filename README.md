@@ -1822,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dcschenc/myleetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dcschenc/myleetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/dcschenc/myleetcode/tree/master/3321-type-of-triangle) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/dcschenc/myleetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dcschenc/myleetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -2300,6 +2301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dcschenc/myleetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dcschenc/myleetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3334-apple-redistribution-into-boxes](https://github.com/dcschenc/myleetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -4272,6 +4274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/dcschenc/myleetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dcschenc/myleetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/dcschenc/myleetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
