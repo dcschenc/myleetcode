@@ -1830,6 +1830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/dcschenc/myleetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dcschenc/myleetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3371-harshad-number](https://github.com/dcschenc/myleetcode/tree/master/3371-harshad-number) |
 ## Dynamic Programming
 |  |
 | ------- |
