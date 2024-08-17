@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3363-most-frequent-ids](https://github.com/dcschenc/myleetcode/tree/master/3363-most-frequent-ids) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dcschenc/myleetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dcschenc/myleetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3374-count-alternating-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3374-count-alternating-subarrays) |
 | [3378-maximum-increasing-triplet-value](https://github.com/dcschenc/myleetcode/tree/master/3378-maximum-increasing-triplet-value) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
