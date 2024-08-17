@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-count-alternating-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3374-count-alternating-subarrays) |
 | [3378-maximum-increasing-triplet-value](https://github.com/dcschenc/myleetcode/tree/master/3378-maximum-increasing-triplet-value) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -2317,6 +2318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -2572,6 +2574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Geometry
 |  |
 | ------- |
