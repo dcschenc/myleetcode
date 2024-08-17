@@ -3075,6 +3075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dcschenc/myleetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/dcschenc/myleetcode/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/dcschenc/myleetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
