@@ -903,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/dcschenc/myleetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3363-most-frequent-ids](https://github.com/dcschenc/myleetcode/tree/master/3363-most-frequent-ids) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dcschenc/myleetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dcschenc/myleetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3374-count-alternating-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3374-count-alternating-subarrays) |
@@ -1486,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dcschenc/myleetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Linked List
 |  |
@@ -2059,6 +2061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/dcschenc/myleetcode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -4116,6 +4119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/dcschenc/myleetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2868-continuous-subarrays](https://github.com/dcschenc/myleetcode/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/dcschenc/myleetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -4406,6 +4410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/dcschenc/myleetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/dcschenc/myleetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3294-number-of-self-divisible-permutations](https://github.com/dcschenc/myleetcode/tree/master/3294-number-of-self-divisible-permutations) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Bitmask
 |  |
@@ -4773,4 +4778,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [3187-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/dcschenc/myleetcode/tree/master/3187-maximum-profitable-triplets-with-increasing-prices-i) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 <!---LeetCode Topics End-->
