@@ -1289,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 ## Simulation
@@ -2357,6 +2358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -3112,6 +3114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/dcschenc/myleetcode/tree/master/3451-string-compression-iii) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 ## Depth-First Search
@@ -3726,6 +3729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/dcschenc/myleetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
 |  |
 | ------- |
@@ -4012,6 +4016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/dcschenc/myleetcode/tree/master/3363-most-frequent-ids) |
 | [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
 |  |
 | ------- |
