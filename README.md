@@ -3223,6 +3223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3330,6 +3331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/dcschenc/myleetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -3544,6 +3546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/dcschenc/myleetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -3618,6 +3621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-extract-kth-character-from-the-rope-tree](https://github.com/dcschenc/myleetcode/tree/master/2843-extract-kth-character-from-the-rope-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [2944-height-of-special-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2944-height-of-special-binary-tree) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Recursion
 |  |
 | ------- |
