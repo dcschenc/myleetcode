@@ -1,5 +1,6 @@
 class Solution:
     def countDays(self, days: int, meetings: List[List[int]]) -> int:
+        # https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3169.Count%20Days%20Without%20Meetings
         meetings.sort(key=lambda x: (x[0], -x[1]))
         n = len(meetings)
         start, end = meetings[0]
