@@ -916,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dcschenc/myleetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3427-special-array-ii](https://github.com/dcschenc/myleetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/dcschenc/myleetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -1501,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dcschenc/myleetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3427-special-array-ii](https://github.com/dcschenc/myleetcode/tree/master/3427-special-array-ii) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 ## Linked List
 |  |
@@ -4279,6 +4281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/dcschenc/myleetcode/tree/master/3311-ant-on-the-boundary) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dcschenc/myleetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3427-special-array-ii](https://github.com/dcschenc/myleetcode/tree/master/3427-special-array-ii) |
 ## Data Stream
 |  |
 | ------- |
