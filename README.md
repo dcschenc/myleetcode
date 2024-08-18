@@ -918,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dcschenc/myleetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3427-special-array-ii](https://github.com/dcschenc/myleetcode/tree/master/3427-special-array-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/dcschenc/myleetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -1283,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dcschenc/myleetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -4468,6 +4470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bitmask
 |  |
 | ------- |
