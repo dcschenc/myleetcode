@@ -910,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3378-maximum-increasing-triplet-value](https://github.com/dcschenc/myleetcode/tree/master/3378-maximum-increasing-triplet-value) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dcschenc/myleetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/dcschenc/myleetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -4276,6 +4277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3311-ant-on-the-boundary](https://github.com/dcschenc/myleetcode/tree/master/3311-ant-on-the-boundary) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dcschenc/myleetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Data Stream
 |  |
 | ------- |
