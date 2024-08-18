@@ -914,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/dcschenc/myleetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/dcschenc/myleetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -2715,6 +2716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/dcschenc/myleetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## String
 |  |
 | ------- |
