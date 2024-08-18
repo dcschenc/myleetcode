@@ -1271,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3359-linked-list-frequency](https://github.com/dcschenc/myleetcode/tree/master/3359-linked-list-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3363-most-frequent-ids](https://github.com/dcschenc/myleetcode/tree/master/3363-most-frequent-ids) |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/dcschenc/myleetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/dcschenc/myleetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Simulation
@@ -3075,6 +3076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dcschenc/myleetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/3379-score-of-a-string) |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/dcschenc/myleetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3396-valid-word](https://github.com/dcschenc/myleetcode/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/dcschenc/myleetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -4091,6 +4093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/dcschenc/myleetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3359-linked-list-frequency](https://github.com/dcschenc/myleetcode/tree/master/3359-linked-list-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/dcschenc/myleetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 ## Number Theory
 |  |
 | ------- |
