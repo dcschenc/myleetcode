@@ -3106,6 +3106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/dcschenc/myleetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
+| [3451-string-compression-iii](https://github.com/dcschenc/myleetcode/tree/master/3451-string-compression-iii) |
 ## Depth-First Search
 |  |
 | ------- |
