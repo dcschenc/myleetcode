@@ -1388,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dcschenc/myleetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/dcschenc/myleetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
 |  |
 | ------- |
@@ -3107,6 +3108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dcschenc/myleetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3451-string-compression-iii](https://github.com/dcschenc/myleetcode/tree/master/3451-string-compression-iii) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
