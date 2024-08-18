@@ -1274,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/dcschenc/myleetcode/tree/master/3363-most-frequent-ids) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/dcschenc/myleetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/dcschenc/myleetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/dcschenc/myleetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/dcschenc/myleetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Simulation
@@ -2071,6 +2072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/dcschenc/myleetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/dcschenc/myleetcode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/dcschenc/myleetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 ## Game Theory
@@ -3082,6 +3084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/dcschenc/myleetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/dcschenc/myleetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3396-valid-word](https://github.com/dcschenc/myleetcode/tree/master/3396-valid-word) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/dcschenc/myleetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/dcschenc/myleetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
@@ -4099,6 +4102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dcschenc/myleetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/dcschenc/myleetcode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/dcschenc/myleetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/dcschenc/myleetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Number Theory
 |  |
 | ------- |
