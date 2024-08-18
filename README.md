@@ -1392,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/dcschenc/myleetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -3116,6 +3117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/dcschenc/myleetcode/tree/master/3451-string-compression-iii) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 ## Depth-First Search
@@ -3731,6 +3733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/dcschenc/myleetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
