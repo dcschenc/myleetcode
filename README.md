@@ -923,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/dcschenc/myleetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/dcschenc/myleetcode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/dcschenc/myleetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -4489,6 +4490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/dcschenc/myleetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Bitmask
 |  |
 | ------- |
