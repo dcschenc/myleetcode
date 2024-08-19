@@ -5,6 +5,7 @@
 #         self.next = next
 class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
+        # https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3217.Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array
         dummy = ListNode()
         dummy.next = head
         prev = dummy
