@@ -1417,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/dcschenc/myleetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -1902,6 +1903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/dcschenc/myleetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2149,6 +2151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-game-of-nim](https://github.com/dcschenc/myleetcode/tree/master/2062-game-of-nim) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2156-stone-game-ix](https://github.com/dcschenc/myleetcode/tree/master/2156-stone-game-ix) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/dcschenc/myleetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Greedy
 |  |
 | ------- |
