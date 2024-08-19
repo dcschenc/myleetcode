@@ -1399,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/dcschenc/myleetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Binary Search
 |  |
 | ------- |
@@ -1878,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-count-alternating-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3374-count-alternating-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Dynamic Programming
 |  |
 | ------- |
