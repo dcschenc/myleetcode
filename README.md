@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3469-maximum-height-of-a-triangle](https://github.com/dcschenc/myleetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/dcschenc/myleetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-alternating-groups-ii](https://github.com/dcschenc/myleetcode/tree/master/3483-alternating-groups-ii) |
 | [3489-the-number-of-ways-to-make-the-sum](https://github.com/dcschenc/myleetcode/tree/master/3489-the-number-of-ways-to-make-the-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
@@ -3929,6 +3930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3463-alternating-groups-i](https://github.com/dcschenc/myleetcode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/dcschenc/myleetcode/tree/master/3483-alternating-groups-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
