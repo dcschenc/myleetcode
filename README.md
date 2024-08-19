@@ -1311,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dcschenc/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -3163,6 +3164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/dcschenc/myleetcode/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dcschenc/myleetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3468-find-the-encrypted-string](https://github.com/dcschenc/myleetcode/tree/master/3468-find-the-encrypted-string) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/dcschenc/myleetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -4199,6 +4201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/dcschenc/myleetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/dcschenc/myleetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 ## Number Theory
 |  |
