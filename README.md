@@ -926,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/dcschenc/myleetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/dcschenc/myleetcode/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/dcschenc/myleetcode/tree/master/3469-maximum-height-of-a-triangle) |
@@ -1300,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/dcschenc/myleetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -1531,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/dcschenc/myleetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3427-special-array-ii](https://github.com/dcschenc/myleetcode/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 ## Linked List
 |  |
@@ -1649,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/dcschenc/myleetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/dcschenc/myleetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
@@ -2112,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/dcschenc/myleetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3489-the-number-of-ways-to-make-the-sum](https://github.com/dcschenc/myleetcode/tree/master/3489-the-number-of-ways-to-make-the-sum) |
@@ -2638,6 +2643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3430-count-days-without-meetings](https://github.com/dcschenc/myleetcode/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 ## Geometry
 |  |
@@ -4164,6 +4170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/dcschenc/myleetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/dcschenc/myleetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/dcschenc/myleetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 ## Number Theory
 |  |
