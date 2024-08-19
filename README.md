@@ -923,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/dcschenc/myleetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/dcschenc/myleetcode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3469-maximum-height-of-a-triangle](https://github.com/dcschenc/myleetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/dcschenc/myleetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Hash Table
 |  |
@@ -4383,6 +4384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dcschenc/myleetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3469-maximum-height-of-a-triangle](https://github.com/dcschenc/myleetcode/tree/master/3469-maximum-height-of-a-triangle) |
 ## Backtracking
 |  |
 | ------- |
