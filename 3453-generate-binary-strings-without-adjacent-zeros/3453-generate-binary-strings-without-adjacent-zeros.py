@@ -1,5 +1,6 @@
 class Solution:
     def validStrings(self, n: int) -> List[str]:
+        # https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3211.Generate%20Binary%20Strings%20Without%20Adjacent%20Zeros        
         def backtrack(i, path):
             if i == n:
                 ans.append(path)
