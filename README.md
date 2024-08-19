@@ -2393,6 +2393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/dcschenc/myleetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 ## Sorting
 |  |
@@ -3156,6 +3157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dcschenc/myleetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/dcschenc/myleetcode/tree/master/3468-find-the-encrypted-string) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/dcschenc/myleetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Depth-First Search
 |  |
 | ------- |
