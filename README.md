@@ -918,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/dcschenc/myleetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dcschenc/myleetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/dcschenc/myleetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/dcschenc/myleetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/dcschenc/myleetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dcschenc/myleetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/dcschenc/myleetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/dcschenc/myleetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -4160,6 +4162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/dcschenc/myleetcode/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/dcschenc/myleetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/dcschenc/myleetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/dcschenc/myleetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 ## Number Theory
