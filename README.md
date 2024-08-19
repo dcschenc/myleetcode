@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dcschenc/myleetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/dcschenc/myleetcode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dcschenc/myleetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/dcschenc/myleetcode/tree/master/3429-special-array-i) |
@@ -1397,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/dcschenc/myleetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/dcschenc/myleetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -1879,6 +1881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-count-alternating-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3374-count-alternating-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Dynamic Programming
 |  |
@@ -4233,6 +4236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dcschenc/myleetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -4327,6 +4331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/dcschenc/myleetcode/tree/master/3311-ant-on-the-boundary) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dcschenc/myleetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dcschenc/myleetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/dcschenc/myleetcode/tree/master/3427-special-array-ii) |
 ## Data Stream
 |  |
