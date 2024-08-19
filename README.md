@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/dcschenc/myleetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/dcschenc/myleetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/dcschenc/myleetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -1393,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dcschenc/myleetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/dcschenc/myleetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dcschenc/myleetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/dcschenc/myleetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dcschenc/myleetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 ## Binary Search
