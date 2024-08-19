@@ -925,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dcschenc/myleetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/dcschenc/myleetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/dcschenc/myleetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -2098,6 +2099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dcschenc/myleetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Game Theory
 |  |
 | ------- |
