@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3489-the-number-of-ways-to-make-the-sum](https://github.com/dcschenc/myleetcode/tree/master/3489-the-number-of-ways-to-make-the-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -2123,6 +2124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3489-the-number-of-ways-to-make-the-sum](https://github.com/dcschenc/myleetcode/tree/master/3489-the-number-of-ways-to-make-the-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -2387,6 +2389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/dcschenc/myleetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/dcschenc/myleetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 ## Sorting
 |  |
 | ------- |
@@ -3761,6 +3764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
+| [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 ## Design
 |  |
 | ------- |
@@ -3951,6 +3955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/dcschenc/myleetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
