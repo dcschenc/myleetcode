@@ -931,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/dcschenc/myleetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/dcschenc/myleetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3489-the-number-of-ways-to-make-the-sum](https://github.com/dcschenc/myleetcode/tree/master/3489-the-number-of-ways-to-make-the-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
@@ -1892,6 +1893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/dcschenc/myleetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
