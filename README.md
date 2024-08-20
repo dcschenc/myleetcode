@@ -3175,6 +3175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/dcschenc/myleetcode/tree/master/3468-find-the-encrypted-string) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dcschenc/myleetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/dcschenc/myleetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dcschenc/myleetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Depth-First Search
@@ -3955,6 +3956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dcschenc/myleetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3441-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/dcschenc/myleetcode/tree/master/3441-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3463-alternating-groups-i](https://github.com/dcschenc/myleetcode/tree/master/3463-alternating-groups-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dcschenc/myleetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/dcschenc/myleetcode/tree/master/3483-alternating-groups-ii) |
 ## Monotonic Stack
 |  |
@@ -4455,6 +4457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/dcschenc/myleetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3469-maximum-height-of-a-triangle](https://github.com/dcschenc/myleetcode/tree/master/3469-maximum-height-of-a-triangle) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dcschenc/myleetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Backtracking
 |  |
 | ------- |
