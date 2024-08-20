@@ -940,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dcschenc/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dcschenc/myleetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dcschenc/myleetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3545-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/dcschenc/myleetcode/tree/master/3545-minimum-number-of-increasing-subsequence-to-be-removed) |
@@ -3412,6 +3413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dcschenc/myleetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -3515,6 +3517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/dcschenc/myleetcode/tree/master/3189-find-champion-ii) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/dcschenc/myleetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dcschenc/myleetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
