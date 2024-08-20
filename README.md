@@ -939,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dcschenc/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/dcschenc/myleetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3545-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/dcschenc/myleetcode/tree/master/3545-minimum-number-of-increasing-subsequence-to-be-removed) |
 ## Hash Table
@@ -1908,6 +1909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/dcschenc/myleetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dcschenc/myleetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/dcschenc/myleetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
