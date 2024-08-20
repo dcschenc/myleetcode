@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dcschenc/myleetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+| [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 | [3545-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/dcschenc/myleetcode/tree/master/3545-minimum-number-of-increasing-subsequence-to-be-removed) |
 ## Hash Table
 |  |
@@ -1913,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dcschenc/myleetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dcschenc/myleetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dcschenc/myleetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2143,6 +2145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3489-the-number-of-ways-to-make-the-sum](https://github.com/dcschenc/myleetcode/tree/master/3489-the-number-of-ways-to-make-the-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
+| [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 ## Game Theory
 |  |
 | ------- |
@@ -4301,6 +4304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/dcschenc/myleetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/dcschenc/myleetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 ## Prefix Sum
 |  |
 | ------- |
