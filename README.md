@@ -3311,6 +3311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3386-find-edges-in-shortest-paths](https://github.com/dcschenc/myleetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
+| [3486-count-the-number-of-good-nodes](https://github.com/dcschenc/myleetcode/tree/master/3486-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -3636,6 +3637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-maximum-subtree-of-the-same-color](https://github.com/dcschenc/myleetcode/tree/master/3304-maximum-subtree-of-the-same-color) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/dcschenc/myleetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/dcschenc/myleetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
+| [3486-count-the-number-of-good-nodes](https://github.com/dcschenc/myleetcode/tree/master/3486-count-the-number-of-good-nodes) |
 ## Binary Tree
 |  |
 | ------- |
