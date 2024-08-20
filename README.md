@@ -3189,6 +3189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/dcschenc/myleetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dcschenc/myleetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/dcschenc/myleetcode/tree/master/3533-snake-in-matrix) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dcschenc/myleetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -3975,6 +3976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/dcschenc/myleetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/dcschenc/myleetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/dcschenc/myleetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Monotonic Stack
 |  |
 | ------- |
