@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dcschenc/myleetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+| [3533-snake-in-matrix](https://github.com/dcschenc/myleetcode/tree/master/3533-snake-in-matrix) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 | [3545-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/dcschenc/myleetcode/tree/master/3545-minimum-number-of-increasing-subsequence-to-be-removed) |
 ## Hash Table
@@ -1425,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dcschenc/myleetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dcschenc/myleetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3533-snake-in-matrix](https://github.com/dcschenc/myleetcode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -3184,6 +3186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dcschenc/myleetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/dcschenc/myleetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dcschenc/myleetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3533-snake-in-matrix](https://github.com/dcschenc/myleetcode/tree/master/3533-snake-in-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
