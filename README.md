@@ -944,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/dcschenc/myleetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/dcschenc/myleetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3533-snake-in-matrix](https://github.com/dcschenc/myleetcode/tree/master/3533-snake-in-matrix) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
@@ -2149,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3489-the-number-of-ways-to-make-the-sum](https://github.com/dcschenc/myleetcode/tree/master/3489-the-number-of-ways-to-make-the-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/dcschenc/myleetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
 ## Game Theory
 |  |
