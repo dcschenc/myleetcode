@@ -940,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dcschenc/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dcschenc/myleetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3545-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/dcschenc/myleetcode/tree/master/3545-minimum-number-of-increasing-subsequence-to-be-removed) |
 ## Hash Table
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/dcschenc/myleetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dcschenc/myleetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Simulation
 |  |
 | ------- |
@@ -4215,6 +4217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/dcschenc/myleetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/dcschenc/myleetcode/tree/master/3474-better-compression-of-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dcschenc/myleetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Number Theory
 |  |
 | ------- |
