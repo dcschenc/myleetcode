@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dcschenc/myleetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/dcschenc/myleetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/dcschenc/myleetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3533-snake-in-matrix](https://github.com/dcschenc/myleetcode/tree/master/3533-snake-in-matrix) |
 | [3537-number-of-subsequences-with-odd-sum](https://github.com/dcschenc/myleetcode/tree/master/3537-number-of-subsequences-with-odd-sum) |
@@ -3973,6 +3974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dcschenc/myleetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/dcschenc/myleetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dcschenc/myleetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/dcschenc/myleetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
