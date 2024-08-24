@@ -3,16 +3,12 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+        # https://github.com/doocs/leetcode/tree/main/solution/0000-0099/0048.Rotate%20Image
         m, n = len(matrix), len(matrix[0])
         # print(m,n)
         for i in range(m):
-            for j in range(i, n):
-                # print(i, j)
-                # tmp = matrix[i][j]
-                # matrix[i][j] = matrix[j][i]
-                # matrix[j][i] = tmp
+            for j in range(i, n):     
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
-        # print(matrix)
         for i in range(m):
             matrix[i].reverse()
         
