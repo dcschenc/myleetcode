@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dcschenc/myleetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/dcschenc/myleetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/dcschenc/myleetcode/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/dcschenc/myleetcode/tree/master/0068-text-justification) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
@@ -1331,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/dcschenc/myleetcode/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0983-validate-stack-sequences](https://github.com/dcschenc/myleetcode/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/dcschenc/myleetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -2824,6 +2826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dcschenc/myleetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/dcschenc/myleetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/dcschenc/myleetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/dcschenc/myleetcode/tree/master/0068-text-justification) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
