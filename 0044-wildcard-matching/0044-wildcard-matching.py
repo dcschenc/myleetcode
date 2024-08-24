@@ -12,5 +12,5 @@ class Solution:
                 if s[i-1] == p[j-1] or p[j-1] == '?':
                     dp[i][j] = dp[i-1][j-1]
                 elif p[j-1] == '*':
-                    dp[i][j] = dp[i][j-1] | dp[i-1][j]
+                    dp[i][j] = dp[i][j-1] | dp[i-1][j]  # dp[i][j-1]: don't match any; dp[i-1][j]: match mutliple
         return dp[m][n]
