@@ -2817,6 +2817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dcschenc/myleetcode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/dcschenc/myleetcode/tree/master/0058-length-of-last-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
