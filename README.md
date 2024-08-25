@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/dcschenc/myleetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/dcschenc/myleetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
@@ -2721,6 +2722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dcschenc/myleetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/dcschenc/myleetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [0550-shortest-path-to-get-food](https://github.com/dcschenc/myleetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0919-projection-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -2833,6 +2835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/dcschenc/myleetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/dcschenc/myleetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/dcschenc/myleetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -4510,6 +4513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
