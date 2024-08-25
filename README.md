@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dcschenc/myleetcode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/dcschenc/myleetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/dcschenc/myleetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
@@ -4508,6 +4509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -4551,6 +4553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/dcschenc/myleetcode/tree/master/1071-binary-prefix-divisible-by-5) |
