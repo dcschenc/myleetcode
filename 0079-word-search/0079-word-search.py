@@ -1,5 +1,6 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
+        # https://github.com/doocs/leetcode/tree/main/solution/0000-0099/0079.Word%20Search
         def dfs(i: int, j: int, k: int) -> bool:
             if k == len(word) - 1:
                 return board[i][j] == word[k]
