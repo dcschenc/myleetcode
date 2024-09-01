@@ -1,8 +1,8 @@
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:      
-        s = set(nums)
-        return [x for x in range(1, len(nums) + 1) if x not in s]
-        
+        # s = set(nums)
+        # return [x for x in range(1, len(nums) + 1) if x not in s]
+
         n = len(nums)    
         # Mark the presence of numbers by negating the corresponding index.
         for num in nums:
