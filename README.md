@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
@@ -2838,6 +2839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/dcschenc/myleetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/dcschenc/myleetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
+| [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -4516,6 +4518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
+| [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -4650,6 +4653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [1075-index-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1075-index-pairs-of-a-string) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
 | [1125-design-file-system](https://github.com/dcschenc/myleetcode/tree/master/1125-design-file-system) |
