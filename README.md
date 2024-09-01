@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/dcschenc/myleetcode/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/dcschenc/myleetcode/tree/master/0473-matchsticks-to-square) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
@@ -1950,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dcschenc/myleetcode/tree/master/0063-unique-paths-ii) |
 | [0471-encode-string-with-shortest-length](https://github.com/dcschenc/myleetcode/tree/master/0471-encode-string-with-shortest-length) |
 | [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/dcschenc/myleetcode/tree/master/0473-matchsticks-to-square) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
@@ -4535,6 +4537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
+| [0473-matchsticks-to-square](https://github.com/dcschenc/myleetcode/tree/master/0473-matchsticks-to-square) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/dcschenc/myleetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/dcschenc/myleetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -4580,6 +4583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dcschenc/myleetcode/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/dcschenc/myleetcode/tree/master/0473-matchsticks-to-square) |
 | [1022-unique-paths-iii](https://github.com/dcschenc/myleetcode/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/dcschenc/myleetcode/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -4650,6 +4654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/dcschenc/myleetcode/tree/master/0473-matchsticks-to-square) |
 | [1038-number-of-squareful-arrays](https://github.com/dcschenc/myleetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/dcschenc/myleetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dcschenc/myleetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
