@@ -4,8 +4,7 @@ class Solution:
         def compute_encoded_substring(start: int, end: int) -> str:
             substring = s[start:end + 1]
             # If the substring is too short, encoding doesn't make sense, return as is
-            if len(substring) < 5:
-                return substring
+            if len(substring) < 5: return substring
           
             # Try to find a repeated pattern in the substring
             duplicate_index = (substring + substring).find(substring, 1)
@@ -26,10 +25,8 @@ class Solution:
                 # Compute encoded substring for current i, j
                 dp[i][j] = compute_encoded_substring(i, j)              
                 if j - i + 1 > 4:
-                    # Try to break the substring into two parts and see if this gives
-                    # a shorter encoding by checking all possible split positions
+                    # Try to break the substring into two parts and see if whether it's shorter
                     for k in range(i, j):
-                        # Combine encoded substrings for both parts
                         trial_encoded = dp[i][k] + dp[k + 1][j]
                         # If this combination gives us a shorter string, update the table
                         if len(dp[i][j]) > len(trial_encoded):
