@@ -10,5 +10,4 @@ class Solution:
             nums[index] = -abs(nums[index])
 
         # Find the indices of positive values in the array.
-        disappeared = [i + 1 for i in range(n) if nums[i] > 0]        
-        return disappeared
+        return [i + 1 for i in range(n) if nums[i] > 0]        
