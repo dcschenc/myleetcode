@@ -1,80 +1,50 @@
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.words = []
+
 class Trie:
     def __init__(self):
-        self.children = [None] * 26
-        self.v = []
-
-    def insert(self, w, i):
-        node = self
-        for c in w:
-            idx = ord(c) - ord('a')
-            if node.children[idx] is None:
-                node.children[idx] = Trie()
-            node = node.children[idx]
-            node.v.append(i)
-
-    def search(self, w):
-        node = self
-        for c in w:
-            idx = ord(c) - ord('a')
-            if node.children[idx] is None:
+        self.root = TrieNode()
+    
+    def insert(self, word):
+        node = self.root
+        for char in word:
+            if char not in node.children:
+                node.children[char] = TrieNode()
+            node = node.children[char]
+            node.words.append(word)
+    
+    def find_words_with_prefix(self, prefix):
+        node = self.root
+        for char in prefix:
+            if char not in node.children:
                 return []
-            node = node.children[idx]
-        return node.v
+            node = node.children[char]
+        return node.words
 
 
 class Solution:
     def wordSquares(self, words: List[str]) -> List[List[str]]:
-        def dfs(t):
-            if len(t) == len(words[0]):
-                ans.append(t[:])
+        def backtrack(step, word_square):
+            if step == n:
+                results.append(word_square[:])
                 return
-            idx = len(t)
-            pref = [v[idx] for v in t]
-            indexes = trie.search(''.join(pref))
-            for i in indexes:
-                t.append(words[i])
-                dfs(t)
-                t.pop()
-
-        trie = Trie()
-        ans = []
-        for i, w in enumerate(words):
-            trie.insert(w, i)
-        for w in words:
-            dfs([w])
-        return ans
-
-        # def is_word_square(path):
-        #     nonlocal n
-        #     for i in range(n):
-        #         row_w = path[i]
-        #         col_w = ''
-        #         for j in range(n):
-        #             col_w += path[j][i]
-        #         if row_w != col_w:
-        #             return False
-        #     return True
-
-        def backtrack(idx, cnt, path):
-            nonlocal n
-            if cnt == n:
-                # if is_word_square(path):
-                res.append(path[:])
-                return
-            if cnt >= n: 
-                return
-
-            prefix = ''
-            for k in range(cnt):
-                prefix += path[k][cnt]
-
-            for i in range(m):
-                # if cnt > 0:
-                #     stop = False
-                    # print(prefix, words[i][:cnt])
-                if prefix == words[i][:cnt]: 
-                    backtrack(i, cnt + 1, path + [words[i]])
+            
+            prefix = ''.join([word_square[i][step] for i in range(step)])
+            for candidate in trie.find_words_with_prefix(prefix):
+                word_square.append(candidate)
+                backtrack(step + 1, word_square)
+                word_square.pop()
         
-        m, n, res = len(words), len(words[0]), []
-        backtrack(0, 0, [])
-        return res
+        trie = Trie()
+        for word in words:
+            trie.insert(word)
+        
+        n = len(words[0])
+        results = []
+        for word in words:
+            word_square = [word]
+            backtrack(1, word_square)
+        
+        return results
