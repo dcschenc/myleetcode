@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/dcschenc/myleetcode/tree/master/0456-132-pattern) |
+| [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
@@ -1948,6 +1949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dcschenc/myleetcode/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/dcschenc/myleetcode/tree/master/0063-unique-paths-ii) |
 | [0471-encode-string-with-shortest-length](https://github.com/dcschenc/myleetcode/tree/master/0471-encode-string-with-shortest-length) |
+| [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
@@ -2848,6 +2850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [0471-encode-string-with-shortest-length](https://github.com/dcschenc/myleetcode/tree/master/0471-encode-string-with-shortest-length) |
+| [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -3233,6 +3236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
 | [0922-possible-bipartition](https://github.com/dcschenc/myleetcode/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/dcschenc/myleetcode/tree/master/0933-increasing-order-search-tree) |
 | [0960-minimize-malware-spread](https://github.com/dcschenc/myleetcode/tree/master/0960-minimize-malware-spread) |
@@ -4666,6 +4670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
+| [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
 | [1075-index-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1075-index-pairs-of-a-string) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
 | [1125-design-file-system](https://github.com/dcschenc/myleetcode/tree/master/1125-design-file-system) |
