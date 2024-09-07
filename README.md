@@ -1965,6 +1965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/dcschenc/myleetcode/tree/master/0473-matchsticks-to-square) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
+| [0815-champagne-tower](https://github.com/dcschenc/myleetcode/tree/master/0815-champagne-tower) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/dcschenc/myleetcode/tree/master/0943-sum-of-subarray-minimums) |
