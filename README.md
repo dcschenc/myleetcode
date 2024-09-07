@@ -1716,6 +1716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dcschenc/myleetcode/tree/master/0048-rotate-image) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/dcschenc/myleetcode/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
 | [0919-projection-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -1967,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0815-champagne-tower](https://github.com/dcschenc/myleetcode/tree/master/0815-champagne-tower) |
+| [0826-soup-servings](https://github.com/dcschenc/myleetcode/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/dcschenc/myleetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/dcschenc/myleetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -4982,6 +4984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Probability and Statistics
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/dcschenc/myleetcode/tree/master/0826-soup-servings) |
 | [1166-toss-strange-coins](https://github.com/dcschenc/myleetcode/tree/master/1166-toss-strange-coins) |
 | [1183-statistics-from-a-large-sample](https://github.com/dcschenc/myleetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1362-airplane-seat-assignment-probability](https://github.com/dcschenc/myleetcode/tree/master/1362-airplane-seat-assignment-probability) |
