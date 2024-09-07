@@ -1,8 +1,7 @@
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:
         # Count the occurrences of each answer
-        answer_counter = Counter(answers)
-      
+        answer_counter = Counter(answers)      
         # Initialize total number of rabbits reported
         total_rabbits = 0
       
@@ -24,13 +23,3 @@ class Solution:
       
         # Return the total number of rabbits reported
         return total_rabbits
-
-
-        counter = Counter(answers)
-        total = 0
-        for k, v in counter.items():
-            if k == 0:
-                total += v
-            else:
-                total += (k + 1)
-        return total
