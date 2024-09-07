@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-shortest-path-to-get-food](https://github.com/dcschenc/myleetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dcschenc/myleetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0810-valid-tic-tac-toe-state](https://github.com/dcschenc/myleetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
@@ -2751,6 +2752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dcschenc/myleetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/dcschenc/myleetcode/tree/master/0079-word-search) |
 | [0550-shortest-path-to-get-food](https://github.com/dcschenc/myleetcode/tree/master/0550-shortest-path-to-get-food) |
+| [0810-valid-tic-tac-toe-state](https://github.com/dcschenc/myleetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0919-projection-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/dcschenc/myleetcode/tree/master/0945-snakes-and-ladders) |
