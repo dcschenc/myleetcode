@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0512-maximum-alternating-subarray-sum](https://github.com/dcschenc/myleetcode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/dcschenc/myleetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0550-shortest-path-to-get-food](https://github.com/dcschenc/myleetcode/tree/master/0550-shortest-path-to-get-food) |
+| [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/dcschenc/myleetcode/tree/master/0460-lfu-cache) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/dcschenc/myleetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
+| [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/dcschenc/myleetcode/tree/master/0924-fair-candy-swap) |
@@ -1708,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dcschenc/myleetcode/tree/master/0048-rotate-image) |
 | [0489-kth-smallest-instructions](https://github.com/dcschenc/myleetcode/tree/master/0489-kth-smallest-instructions) |
+| [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
 | [0919-projection-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/dcschenc/myleetcode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -2208,6 +2211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dcschenc/myleetcode/tree/master/0044-wildcard-matching) |
+| [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/dcschenc/myleetcode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dcschenc/myleetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
