@@ -1,6 +1,5 @@
 class Solution:
     def numberOfLines(self, widths: List[int], s: str) -> List[int]:
-        res = [0, 0]
         cur = 0
         cnt = 1
         for c in s:
