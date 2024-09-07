@@ -1615,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dcschenc/myleetcode/tree/master/0075-sort-colors) |
 | [0475-heaters](https://github.com/dcschenc/myleetcode/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dcschenc/myleetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/dcschenc/myleetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0908-middle-of-the-linked-list](https://github.com/dcschenc/myleetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/dcschenc/myleetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dcschenc/myleetcode/tree/master/0941-sort-array-by-parity) |
@@ -2857,6 +2858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [0471-encode-string-with-shortest-length](https://github.com/dcschenc/myleetcode/tree/master/0471-encode-string-with-shortest-length) |
 | [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/dcschenc/myleetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
