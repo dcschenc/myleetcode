@@ -1,5 +1,25 @@
 class Solution:
     def validTicTacToe(self, board: List[str]) -> bool:
+        # https://github.com/doocs/leetcode/tree/main/solution/0700-0799/0794.Valid%20Tic-Tac-Toe%20State
+        def win(x):
+            for i in range(3):
+                if all(board[i][j] == x for j in range(3)):
+                    return True
+                if all(board[j][i] == x for j in range(3)):
+                    return True
+            if all(board[i][i] == x for i in range(3)):
+                return True
+            return all(board[i][2 - i] == x for i in range(3))
+
+        x = sum(board[i][j] == 'X' for i in range(3) for j in range(3))
+        o = sum(board[i][j] == 'O' for i in range(3) for j in range(3))
+        if x != o and x - 1 != o:
+            return False
+        if win('X') and x - 1 != o:
+            return False
+        return not (win('O') and x != o)
+
+        
         def count_symbol(symbol):
             count = 0
             for row in board:
@@ -36,57 +56,3 @@ class Solution:
             return False
         return True
             
-        # m, n = len(board), len(board)
-        # cnt_o, cnt_x = 0, 0        
-        # for i in range(m):
-        #     for j in range(n):
-        #         if board[i][j] == 'O':
-        #             cnt_o += 1
-        #         elif board[i][j] == 'X':
-        #             cnt_x += 1
-        # if cnt_x < cnt_o or abs(cnt_x-cnt_o) > 1:
-        #     return False
-        # cnt_win = 0
-        # x_win, o_win = False, False
-        # for i in range(m):
-        #     if board[i] == 'XXX':
-        #         x_win = True
-        #     if board[i] == 'OOO':
-        #         o_win = True
-        #         cnt_win += 1
-        
-        # for j in range(n):
-        #     the_same = True
-        #     for i in range(1, m):
-        #         if board[i][j] != board[i-1][j]:
-        #             the_same = False
-        #     if the_same and board[0][j] != ' ':
-        #         cnt_win += 1
-        #         if board[0][j] == 'X':
-        #             x_win = True
-        #         if board[0][j] == 'O':
-        #             o_win = True
-        # if board[0][0] == board[1][1] == board[2][2] and board[0][0] != ' ':
-        #     cnt_win += 1
-        #     if board[0][0] == 'X':
-        #         x_win = True
-        #     if board[0][0] == 'O':
-        #         o_win = True
-
-        # if board[0][2] == board[1][1] == board[2][0] and board[0][2] != ' ':
-        #     cnt_win += 1
-        #     if board[0][2] == 'X':
-        #         x_win = True
-        #     if board[0][2] == 'O':
-        #         o_win = True
-        # # print(cnt_win)
-
-        # if x_win and cnt_x == cnt_o:
-        #     return False
-        # if o_win and cnt_x > cnt_o:
-        #     return False
-
-        # if cnt_win > 1 and cnt_o + cnt_x != 9:
-        #     return False
-        
-        # return True
