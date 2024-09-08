@@ -9,11 +9,11 @@ class Solution:
         def prune(node):
             if not node:
                 return None
-            if not node.left and not node.right:
-                if node.val == 0:
-                    return None
-                else:
-                    return node
+            # if not node.left and not node.right:
+            #     if node.val == 0:
+            #         return None
+            #     else:
+            #         return node
             if node.left:
                 node.left = prune(node.left)
             if node.right:
