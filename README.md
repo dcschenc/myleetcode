@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-largest-sum-of-averages](https://github.com/dcschenc/myleetcode/tree/master/0831-largest-sum-of-averages) |
 | [0833-bus-routes](https://github.com/dcschenc/myleetcode/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/dcschenc/myleetcode/tree/master/0837-most-common-word) |
+| [0839-short-encoding-of-words](https://github.com/dcschenc/myleetcode/tree/master/0839-short-encoding-of-words) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0833-bus-routes](https://github.com/dcschenc/myleetcode/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/dcschenc/myleetcode/tree/master/0837-most-common-word) |
+| [0839-short-encoding-of-words](https://github.com/dcschenc/myleetcode/tree/master/0839-short-encoding-of-words) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/dcschenc/myleetcode/tree/master/0924-fair-candy-swap) |
@@ -2884,6 +2886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/dcschenc/myleetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/dcschenc/myleetcode/tree/master/0837-most-common-word) |
+| [0839-short-encoding-of-words](https://github.com/dcschenc/myleetcode/tree/master/0839-short-encoding-of-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -4727,6 +4730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dcschenc/myleetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0425-word-squares](https://github.com/dcschenc/myleetcode/tree/master/0425-word-squares) |
 | [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
+| [0839-short-encoding-of-words](https://github.com/dcschenc/myleetcode/tree/master/0839-short-encoding-of-words) |
 | [1075-index-pairs-of-a-string](https://github.com/dcschenc/myleetcode/tree/master/1075-index-pairs-of-a-string) |
 | [1080-camelcase-matching](https://github.com/dcschenc/myleetcode/tree/master/1080-camelcase-matching) |
 | [1125-design-file-system](https://github.com/dcschenc/myleetcode/tree/master/1125-design-file-system) |
