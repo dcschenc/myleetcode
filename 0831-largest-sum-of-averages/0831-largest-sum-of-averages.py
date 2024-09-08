@@ -2,7 +2,8 @@ class Solution:
     def largestSumOfAverages(self, nums: List[int], k: int) -> float:
         @functools.lru_cache(None)
         def dfs(i, k):
-            if k == 1: return sum(nums[i:])/len(nums[i:])                 
+            if k == 1: 
+                return sum(nums[i:])/len(nums[i:])                 
             maxAvg = 0
             # Try paritioning at each index and calculate average
             for j in range(i+1, len(nums)): 
@@ -14,24 +15,24 @@ class Solution:
 
         return dfs(0, k)
 
-        n = len(nums)
-        prefix_sum = [0] * (n + 1)
+        # n = len(nums)
+        # prefix_sum = [0] * (n + 1)
 
-        for i in range(n):
-            prefix_sum[i + 1] = prefix_sum[i] + nums[i]
+        # for i in range(n):
+        #     prefix_sum[i + 1] = prefix_sum[i] + nums[i]
 
-        dp = [0] * n
+        # dp = [0] * n
 
-        for i in range(n):
-            dp[i] = prefix_sum[i + 1] / (i + 1)
+        # for i in range(n):
+        #     dp[i] = prefix_sum[i + 1] / (i + 1)
 
-        for group in range(2, k + 1):
-            new_dp = [0] * n
+        # for group in range(2, k + 1):
+        #     new_dp = [0] * n
 
-            for i in range(n):
-                for j in range(i):
-                    new_dp[i] = max(new_dp[i], dp[j] + (prefix_sum[i + 1] - prefix_sum[j + 1]) / (i - j))
+        #     for i in range(n):
+        #         for j in range(i):
+        #             new_dp[i] = max(new_dp[i], dp[j] + (prefix_sum[i + 1] - prefix_sum[j + 1]) / (i - j))
 
-            dp = new_dp
+        #     dp = new_dp
 
-        return dp[-1]
+        # return dp[-1]
