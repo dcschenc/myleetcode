@@ -2887,6 +2887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/dcschenc/myleetcode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/dcschenc/myleetcode/tree/master/0839-short-encoding-of-words) |
+| [0851-goat-latin](https://github.com/dcschenc/myleetcode/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
