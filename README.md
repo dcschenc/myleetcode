@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/dcschenc/myleetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0810-valid-tic-tac-toe-state](https://github.com/dcschenc/myleetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0824-number-of-lines-to-write-string](https://github.com/dcschenc/myleetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/dcschenc/myleetcode/tree/master/0460-lfu-cache) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/dcschenc/myleetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
+| [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/dcschenc/myleetcode/tree/master/0924-fair-candy-swap) |
@@ -2874,6 +2876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/dcschenc/myleetcode/tree/master/0472-concatenated-words) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/dcschenc/myleetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/dcschenc/myleetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/dcschenc/myleetcode/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/dcschenc/myleetcode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -4209,6 +4212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/dcschenc/myleetcode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/dcschenc/myleetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0959-3sum-with-multiplicity](https://github.com/dcschenc/myleetcode/tree/master/0959-3sum-with-multiplicity) |
