@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/dcschenc/myleetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
 | [0831-largest-sum-of-averages](https://github.com/dcschenc/myleetcode/tree/master/0831-largest-sum-of-averages) |
+| [0833-bus-routes](https://github.com/dcschenc/myleetcode/tree/master/0833-bus-routes) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/dcschenc/myleetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/dcschenc/myleetcode/tree/master/0909-stone-game) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/dcschenc/myleetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0797-rabbits-in-forest](https://github.com/dcschenc/myleetcode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/dcschenc/myleetcode/tree/master/0829-subdomain-visit-count) |
+| [0833-bus-routes](https://github.com/dcschenc/myleetcode/tree/master/0833-bus-routes) |
 | [0906-walking-robot-simulation](https://github.com/dcschenc/myleetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dcschenc/myleetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/dcschenc/myleetcode/tree/master/0924-fair-candy-swap) |
@@ -3396,6 +3398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-shortest-path-to-get-food](https://github.com/dcschenc/myleetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/dcschenc/myleetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/dcschenc/myleetcode/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/dcschenc/myleetcode/tree/master/0833-bus-routes) |
 | [0922-possible-bipartition](https://github.com/dcschenc/myleetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/dcschenc/myleetcode/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/dcschenc/myleetcode/tree/master/0955-complete-binary-tree-inserter) |
