@@ -1,11 +1,10 @@
 class Solution:
     def numBusesToDestination(self, routes: List[List[int]], source: int, target: int) -> int:
         # https://github.com/doocs/leetcode/tree/main/solution/0800-0899/0815.Bus%20Routes
+        # https://github.com/doocs/leetcode/tree/main/solution/0800-0899/0815.Bus%20Routes
 
-        # If the source and target are the same, no bus needs to be taken.
         if source == target:
             return 0
-
         # Convert each route to a set for faster checks later on.
         sets_of_routes = [set(route) for route in routes]      
         # Create a dictionary where each stop maps to a list of buses (routes) that visit that stop.
@@ -27,13 +26,10 @@ class Solution:
         # Start BFS from the buses that can be taken from the source stop.
         queue = deque(stop_dict[source])
         ans = 1
-        # visited = set(stop_dict[source])
         visited = set()      
         while queue:
-            # Process all nodes on the current level.
             for _ in range(len(queue)):
-                cur = queue.popleft()
-              
+                cur = queue.popleft()              
                 # If the target stop is in the current bus's route, return the number of buses needed.
                 if target in sets_of_routes[cur]:
                     return ans
@@ -42,13 +38,8 @@ class Solution:
                 visited.add(cur)              
                 # Check unvisited buses that can be reached from the current bus.
                 for adjacent_bus in graph[cur]:
-                    # if adjacent_bus not in visited:
-                    #     visited.add(adjacent_bus)
                     if adjacent_bus not in visited:
-                        queue.append(adjacent_bus)
-          
-            # Increment the number of buses needed as we are now moving to the next level in BFS.
+                        queue.append(adjacent_bus)          
             ans += 1
       
-        # If no path is found, return -1 to signify that destination cannot be reached.
         return -1
