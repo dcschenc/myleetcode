@@ -1,6 +1,17 @@
 class Solution:
     def largestValsFromLabels(self, values: List[int], labels: List[int], numWanted: int, useLimit: int) -> int:        
         # https://github.com/doocs/leetcode/tree/main/solution/1000-1099/1090.Largest%20Values%20From%20Labels
+        ans = num = 0
+        cnt = Counter()
+        for v, l in sorted(zip(values, labels), reverse=True):
+            if cnt[l] < useLimit:
+                cnt[l] += 1
+                num += 1
+                ans += v
+                if num == numWanted:
+                    break
+        return ans
+        
         pairs = []
         for i in range(len(values)):
             pairs.append((values[i], labels[i]))
