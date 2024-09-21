@@ -5,7 +5,7 @@ class Solution:
         
         # Calculate the final length of the modified array.
         n = len(arr)
-        final_length = n + zeros
+        # final_length = n + zeros
         
         # Start from the end of the original array and the final array.
         for i in range(n - 1, -1, -1):
