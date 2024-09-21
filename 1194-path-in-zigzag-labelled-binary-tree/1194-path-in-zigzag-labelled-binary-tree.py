@@ -1,7 +1,6 @@
 class Solution:
     def pathInZigZagTree(self, label: int) -> List[int]:
-        # https://github.com/doocs/leetcode/tree/main/solution/1100-1199/1104.Path%20In%20Zigzag%20Labelled%20Binary%20Tree
-        
+        # https://github.com/doocs/leetcode/tree/main/solution/1100-1199/1104.Path%20In%20Zigzag%20Labelled%20Binary%20Tree        
         level_start_value = level_index = 1
 
         # Determine the level of the tree where the label is. The levels in the tree
