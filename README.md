@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/dcschenc/myleetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
+| [1219-longest-well-performing-interval](https://github.com/dcschenc/myleetcode/tree/master/1219-longest-well-performing-interval) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/dcschenc/myleetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/dcschenc/myleetcode/tree/master/1222-remove-covered-intervals) |
 | [1223-graph-connectivity-with-threshold](https://github.com/dcschenc/myleetcode/tree/master/1223-graph-connectivity-with-threshold) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/dcschenc/myleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/dcschenc/myleetcode/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dcschenc/myleetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1219-longest-well-performing-interval](https://github.com/dcschenc/myleetcode/tree/master/1219-longest-well-performing-interval) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dcschenc/myleetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1238-alphabet-board-path](https://github.com/dcschenc/myleetcode/tree/master/1238-alphabet-board-path) |
 | [1249-snapshot-array](https://github.com/dcschenc/myleetcode/tree/master/1249-snapshot-array) |
@@ -3859,6 +3861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/dcschenc/myleetcode/tree/master/1150-two-sum-bsts) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dcschenc/myleetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1219-longest-well-performing-interval](https://github.com/dcschenc/myleetcode/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dcschenc/myleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/dcschenc/myleetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -4094,6 +4097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-number-of-valid-subarrays](https://github.com/dcschenc/myleetcode/tree/master/1061-number-of-valid-subarrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dcschenc/myleetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/dcschenc/myleetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1219-longest-well-performing-interval](https://github.com/dcschenc/myleetcode/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/dcschenc/myleetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/dcschenc/myleetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dcschenc/myleetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -4438,6 +4442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dcschenc/myleetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/dcschenc/myleetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/dcschenc/myleetcode/tree/master/1206-corporate-flight-bookings) |
+| [1219-longest-well-performing-interval](https://github.com/dcschenc/myleetcode/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/dcschenc/myleetcode/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/dcschenc/myleetcode/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/dcschenc/myleetcode/tree/master/1281-can-make-palindrome-from-substring) |
