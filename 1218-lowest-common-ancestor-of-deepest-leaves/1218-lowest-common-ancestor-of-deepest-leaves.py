@@ -16,7 +16,7 @@ class Solution:
                 return l, d1 + 1
             if d1 < d2:
                 return r, d2 + 1
-            return node, d1 + 1
+            return node, d1 + 1  ## d1 == d2
 
         return dfs(root)[0]
 
@@ -42,5 +42,5 @@ class Solution:
         # depth = {None: -1}
         # dfs(root)
 
-        max_depth = max(depth.values())
-        return answer(root)
+        # max_depth = max(depth.values())
+        # return answer(root)
