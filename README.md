@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/dcschenc/myleetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1115-valid-boomerang](https://github.com/dcschenc/myleetcode/tree/master/1115-valid-boomerang) |
 | [1117-as-far-from-land-as-possible](https://github.com/dcschenc/myleetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1118-divide-array-into-increasing-sequences](https://github.com/dcschenc/myleetcode/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1121-partition-array-for-maximum-sum](https://github.com/dcschenc/myleetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/dcschenc/myleetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/dcschenc/myleetcode/tree/master/1127-last-stone-weight) |
@@ -4239,6 +4240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dcschenc/myleetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dcschenc/myleetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/dcschenc/myleetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1118-divide-array-into-increasing-sequences](https://github.com/dcschenc/myleetcode/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1137-height-checker](https://github.com/dcschenc/myleetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/dcschenc/myleetcode/tree/master/1140-distant-barcodes) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/dcschenc/myleetcode/tree/master/1143-find-smallest-common-element-in-all-rows) |
