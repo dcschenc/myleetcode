@@ -19,24 +19,3 @@ class Solution:
         ans = 0
         dfs(root, -1000000)
         return ans
-
-        def dfs(node, max_val):
-            if not node:
-                return 0
-            cnt = 0
-            if node.val >= max_val:
-                # res.append(node)
-                cnt = 1
-                max_val = node.val
-            # if node.left:
-            cnt_left = dfs(node.left, max_val)
-            # if node.right:
-            cnt_right = dfs(node.right, max_val)
-            return cnt_left + cnt_right + cnt
-            # return cnt
-        
-        node = root
-        # res = []
-        cnt = dfs(node, -float('inf'))
-        return cnt
-        # return len(res)
