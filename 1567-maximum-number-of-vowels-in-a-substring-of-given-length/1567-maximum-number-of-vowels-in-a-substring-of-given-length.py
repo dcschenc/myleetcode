@@ -9,17 +9,17 @@ class Solution:
         return ans
 
 
-        max_n, last_n = 0, 0
-        n = len(s)
-        for i in range(k):
-            if s[i] in ['a', 'e', 'i', 'o', 'u']:
-                max_n += 1
-        last_n = max_n
-        for i in range(k, n):
-            if s[i-k] in ['a', 'e', 'i', 'o', 'u']:
-                last_n -= 1
-            if s[i] in ['a', 'e', 'i', 'o', 'u']:
-                last_n += 1
-            if last_n > max_n:
-                max_n = last_n
-        return max_n
+        # max_n, last_n = 0, 0
+        # n = len(s)
+        # for i in range(k):
+        #     if s[i] in ['a', 'e', 'i', 'o', 'u']:
+        #         max_n += 1
+        # last_n = max_n
+        # for i in range(k, n):
+        #     if s[i-k] in ['a', 'e', 'i', 'o', 'u']:
+        #         last_n -= 1
+        #     if s[i] in ['a', 'e', 'i', 'o', 'u']:
+        #         last_n += 1
+        #     if last_n > max_n:
+        #         max_n = last_n
+        # return max_n
