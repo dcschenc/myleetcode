@@ -1,7 +1,7 @@
 from sortedcontainers import SortedList
 class Solution:
     def avoidFlood(self, rains: List[int]) -> List[int]:
-        # https://github.com/doocs/leetcode/tree/main/solution/1400-1499/1488.Avoid%20Flood%20in%20The%20City
+        # https://github.com/doocs/leetcode/tree/main/solution/1400-1499/1488.Avoid%20Flood%20in%20The%20City       
         lake_map = {}
         dry_days = []
         result = [-1] * len(rains)
