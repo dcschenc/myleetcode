@@ -11,19 +11,3 @@ class Solution:
             ans = (ans + 2 ** (j - i)) % mod
         return ans
 
-        # hm = defaultdict(int)
-        # ans = 0
-        # for i, num in enumerate(nums):
-        #     if 2 * num <= target:
-        #         hm[(num, num)] += 1
-        #         ans += 1
-        #     keys = list(hm.keys())
-        #     for mi, mx in keys:
-        #         if mx == num:
-        #             hm[(mi, mx)] += 1
-        #             ans += hm[(mi, mx)]
-        #         elif mi + num <= target:                    
-        #             hm[(mi, num)] = hm[(mi, mx)]
-        #             ans += hm[(mi, num)] 
-        # return ans % mod
-
