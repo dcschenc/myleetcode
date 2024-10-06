@@ -1,6 +1,7 @@
 class Solution:
     def minFlips(self, s: str) -> int:
         # https://algo.monster/liteproblems/1888
+        # https://github.com/doocs/leetcode/tree/main/solution/1800-1899/1888.Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating
         
         # Determine the length of the input string "s"
         n = len(s)
