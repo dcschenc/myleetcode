@@ -1,20 +1,21 @@
 class Solution:
     def numberOfArrays(self, differences: List[int], lower: int, upper: int) -> int:
-        min_val = max_val = 0
-        current_sum = 0
+        # Initialize the current value as 0
+        curr = 0
+        min_val, max_val = 0, 0
         
+        # Calculate min_val and max_val after applying all differences
         for diff in differences:
-            current_sum += diff
-            min_val = min(min_val, current_sum)
-            max_val = max(max_val, current_sum)
+            curr += diff
+            min_val = min(min_val, curr)
+            max_val = max(max_val, curr)
         
-        valid_start_range_lower = lower - min_val
-        valid_start_range_upper = upper - max_val
+        # Calculate the possible range for nums[0]
+        min_start = lower - min_val
+        max_start = upper - max_val
         
-        if valid_start_range_lower > valid_start_range_upper:
-            return 0
-        
-        return valid_start_range_upper - valid_start_range_lower + 1
+        # Count the number of valid starting values
+        return max(0, max_start - min_start + 1)
 
         # Initialize the variables: current_sum to track the running sum,
         # min_value to keep the minimum value encountered, and max_value
