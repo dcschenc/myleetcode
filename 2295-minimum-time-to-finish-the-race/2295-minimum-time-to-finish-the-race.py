@@ -47,10 +47,11 @@ class Solution:
                 cost[i] = min(cost[i], s)
                 t *= r
                 i += 1
-        f = [inf] * (numLaps + 1)
-        f[0] = -changeTime
+
+        dp = [inf] * (numLaps + 1)
+        dp[0] = -changeTime
         for i in range(1, numLaps + 1):
             for j in range(1, min(18, i + 1)):
-                f[i] = min(f[i], f[i - j] + cost[j])
-            f[i] += changeTime
-        return f[numLaps]
+                dp[i] = min(dp[i], dp[i - j] + cost[j])
+            dp[i] += changeTime
+        return dp[numLaps]
