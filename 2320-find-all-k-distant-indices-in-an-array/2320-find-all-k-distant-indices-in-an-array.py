@@ -7,6 +7,20 @@ class Solution:
         #         ans.append(i)
         # return ans
 
+        result = set()
+        
+        # Step 1: Find all indices where nums[j] == key
+        key_indices = [j for j in range(len(nums)) if nums[j] == key]
+        
+        # Step 2: For each key index, add all indices within distance k to the result set
+        for j in key_indices:
+            # Add indices from max(0, j - k) to min(len(nums) - 1, j + k)
+            for i in range(max(0, j - k), min(len(nums), j + k + 1)):
+                result.add(i)
+        
+        # Step 3: Return sorted list of unique indices
+        return sorted(result)
+        
         n = len(nums)
         target = [i for i, num in enumerate(nums) if num == key]        
         ans = []
