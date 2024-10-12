@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/dcschenc/myleetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/dcschenc/myleetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/dcschenc/myleetcode/tree/master/2295-minimum-time-to-finish-the-race) |
+| [2297-amount-of-new-area-painted-each-day](https://github.com/dcschenc/myleetcode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/dcschenc/myleetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dcschenc/myleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dcschenc/myleetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -3989,6 +3990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-finding-mk-average](https://github.com/dcschenc/myleetcode/tree/master/1953-finding-mk-average) |
 | [2075-brightest-position-on-street](https://github.com/dcschenc/myleetcode/tree/master/2075-brightest-position-on-street) |
 | [2161-stock-price-fluctuation](https://github.com/dcschenc/myleetcode/tree/master/2161-stock-price-fluctuation) |
+| [2297-amount-of-new-area-painted-each-day](https://github.com/dcschenc/myleetcode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/dcschenc/myleetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/dcschenc/myleetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/dcschenc/myleetcode/tree/master/2434-design-a-number-container-system) |
@@ -5099,6 +5101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0510-count-subarrays-with-more-ones-than-zeros](https://github.com/dcschenc/myleetcode/tree/master/0510-count-subarrays-with-more-ones-than-zeros) |
 | [1294-range-frequency-queries](https://github.com/dcschenc/myleetcode/tree/master/1294-range-frequency-queries) |
+| [2297-amount-of-new-area-painted-each-day](https://github.com/dcschenc/myleetcode/tree/master/2297-amount-of-new-area-painted-each-day) |
 | [2512-longest-uploaded-prefix](https://github.com/dcschenc/myleetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2765-make-array-empty](https://github.com/dcschenc/myleetcode/tree/master/2765-make-array-empty) |
 | [3187-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/dcschenc/myleetcode/tree/master/3187-maximum-profitable-triplets-with-increasing-prices-i) |
