@@ -1,5 +1,7 @@
 class Solution:
     def kthPalindrome(self, queries: List[int], int_length: int) -> List[int]:
+        # https://algo.monster/liteproblems/2217
+        
         # Calculate the number of digits in the first half of the palindrome
         half_length = (int_length + 1) >> 1
       
