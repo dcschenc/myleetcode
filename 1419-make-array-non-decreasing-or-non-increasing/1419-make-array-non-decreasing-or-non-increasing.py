@@ -1,7 +1,8 @@
 class Solution:
     def convertArray(self, nums: List[int]) -> int:
-        # https://github.com/doocs/leetcode/tree/main/solution/2200-2299/2263.Make%20Array%20Non-decreasing%20or%20Non-increasing
         def solve(nums):
+        # https://algo.monster/liteproblems/2263
+        # https://github.com/doocs/leetcode/tree/main/solution/2200-2299/2263.Make%20Array%20Non-decreasing%20or%20Non-increasing
             n = len(nums)
             f = [[0] * 1001 for _ in range(n + 1)]
             for i, x in enumerate(nums, 1):
