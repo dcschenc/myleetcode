@@ -1,8 +1,8 @@
 class Solution:
     def fullBloomFlowers(self, flowers: List[List[int]], people: List[int]) -> List[int]:
         # https://github.com/doocs/leetcode/tree/main/solution/2200-2299/2251.Number%20of%20Flowers%20in%20Full%20Bloom
-        start, end = sorted(a for a, _ in flowers), sorted(b for _, b in flowers)
-        return [bisect_right(start, p) - bisect_left(end, p) for p in people]
+        # start, end = sorted(a for a, _ in flowers), sorted(b for _, b in flowers)
+        # return [bisect_right(start, p) - bisect_left(end, p) for p in people]
 
         flowers.sort()
         sorted_people = sorted(people)
