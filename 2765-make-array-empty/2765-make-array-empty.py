@@ -1,7 +1,7 @@
 from sortedcontainers import SortedList
 class Solution:
     def countOperationsToEmptyArray(self, nums: List[int]) -> int:
-        # https://github.com/doocs/leetcode/tree/main/solution/2600-2699/2659.Make%20Array%20Empty
+        # https://github.com/doocs/leetcode/tree/main/solution/2600-2699/2659.Make%20Array%20Empty        
         pos = {x: i for i, x in enumerate(nums)}
         nums.sort()
         sl = SortedList()
