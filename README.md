@@ -3925,6 +3925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/dcschenc/myleetcode/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/dcschenc/myleetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/dcschenc/myleetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
+| [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dcschenc/myleetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/dcschenc/myleetcode/tree/master/3447-clear-digits) |
@@ -4133,6 +4134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-maximum-number-of-books-you-can-take](https://github.com/dcschenc/myleetcode/tree/master/2490-maximum-number-of-books-you-can-take) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dcschenc/myleetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/dcschenc/myleetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
+| [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/dcschenc/myleetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dcschenc/myleetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3513-maximum-array-hopping-score-i](https://github.com/dcschenc/myleetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/dcschenc/myleetcode/tree/master/3529-maximum-array-hopping-score-ii) |
