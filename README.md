@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/dcschenc/myleetcode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3182-maximum-linear-stock-score](https://github.com/dcschenc/myleetcode/tree/master/3182-maximum-linear-stock-score) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dcschenc/myleetcode/tree/master/3183-find-the-k-or-of-an-array) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/dcschenc/myleetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3187-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/dcschenc/myleetcode/tree/master/3187-maximum-profitable-triplets-with-increasing-prices-i) |
 | [3188-find-champion-i](https://github.com/dcschenc/myleetcode/tree/master/3188-find-champion-i) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/dcschenc/myleetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
