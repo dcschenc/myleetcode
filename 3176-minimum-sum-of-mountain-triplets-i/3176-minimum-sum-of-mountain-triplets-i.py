@@ -11,5 +11,5 @@ class Solution:
         for i in range(1, n-1):
             if nums[i] > left[i] and nums[i] > right[i]:
                 ans = min(ans, nums[i] + left[i] + right[i])
-        return ans if ans != float('inf') else -1
+        return ans if ans != inf else -1
       
