@@ -6,7 +6,7 @@ class Solution:
         left, right = [inf] * n, [inf] * n
         for i in range(1, n):
             left[i] = min(left[i - 1], nums[i - 1])
-        for i in range(n-2, -1, -1):
+        for i in range(n - 2, -1, -1):
             right[i] = min(right[i + 1], nums[i + 1])
         for i in range(1, n-1):
             if nums[i] > left[i] and nums[i] > right[i]:
